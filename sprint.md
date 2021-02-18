@@ -1,4 +1,5 @@
-##How to set up and run an Exploration 
+#How to set up and run an Exploration 
+
 Guide for onboarding the partner and setting up the delivery team
 This guide outlines what needs to happen to set up a partner Exploration for success. It covers the series of tasks that a sprint organizer will need to ensure happens:
 Before Exploration 
