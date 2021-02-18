@@ -9,7 +9,7 @@ Exploration is a service where we partner with departments to help them take sto
 
 ## Navigation 
 
-[Exploration Sprint Guide: How to set up and run an Exploration](https://www.google.com) 
+[Exploration Sprint Guide: How to set up and run an Exploration](https://github.com/cds-snc/exploration-documentation/blob/main/Exploration%20Sprint%20Guide) 
 
 [Process Documentation: Background on the service and the framework](https://www.google.com) 
 
