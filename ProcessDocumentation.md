@@ -1,28 +1,32 @@
-# How to set up and run an Exploration 
+# How we created and iterated on Explorations 
+
+Table of contents 
+- Why Exploration? 
+- What we did 
+
+# The problem: Partnership challenges 
+
+(add something about what our Partnerships are?)
+
+Time snags 
+- Learning about partner orgs
+- Creating awareness within the partner orgs
+- Addressing unease
+- Navigating barriers
+
+Obstacles to delivery 
+- Fuzzy problem statements
+- Difficulty accessing users or infrastructure
+- Low digital awareness and readiness 
+- Lengthy and slow approvals
+- Service continuation post partnership
+
+Misaligned visions 
+- Mismatched expectations 
+- Differing priorities 
+- Misunderstanding how CDS works
+- Not meeting departments where they are 
+- Being treated like a vendor, not a partner 
+- Need for service maintenance not recognized
 
 
-## Guide for onboarding the partner and setting up the delivery team
-
-This guide outlines what needs to happen to set up a partner Exploration for success. It covers the series of tasks that a sprint organizer will need to ensure happens:
-
-
-
-*   [Before Exploration](#bookmark=id.tsmu51jrvz9u) 
-*   [During Exploration](#bookmark=id.42zpehs9j168) 
-*   [After Exploration](#bookmark=id.1as6iv2kh73x) 
-
-
-# Before Exploration
-
-
-
-*   [Share the Exploration guide with partners](#bookmark=id.uv07rhqqy4uc)
-*   [Start developing a description of the problem space](#bookmark=kix.ispwt75mhhxf)
-*   [Sign the Exploration agreement](#bookmark=id.66kw6cveinnl)
-*   [Set up weekly check-ins with the partner](#bookmark=id.o9bolu6w6r2u)
-*   [Create team channels and repositories](#bookmark=id.eurww92rx93q)
-*   [Identify and map key stakeholders](#bookmark=id.xlgenchrv1uk)
-*   [Gather background materials](#bookmark=id.jwmkub456gqi)
-*   [Schedule partner meetings](#bookmark=id.thopiqhs3k73)
-*   [Stand up a dedicated Exploration sprint team ](#bookmark=id.ilxsuqxd171n)
-*   [Schedule internal sprint rituals](#bookmark=id.ywfm9nz7m1d9)
