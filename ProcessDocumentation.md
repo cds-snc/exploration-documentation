@@ -42,17 +42,42 @@ An Exploration is a service we deliver to:
 
 To learn about a departments conditions we try to answer these two questions:
 
-To what extent do digital roles and structures exist?
+*To what extent do digital roles and structures exist?*
 - Leadership and coherent direction (coherent policy direction, service priorities and champions)
 - Enabling capacity and infrastructure (modern IT infrastructure, legal, comms and privacy guidance and support)
 - Delivery capability (talent and teams with digital skills, tactics and tools)
  
-To what extent do digital practices exist? 
+*To what extent do digital practices exist?* 
 - Shifting to a product delivery model
 - Cultivating a culture of collaboration 
 - Working in the open 
 - Establishing and empowering multi-disciplinary teams 
 - Conducting user research 
 - Practicing continuous improvement
+
+## How we developed the service
+
+**1. Conducted background research** 
+- Primary research: collecting needs from all delivery communities
+- Secondary research: other frameworks (maturity models) 
+- Peer feedback: ODS, GDS & C4C
+- Global lens: Public Digital & Harvard Kennedy School consultations 
+
+**2. Developed a Theory of Change**
+- Informed evaluation & monitoring plan 
+
+**3. Prototyped the framework and the service**
+- Built Framework: Assessment criteria & questions 
+- Developed processes & artifacts to support a service
+
+**4. Created an org Intake model** 
+- Centralized Intake: reach, readiness & replicability
+- Mapped & connected CDS business units 
+
+**5. Piloted with 4 departments, iterating between each round**
+- Temporary Foreign Worker Program 
+- NRCan CanmetENERGY
+- NRCan Flood mapping 
+- IRCC Refugee resettlement
 
 
