@@ -13,4 +13,4 @@ Exploration is a service where we partner with departments to help them take sto
 
 [Process Documentation: Background on the service and the framework](https://www.google.com) 
 
-[Findings: What we've learned [to come]]
+Findings: What we've learned (to come)
