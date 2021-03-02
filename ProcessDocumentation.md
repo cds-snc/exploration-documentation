@@ -25,6 +25,48 @@ It's been a long journey to get here, and our goals have changed along the way, 
 - **Goal 2:** Determine CDS’ level of involvement.
 - **Goal 3:** Understand the government landscape and learn about patterns and trends.
 
+## How we developed the service
+
+**1. Conducted background research** 
+- Primary research: collected needs from all delivery communities about what makes a good partnership
+- Secondary research: other frameworks (maturity models) 
+- Peer feedback: ODS, GDS & C4C
+- Global lens: Public Digital & Harvard Kennedy School consultations 
+
+**2. Developed a Theory of Change**
+- Created a Theory of Change for the service
+- This informed an evaluation & monitoring plan 
+
+**3. Prototyped the framework and the service**
+- Built the Framework: Assessment criteria & questions 
+- Developed processes & artifacts to support the service
+
+**4. Created an org Intake model** 
+- Centralized Intake for how departments come into our pipeline
+- Mapped & connected CDS business units 
+
+**5. Piloted with 4 departments, iterating between each round**
+- Temporary Foreign Worker Program 
+- NRCan CanmetENERGY
+- NRCan Flood mapping 
+- IRCC Refugee resettlement
+
+## Naming the service
+
+The service has evolved immensely in the time that we've been working on it, which is reflected in the number of times we've changed the name: 3 times. 
+
+**1. Departmental Assessment** 
+
+The service began as a "vetting" tool, a "go/no go" on whether we would partner with a department. But we found that this named only described the part of the service that was evaluative. It sounded a bit like an exam and introduced a power dynamic between the org doing the assessing and the one being assessed. 
+
+**2. Pre-Discovery** 
+
+We moved to the term "Pre-Discovery", to make it sound less intimidating, and also because it fit into our "Discovery, Alpha, Beta, Live" model of phase patterns, which helped communicate what the process was. But after running a couple it became evident that a Pre-Discovery might not always lead to a Discovery phase, that there's multiple ways of helping a department. We also found that doing a Pre-Discovery had value in and of itself for a partner, and it could exist as its own service. So we decided to separate it from the "Discovery, Alpha, Beta, Live" model.
+
+**3. Exploration** 
+
+The latest iteration, and where we've landed currently is "Exploration". We chose this name because we thought it was more reflective of what we're actually doing. We are Exploring digital service conditions by adapting to a new environment: meaning meeting new partners where **they** are at. Failures are okay when exploring and can bring high value and insights as we document and chart a path to build a larger view of the landscape. And even if it doesn’t lead to a Discovery, there are many useful small discoveries along the way. 
+
 ## What is an Exploration? 
 
 We have a couple of hypotheses: 
@@ -54,31 +96,5 @@ To learn about a departments conditions we try to answer these two questions:
 - Establishing and empowering multi-disciplinary teams 
 - Conducting user research 
 - Practicing continuous improvement
-
-## How we developed the service
-
-**1. Conducted background research** 
-- Primary research: collected needs from all delivery communities about what makes a good partnership
-- Secondary research: other frameworks (maturity models) 
-- Peer feedback: ODS, GDS & C4C
-- Global lens: Public Digital & Harvard Kennedy School consultations 
-
-**2. Developed a Theory of Change**
-- Created a Theory of Change for the service
-- This informed an evaluation & monitoring plan 
-
-**3. Prototyped the framework and the service**
-- Built the Framework: Assessment criteria & questions 
-- Developed processes & artifacts to support the service
-
-**4. Created an org Intake model** 
-- Centralized Intake for how departments come into our pipeline
-- Mapped & connected CDS business units 
-
-**5. Piloted with 4 departments, iterating between each round**
-- Temporary Foreign Worker Program 
-- NRCan CanmetENERGY
-- NRCan Flood mapping 
-- IRCC Refugee resettlement
 
 
