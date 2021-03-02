@@ -1,10 +1,12 @@
 # How we created and iterated on Explorations 
 
-Table of contents 
+## Table of contents 
 - Why Exploration? 
 - What we did 
 
-# The problem: Partnership challenges 
+## Why Exploration
+
+### The problem: Partnership challenges 
 
 (add something about what our Partnerships are?)
 
