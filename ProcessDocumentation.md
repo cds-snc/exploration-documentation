@@ -51,7 +51,7 @@ It's been a long journey to get here, and our goals have changed along the way, 
 - NRCan Flood mapping 
 - IRCC Refugee resettlement
 
-## Naming the service
+## Naming the service: what's in a name? 
 
 The service has evolved immensely, which is reflected in the number of times we've iterated on the name: 
 
@@ -61,7 +61,7 @@ The service began as a "vetting" tool, a "go/no go" on whether we would partner 
 
 **2. Pre-Discovery** 
 
-We moved to the term "Pre-Discovery", to make it sound less intimidating, and also because it fit into our "Discovery, Alpha, Beta, Live" model of phase patterns, which helped communicate what the process was. But after running a couple it became evident that a Pre-Discovery might not always lead to a Discovery phase, that there's multiple ways of helping a department. We also found that doing a Pre-Discovery had value in and of itself for a partner, and it could exist as its own service. So we decided to separate it from the "Discovery, Alpha, Beta, Live" model.
+We moved to the term "Pre-Discovery", to make it sound less intimidating, and also because it fit into our "Discovery, Alpha, Beta, Live" model of phase patterns, which helped communicate what the process was. But after running a couple it became evident that it might not always lead to a Discovery phase, that there's multiple ways of helping a department. By calling it a "Pre-Discovery" we weren't managing expectations effectively. We also found that the process had value in and of itself for a partner, and it could exist as its own service. So we decided to separate the name from the "Discovery, Alpha, Beta, Live" model.
 
 **3. Exploration** 
 
@@ -82,7 +82,7 @@ An Exploration is a service we deliver to:
 
 ### Exploring enabling conditions
 
-To learn about a departments conditions we try to answer these two questions:
+To learn about a department's conditions we try to answer these two questions:
 
 *To what extent do digital roles and structures exist?*
 - Leadership and coherent direction (coherent policy direction, service priorities and champions)
@@ -96,5 +96,23 @@ To learn about a departments conditions we try to answer these two questions:
 - Establishing and empowering multi-disciplinary teams 
 - Conducting user research 
 - Practicing continuous improvement
+
+### CDS service model 
+
+As part of our work on this service, we did some mapping of the broader CDS service model, and created a centralized Intake process. 
+
+(add map)
+
+Each of the squares represents one of the services that we offer, such as Notify, Forms, Embedded Partnerships etc and there’s arrows going between all of them, showing how they connect with each other and work together. 
+
+There’s an intake process at the beginning, on the left side. This is how departments come into the organization, and get triaged to different units depending on their needs. 
+
+To describe how the process works, we’ll use our experience with the NRCan flood mapping team. 
+
+(add zoom map)
+
+First, back in the fall, someone from NRCan Flood mapping contacted CDS. Our Head of Business Development qualified whether the request was in our mandate - is it a government org, is the work public-facing? Etc. and is it something that we think is valuable to take on? Once qualified, he had some initial conversations with them to get a sense of the problem space and what ways we may be able to help them. 
+
+It was decided it would probably make the most sense to send them through the Partnerships business line, so he screened the organization to determine whether they were a good candidate for an Exploration. They met the pre-screening criteria, so their partnership was passed into the set up stage for the Exploration process. 
 
 
