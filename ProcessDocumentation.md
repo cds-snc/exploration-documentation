@@ -58,20 +58,21 @@ To learn about a departments conditions we try to answer these two questions:
 ## How we developed the service
 
 **1. Conducted background research** 
-- Primary research: collecting needs from all delivery communities
+- Primary research: collected needs from all delivery communities about what makes a good partnership
 - Secondary research: other frameworks (maturity models) 
 - Peer feedback: ODS, GDS & C4C
 - Global lens: Public Digital & Harvard Kennedy School consultations 
 
 **2. Developed a Theory of Change**
-- Informed evaluation & monitoring plan 
+- Created a Theory of Change for the service
+- This informed an evaluation & monitoring plan 
 
 **3. Prototyped the framework and the service**
-- Built Framework: Assessment criteria & questions 
-- Developed processes & artifacts to support a service
+- Built the Framework: Assessment criteria & questions 
+- Developed processes & artifacts to support the service
 
 **4. Created an org Intake model** 
-- Centralized Intake: reach, readiness & replicability
+- Centralized Intake for how departments come into our pipeline
 - Mapped & connected CDS business units 
 
 **5. Piloted with 4 departments, iterating between each round**
