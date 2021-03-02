@@ -53,7 +53,7 @@ It's been a long journey to get here, and our goals have changed along the way, 
 
 ## Naming the service
 
-The service has evolved immensely in the time that we've been working on it, which is reflected in the number of times we've changed the name: 3 times. 
+The service has evolved immensely, which is reflected in the number of times we've iterated on the name: 
 
 **1. Departmental Assessment** 
 
