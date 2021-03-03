@@ -38,8 +38,8 @@ It's been a long journey to get here, and our goals have changed along the way, 
 - This informed an evaluation & monitoring plan 
 
 **3. Prototyped the framework and the service**
-- Built the Framework: Assessment criteria & questions 
-- Developed processes & artifacts to support the service
+- Framework: Created assessment criteria & questions 
+- Service: Mapped our service model, developed processes & artifacts to support the service
 
 **4. Created an org Intake model** 
 - Centralized Intake for how departments come into our pipeline
