@@ -11,6 +11,6 @@ Exploration is a service where we partner with departments to help them take sto
 
 [Exploration Sprint Guide: How to set up and run an Exploration](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md) 
 
-[Process Documentation: Background on the service and the framework](https://www.google.com) 
+[Process Documentation: Background on the service and the framework](https://github.com/cds-snc/exploration-documentation/blob/main/ProcessDocumentation.md) 
 
 Findings: What we've learned (to come)
