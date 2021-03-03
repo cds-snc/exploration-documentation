@@ -1,9 +1,9 @@
-# How we created and iterated on Explorations 
+# Process documentation: The "Why, How and What" of Exploration 
 
 ## Table of contents 
 - Why Exploration? 
-- What is an Exploration? 
 - How we developed it 
+- What is an Exploration? 
 
 ## Why Exploration
 
@@ -109,23 +109,44 @@ Each of the squares represents one of the services that we offer, such as Notify
 
 There’s an intake process at the beginning, on the left side. This is how departments come into the organization, and get triaged to different units depending on their needs. 
 
-### Service: How the process works 
+### Service: How the process works (overview)
 
 If you want an in-depth look at the process, check out our (add link) How to set up and run an Exploration guide. 
 
-For a shorter overview, you can see how we ran the Exploration with the NRCan Flood mapping team. 
+Explorations are designed to take approximately 4 weeks, with a set up phase prior to that. The process goes as follows... 
 
-(add zoom map)
+Before Exploration: Set-up 
+- Describe the problem space
+- Map key stakeholders
+- Gather background documents
 
-First, in the fall of 2020, someone from NRCan Flood mapping contacted CDS. Our Head of Business Development qualified whether the request was in our mandate - is it a government org, is the work public-facing? Etc. and is it something that we think is valuable to take on? Once qualified, he had some initial conversations with them to get a sense of the problem space and what ways we may be able to help them. 
+Week 1: Internal onboarding 
+- CDS team onboarding meeting
+- Read partner documentation 
+- Review and tailor sprint materials 
 
-It was decided it would probably make the most sense to send them through the Partnerships business line, so we screened the organization to determine whether they were a good candidate for an Exploration. They met the pre-screening criteria, so their partnership was passed into the set up stage for the Exploration process. 
+Week 2: Gather information 
+- Kick off meeting 
+- Interviews
+- Debriefs
+- Scoring
 
-(add process documentation?) 
+Week 3: Synthesize and present internally 
+- Follow up discussions with department
+- Analyze findings 
+- Create playback report
+- Roadmapping exercise with the department 
+- Initial feedback from department 
+- Present internally for feedback 
 
-In the set up stage we worked with the Flood mapping team to gather initial info and schedule meetings with interview participants. Then we started the Exploration, which is designed to take 4 weeks. 
+Week 4: Iterate and present externally 
+- Iterate deck based on feedback 
+- Present final report to partner 
+- Retro the process
 
-During the first week, the CDS sprint team onboarded to the departmental context. Then in the second week, at the beginning we had a kick-off meeting with the Exploration team and the NRCan stakeholders. After the kick-off, we ran a series of interviews with stakeholders across the different functional groups. Each day we would debrief the interviews internally and score the criteria. In the third week we document our insights and create a playback report of our findings and recommendations. We discuss the report internally with senior management, who provides us valuable feedback on the narrative, the recommendations, and the proposed path forward. In the fourth week, we iterate on the report based on the feedback, (change this process) send it to the department and then have a meeting to discuss the content and next steps.
+After Exploration: Transition 
+- Hand off information internally
+- If applicable: offer continued support 
 
-Once everything is said and done, we retro the whole process so we can determine what should be improved for the next time. While this is all happening, our User Researcher is also looking at how the process is working, observing interviews, and running feedback sessions with participants to learn how it went for them. 
+Once everything is said and done, we retro the whole process so we can determine what should be improved for the next time. While this is all happening, our User Researcher is also looking at how the process is working, observing interviews, and running feedback sessions with participants to learn how it went for them. Both of these things inform the next tasks in our backlog. 
 
