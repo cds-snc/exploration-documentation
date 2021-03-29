@@ -20,16 +20,14 @@ What we want is to work with partners who are open and receptive to new ways of 
 So in May of 2020, we launched our work on our new **Exploration Service** by dedicating a multi-disciplinary team to it. 
 
 ### Goals of an Exploration
-It's been a long journey to get here, and our goals have changed along the way, but here is where they stand now:  
+It's been a long journey to get here, and the goals of the service have changed along the way, but here is where they stand now:  
 - **Goal 1:** Explore the partner’s capabilities and readiness to deliver a digital service and provide practical actions to improve.
 - **Goal 2:** Determine CDS’ level of involvement.
 - **Goal 3:** Understand the government landscape and learn about patterns and trends.
 
 ## How we developed the service
 
-We started from scratch in a lot of ways. The typical CDS product team works on digital services, not conceptual frameworks, and so we didn't really have a clear frame of reference for how to approach researching or designing one. This is an overview of the process that we took over the last year: 
-
-### 1. Conducted background research###
+### 1. Conducted background research
 - Primary research: collected needs from all delivery communities about what makes a good partnership
 - Secondary research: reviewed other frameworks such as maturity models, including the USDS Discovery Sprint model which we built our eventual process off of 
 - Peer feedback sessions: Ontario Digital Service (ODS), Government Digital Service (GDS) & CodeforCanada (C4C)
@@ -37,19 +35,19 @@ We started from scratch in a lot of ways. The typical CDS product team works on 
 
 <-- what we found? -->
 
-**2. Developed a Theory of Change**
+### 2. Developed a Theory of Change
 - Created a [Theory of Change](https://trello.com/c/IXrBSPhx/1-monitoring-and-evaluation-workshop-from-merlin-chatwin-c4c-and-laura-nelson-hamilton-ods) for the service
-- This informed an evaluation & monitoring plan 
+- Theory of Change informed an evaluation & monitoring plan 
 
-**3. Prototyped the framework and the service**
+### 3. Prototyped the framework and the service
 - Framework: Created assessment criteria & questions 
 - Service: Mapped the Exploration Service model and developed processes & artifacts to support the service
 
-**4. Created a CDS Intake model** 
-- Mapped CDS's multiple services
-- Centralized Intake for how departments come into our pipeline
+### 4. Created a CDS Intake model 
+- Mapped CDS's multiple service lines
+- Created a centralized Intake to serve departments coming into our pipeline
 
-**5. Piloted with 4 departments, iterating between each round**
+### 5. Piloted with 4 departments, iterating between each round
 - ESDC Temporary Foreign Worker Program 
 - NRCan CanmetENERGY
 - NRCan Flood mapping 
@@ -69,7 +67,7 @@ We moved to the term "Pre-Discovery" because it sounded less intimidating and it
 
 **3. Exploration** 
 
-The latest iteration, and where we've landed currently is "Exploration". We chose this name because we thought it was more reflective of what we're actually doing. We are Exploring digital service conditions by adapting to a new environment and providing tailored help. In other words meeting partners where **they're** at. Failures are okay when exploring and can bring high value and insights as we document and chart a path to build a larger view of the landscape. And even if an Exploration doesn’t lead to a Discovery, there are many useful small discoveries along the way. 
+The latest iteration, and where we've landed currently is "Exploration". We chose this name because we thought it was more reflective of what we're actually doing. We are Exploring digital service conditions by adapting to a new environment and providing tailored help. In other words we're meeting partners where **they're** at. Failures are okay when exploring and can bring high value and insights as we document and chart a path to build a larger view of the landscape. And even if an Exploration doesn’t lead to a Discovery, there are many useful small discoveries along the way. 
 
 ## What is an Exploration? 
 
@@ -84,7 +82,7 @@ An Exploration is a service we deliver to:
 - Provide advice and practical actions to develop and deliver a product or service – or improve an existing one; and
 - Explore how CDS might support a partner on that journey.
 
-An Exploration is comprised of the framework we created and the service we built on top of it. As we deliver the service, we’re learning and iterating on both to improve the Exploration experience and the value that comes from participating in and running one.
+An Exploration is comprised of a **framework** we created and a **service** we built on top of it. As we deliver the service, we’re learning and iterating on both, to improve the Exploration experience and the value that comes from participating in and running one.
 
 ### Framework: Exploring enabling conditions
 
@@ -105,11 +103,13 @@ To learn about a department's conditions we try to answer these two questions:
 
 ### Service: Where Explorations live in the CDS service model 
 
-(add map)
+(add map) 
 
-Each of the squares represents one of the services that we offer, such as Notify, Forms, Embedded Partnerships etc. and there’s arrows going between all of them, showing how they connect with each other and work together. 
+![alt text](https://github.com/cds-snc/exploration-documentation/blob/main/images/Business%20units%20service%20map.png)
 
-There’s also our new Intake process at the beginning, on the left side. This is how departments come into the organization, and get triaged to different units depending on their needs. 
+Each of the squares represents one of the services that we offer, such as Notify, Forms, Embedded Partnerships etc, with arrows going between all of them, showing how they connect with each other and work together. 
+
+Most services start with our new Intake process on the left side of the map. This is how departments come into the organization, and get triaged to different units depending on their needs. Intake may lead to an Exploration (the second box down on the right side), which in turn may lead to other services within CDS. 
 
 ### Service: How the process works (overview)
 
