@@ -101,6 +101,8 @@ To learn about a department's conditions we try to answer these two questions:
 
 ### Service: Where Explorations live in the CDS service model 
 
+This is the map of our overall CDS service model. To read the boxes more closely, click on the image. 
+
 ![Diagram with rectangles. On the left side there's a rectangle labelled "Outreach", which points to "Intake", which then points to 4 different boxes. From top to bottom the boxes are labelled "Partnerships:Embedded Service Design and Delivery", "Partnerships:Exploration", Partnerships: Consulting", "Platform: Notify", "Platform:Forms". Within each of the boxes is there are more boxes showing a process through directional arrows.](https://github.com/cds-snc/exploration-documentation/blob/main/images/Business%20units%20service%20map.png)
 
 Each of the squares represents one of the services that we offer, such as Notify, Forms, Embedded Partnerships etc, with arrows going between all of them, showing how they connect with each other and work together. 
@@ -110,6 +112,8 @@ Most services start with our new Intake process on the left side of the map. Thi
 ### Service: How the process works (overview)
 
 If you want an in-depth look at the process, check out our [How to set up and run an Exploration](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md) guide. 
+
+This is the map of the Exploration service. To read the boxes more closely, click on the image. 
 
 ![alt text to be added](https://github.com/cds-snc/exploration-documentation/blob/main/images/Exploration_service_map.png)
 
