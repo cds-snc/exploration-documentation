@@ -111,7 +111,7 @@ Most services start with our new Intake process on the left side of the map. Thi
 
 ### Service: How the process works (overview)
 
-If you want an in-depth look at the process, check out our (add link) How to set up and run an Exploration guide. 
+If you want an in-depth look at the process, check out our [How to set up and run an Exploration](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md) guide. 
 
 Explorations are designed to take approximately 4 weeks, with a set up phase prior to that. The process goes as follows... 
 
@@ -119,11 +119,12 @@ Before Exploration: Set-up
 - Describe the problem space
 - Map key stakeholders
 - Gather background documents
+- Meet with the partner to set up the sprint
 
 Week 1: Internal onboarding 
 - CDS team onboarding meeting
 - Read partner documentation 
-- Review and tailor sprint materials 
+- Review and tailor sprint materials to the partner
 
 Week 2: Gather information 
 - Kick off meeting 
