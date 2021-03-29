@@ -111,6 +111,8 @@ Most services start with our new Intake process on the left side of the map. Thi
 
 If you want an in-depth look at the process, check out our [How to set up and run an Exploration](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md) guide. 
 
+![alt text to be added](https://github.com/cds-snc/exploration-documentation/blob/main/images/Exploration_service_map.png)
+
 Explorations are designed to take approximately 4 weeks, with a set up phase prior to that. The process goes as follows... 
 
 Before Exploration: Set-up 
