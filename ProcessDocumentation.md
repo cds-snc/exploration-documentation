@@ -33,8 +33,6 @@ It's been a long journey to get here, and the goals of the service have changed 
 - Peer feedback sessions: Ontario Digital Service (ODS), Government Digital Service (GDS) & CodeforCanada (C4C)
 - Global lens: Public Digital & Harvard Kennedy School consultations 
 
-<-- what we found? -->
-
 ### 2. Developed a Theory of Change
 - Created a [Theory of Change](https://trello.com/c/IXrBSPhx/1-monitoring-and-evaluation-workshop-from-merlin-chatwin-c4c-and-laura-nelson-hamilton-ods) for the service
 - Theory of Change informed an evaluation & monitoring plan 
