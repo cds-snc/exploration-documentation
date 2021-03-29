@@ -9,17 +9,17 @@
 
 ### The problem: Partnership challenges 
 
-One of the ways that CDS works with departments is through **Partnerships** where we work on a problem space together. But in the 3 years that CDS has existed, our Partnerships have been hard and slow.
+One of the ways that CDS works with departments is through [Partnerships](https://digital.canada.ca/partnerships/). But in the 3 years that CDS has existed, our Partnerships have been hard and slow. 
 
-Our delivery teams expected to roll up their sleeve and get to work from the get go, but instead ran into blockers. Constraints, such as lengthy and slow approvals, difficulty in getting access to key infrastructure, unexpected legal opinions, fuzzy problem statements and fear of launching something new, have prevented us from building with partners and sharing our work publicly. In some cases it’s even prevented us from taking the final step to go live. 
+Our delivery teams expected to roll up their sleeve and get to work from the get go, but instead ran into blockers. Constraints, such as lengthy and slow approvals, difficulty in getting access to key infrastructure, unexpected legal opinions, fuzzy problem statements and fear of launching something new, have prevented us from building *with* partners and sharing our work publicly. In some cases it’s even prevented us from taking the final step to go live. 
 
-This lead to a difficult and stressful working environment for delivery teams. They were often treated like vendors rather than partners. Our partnerships had a high potential to fail. And because of that, we weren’t doing a good job delivering on our mandate to change government to serve people better.
+This lead to a difficult and stressful working environment for our delivery teams. They were often treated like vendors rather than partners. Our partnerships had a high potential to fail. And because of that, we weren’t doing a good job delivering on our mandate to change government to serve people better.
 
-What we want is to work with partners who are open and receptive to new ways of working: Where they provide access to the people, information and infrastructure we need. And they’re comfortable with us sharing our work, methodologies and experiences beyond the project space.  
+What we want is to work with partners who are open and receptive to new ways of working: Where they provide access to the people, information and infrastructure we need, and they’re comfortable with us sharing our work, methodologies and experiences beyond the project space.  
 
-So in May of 2020, we launched our work on our **Exploration Service**.
+So in May of 2020, we launched our work on our new **Exploration Service** by dedicating a multi-disciplinary team to it. 
 
-#### Goals of an Exploration
+### Goals of an Exploration
 It's been a long journey to get here, and our goals have changed along the way, but here is where they stand now:  
 - **Goal 1:** Explore the partner’s capabilities and readiness to deliver a digital service and provide practical actions to improve.
 - **Goal 2:** Determine CDS’ level of involvement.
@@ -27,29 +27,33 @@ It's been a long journey to get here, and our goals have changed along the way, 
 
 ## How we developed the service
 
-**1. Conducted background research** 
+We started from scratch in a lot of ways. The typical CDS product team works on digital services, not conceptual frameworks, and so we didn't really have a clear frame of reference for how to approach researching or designing one. This is an overview of the process that we took over the last year: 
+
+### 1. Conducted background research###
 - Primary research: collected needs from all delivery communities about what makes a good partnership
-- Secondary research: other frameworks (maturity models) 
-- Peer feedback: ODS, GDS & C4C
+- Secondary research: reviewed other frameworks such as maturity models, including the USDS Discovery Sprint model which we built our eventual process off of 
+- Peer feedback sessions: Ontario Digital Service (ODS), Government Digital Service (GDS) & CodeforCanada (C4C)
 - Global lens: Public Digital & Harvard Kennedy School consultations 
 
+<-- what we found? -->
+
 **2. Developed a Theory of Change**
-- Created a Theory of Change for the service
+- Created a [Theory of Change](https://trello.com/c/IXrBSPhx/1-monitoring-and-evaluation-workshop-from-merlin-chatwin-c4c-and-laura-nelson-hamilton-ods) for the service
 - This informed an evaluation & monitoring plan 
 
 **3. Prototyped the framework and the service**
 - Framework: Created assessment criteria & questions 
-- Service: Mapped our service model, developed processes & artifacts to support the service
+- Service: Mapped the Exploration Service model and developed processes & artifacts to support the service
 
-**4. Created an org Intake model** 
+**4. Created a CDS Intake model** 
+- Mapped CDS's multiple services
 - Centralized Intake for how departments come into our pipeline
-- Mapped & connected CDS business units 
 
 **5. Piloted with 4 departments, iterating between each round**
-- Temporary Foreign Worker Program 
+- ESDC Temporary Foreign Worker Program 
 - NRCan CanmetENERGY
 - NRCan Flood mapping 
-- IRCC Refugee resettlement
+- IRCC Refugee Information Needs
 
 ## Naming the service: what's in a name? 
 
@@ -57,15 +61,15 @@ The service has evolved immensely, which is reflected in the number of times we'
 
 **1. Departmental Assessment** 
 
-The service began as a "vetting" tool, a "go/no go" on whether we would partner with a department. But we found that this named only described the part of the service that was evaluative. It sounded a bit like an exam and introduced a power dynamic between the org doing the assessing and the one being assessed. 
+The service began as a "vetting" tool, a "go/no go" on whether we would partner with a department. But we found that this name only described the part of the service that was evaluative. It sounded a bit like an exam and introduced a power dynamic between the org doing the assessing (us) and the one being assessed (our partners). 
 
 **2. Pre-Discovery** 
 
-We moved to the term "Pre-Discovery", to make it sound less intimidating, and also because it fit into our "Discovery, Alpha, Beta, Live" model of phase patterns, which helped communicate what the process was. But after running a couple it became evident that it might not always lead to a Discovery phase, that there's multiple ways of helping a department. By calling it a "Pre-Discovery" we weren't managing expectations effectively. We also found that the process had value in and of itself for a partner, and it could exist as its own service. So we decided to separate the name from the "Discovery, Alpha, Beta, Live" model.
+We moved to the term "Pre-Discovery" because it sounded less intimidating and it fit into our "Discovery, Alpha, Beta, Live" model of phase patterns, which helped communicate the process. But after running a couple pilots, it became evident that the end might not always lead to a Discovery phase. We learned there's multiple ways of helping a department, and so by calling it a "Pre-Discovery" we weren't managing expectations effectively. We also found that the process had value in and of itself for a partner, and it could exist as its own service. So we decided to separate the name from the "Discovery, Alpha, Beta, Live" model.
 
 **3. Exploration** 
 
-The latest iteration, and where we've landed currently is "Exploration". We chose this name because we thought it was more reflective of what we're actually doing. We are Exploring digital service conditions by adapting to a new environment: meaning meeting new partners where **they** are at. Failures are okay when exploring and can bring high value and insights as we document and chart a path to build a larger view of the landscape. And even if it doesn’t lead to a Discovery, there are many useful small discoveries along the way. 
+The latest iteration, and where we've landed currently is "Exploration". We chose this name because we thought it was more reflective of what we're actually doing. We are Exploring digital service conditions by adapting to a new environment and providing tailored help. In other words meeting partners where **they're** at. Failures are okay when exploring and can bring high value and insights as we document and chart a path to build a larger view of the landscape. And even if an Exploration doesn’t lead to a Discovery, there are many useful small discoveries along the way. 
 
 ## What is an Exploration? 
 
@@ -80,7 +84,7 @@ An Exploration is a service we deliver to:
 - Provide advice and practical actions to develop and deliver a product or service – or improve an existing one; and
 - Explore how CDS might support a partner on that journey.
 
-An Exploration is comprised of a framework and the service, and as we deliver them we’re learning and iterating on both to improve the Exploration experience and the value that comes from participating in one.
+An Exploration is comprised of the framework we created and the service we built on top of it. As we deliver the service, we’re learning and iterating on both to improve the Exploration experience and the value that comes from participating in and running one.
 
 ### Framework: Exploring enabling conditions
 
@@ -101,13 +105,11 @@ To learn about a department's conditions we try to answer these two questions:
 
 ### Service: Where Explorations live in the CDS service model 
 
-As part of our work on this service, we did some mapping of the broader CDS service model, and created a centralized Intake process. 
-
 (add map)
 
-Each of the squares represents one of the services that we offer, such as Notify, Forms, Embedded Partnerships etc and there’s arrows going between all of them, showing how they connect with each other and work together. 
+Each of the squares represents one of the services that we offer, such as Notify, Forms, Embedded Partnerships etc. and there’s arrows going between all of them, showing how they connect with each other and work together. 
 
-There’s an intake process at the beginning, on the left side. This is how departments come into the organization, and get triaged to different units depending on their needs. 
+There’s also our new Intake process at the beginning, on the left side. This is how departments come into the organization, and get triaged to different units depending on their needs. 
 
 ### Service: How the process works (overview)
 
@@ -150,3 +152,24 @@ After Exploration: Transition
 
 Once everything is said and done, we retro the whole process so we can determine what should be improved for the next time. While this is all happening, our User Researcher is also looking at how the process is working, observing interviews, and running feedback sessions with participants to learn how it went for them. Both of these things inform the next tasks in our backlog. 
 
+## Learnings to date
+
+### New enabling conditions
+- Literature in dev ops and our pilot research findings surfaced the importance of an organizational culture that is open to change and adopting new practices
+- In designing timelines with departments, we found that funding limitations and hiring practices can affect feasibility and slow down timelines, so they need to be taken into account early on  
+
+### Value of Explorations
+
+Though we don't have a lot of outcome data yet, follow-up interviews and observations revealed how the process itself is of value: 
+- Participants learn from listening to one another 
+- Partners using the Exploration to inform their roadmap 
+
+We can contunue making the Explorations more efficient and design for providing this impact.
+
+### Explorations inform Partnerships and Partnerships inform Explorations
+
+When we conduct an Exploration, the whole team functions as researchers listening to government. Consequently, we’ve learned more about their needs which means we can share this with our Partnerships business unit. And as we design more flexible and varied partnership options, we can better set expectations during the Exploration about what's possible afterwards. 
+
+### Varied government landscape 
+
+We don’t have enough data yet to see trends, but we have seen two very different examples that show the contrast in deparmental conditions.
