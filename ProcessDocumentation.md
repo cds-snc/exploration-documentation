@@ -1,4 +1,6 @@
-# Process documentation: The "Why, How and What" of Exploration 
+# Process Documentation: How we created and iterated on the service and the framework
+
+For a detailed overview of how an Exploration works, see our [Exploration Sprint Guide](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md).
 
 ## Table of contents 
 - Why Exploration? 
@@ -156,15 +158,25 @@ After Exploration: Transition
 Once everything is said and done, we retro the whole process so we can determine what should be improved for the next time. While this is all happening, our User Researcher is also looking at how the process is working, observing interviews, and running feedback sessions with participants to learn how it went for them. Both of these things inform the next tasks in our backlog. 
 
 ## How we iterated upon Explorations
-Between each pilot, we spent 1 - 2 sprints iterating upon the service based on research findings and team feedback. The goal of these efforts included ways to improve the interview guides, how to refine the process and improve the artifacts related to delivering an Exploration as well as to identify gaps in the framework. 
+Between each pilot, we spent 1 - 2 sprints iterating upon the service based on research findings. The goal of the research included ways to improve the interview guides, how to refine the process and improve the artifacts related to delivering an Exploration as well as to identify gaps in the framework. 
 
-The work consisted of two reseearch activities, observational study and follow-up discussions, and one team ritual, retros.
+The research consisted of two primary activities, observational study and follow-up discussions.
 
 - Observational study: The design researcher on the team observed all interviews with the partner as well as team meetings and rituals that took place as a part of the Exploration. The researcher took notes and collated observations from these interviews and team rituals for analysis.
 - Follow-up interviews: The design researcher conducted follow-up discussions with people from the partner organisation after the primary Exploration interviews took place. Notes from those discussions were aggregated and analyzed.
-- Retros with the team: The project manager held retros after each Exploration to learn from the team what went well and what needed work from each person's perspective.  
 
-Between each Exploration, the researcher presented findings from these efforts back to the team. The project manager drafted action items based on the research findings and retro and added them to the backlog. The project manager then led a team conversation to prioritize tasks for the next sprint and Exploration.
+Between each Exploration, the researcher presented findings from these efforts back to the team. Findings informed the next Exploration through suggesing wasy to improve the guides, augment the framework, and tweak the process. 
+
+### Team model 
+
+Early in the project, we thought that each Exploration would be run by a different team, recruited from a rotating pool of interested parties within CDS. We learned that model wouldn't work for a number of reasons: 
+- Capacity challenges meant that we didn't have a guarantee there would always be people available when we need to run an Exploration, or we ran the risk they might have competing priorities. This created a lot of instability and uncertainty, sometimes right up until the last minute before the sprint. 
+- Not having continuity on the team meant a worse service for our partners - it was important to have at least a few members on the team who had done previous Explorations, because they were able to bring lessons learned forward about how the Sprints were run, as well as insights about what we're seeing in common across multiple departments
+
+After our first pilot with Temporary Foreign Worker Program, we settled on having a single team that was both making improvements to the service, as well as delivering it. We would conduct the 4-week Sprint, and then iterate over 1 - 2 sprints before running another Exploration. During the window of iteration, our PM would lead the team, and during the Exploration our Sprint Lead would. Moving forward, the Exploration Service is going to be moved within our Consulting Service, so the team model will likely continue to change.
+
+For more information on what the skill make-up of our team looked like, see the Stand up a dedicated Exploration sprint team section of our Sprint Guide. 
+
 
 ## Learnings to date
 
