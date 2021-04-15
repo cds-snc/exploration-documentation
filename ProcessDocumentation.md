@@ -155,6 +155,16 @@ After Exploration: Transition
 
 Once everything is said and done, we retro the whole process so we can determine what should be improved for the next time. While this is all happening, our User Researcher is also looking at how the process is working, observing interviews, and running feedback sessions with participants to learn how it went for them. Both of these things inform the next tasks in our backlog. 
 
+## How we iterated upon Explorations
+Between each pilot, we spent 1 - 2 sprints iterating upon the service based on research findings. The goal of the research was to improve the interview guides, process and documentation related to delivering an Exploration and to identify gaps in the framework. 
+The research consisted of two primary activities, observational study and follow-up discussions.
+
+- Observational study: The design researcher on the team observed all interviews with the partner as well as team meetings and rituals that took place as a part of the Exploration. The researcher took notes and collated observations from these interviews and team rituals for analysis.
+- Follow-up interviews: The design researcher conducted follow-up discussions with people from the partner organisation after the primary Exploration interviews took place. Notes from those discussions were aggregated and analyzed.
+
+Between each Exploration, the researcher presented findings from these efforts back to the team. Findings informed the next Exploration through suggesing wasy to improve the guides, augment the framework, and tweak the process. 
+
+
 ## Learnings to date
 
 ### New enabling conditions
