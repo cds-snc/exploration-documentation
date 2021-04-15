@@ -1,7 +1,5 @@
 # Process documentation: The "Why, How and What" of Exploration 
 
-For a detailed overview of how an Exploration works, see our [Exploration Sprint Guide](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md).
-
 ## Table of contents 
 - Why Exploration? 
 - How we developed it 
@@ -158,15 +156,15 @@ After Exploration: Transition
 Once everything is said and done, we retro the whole process so we can determine what should be improved for the next time. While this is all happening, our User Researcher is also looking at how the process is working, observing interviews, and running feedback sessions with participants to learn how it went for them. Both of these things inform the next tasks in our backlog. 
 
 ## How we iterated upon Explorations
-Between each pilot, we spent 1 - 2 sprints iterating upon the service based on research findings. The goal of the research included ways to improve the interview guides, how to refine the process and improve the artifacts related to delivering an Exploration as well as to identify gaps in the framework. 
+Between each pilot, we spent 1 - 2 sprints iterating upon the service based on research findings and team feedback. The goal of these efforts included ways to improve the interview guides, how to refine the process and improve the artifacts related to delivering an Exploration as well as to identify gaps in the framework. 
 
-The research consisted of two primary activities, observational study and follow-up discussions.
+The work consisted of two reseearch activities, observational study and follow-up discussions, and one team ritual, retros.
 
 - Observational study: The design researcher on the team observed all interviews with the partner as well as team meetings and rituals that took place as a part of the Exploration. The researcher took notes and collated observations from these interviews and team rituals for analysis.
 - Follow-up interviews: The design researcher conducted follow-up discussions with people from the partner organisation after the primary Exploration interviews took place. Notes from those discussions were aggregated and analyzed.
+- Retros with the team: The project manager held retros after each Exploration to learn from the team what went well and what needed work from each person's perspective.  
 
-Between each Exploration, the researcher presented findings from these efforts back to the team. Findings informed the next Exploration through suggesing wasy to improve the guides, augment the framework, and tweak the process. 
-
+Between each Exploration, the researcher presented findings from these efforts back to the team. The project manager drafted action items based on the research findings and retro and added them to the backlog. The project manager then led a team conversation to prioritize tasks for the next sprint and Exploration.
 
 ## Learnings to date
 
