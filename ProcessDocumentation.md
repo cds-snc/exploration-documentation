@@ -1,5 +1,7 @@
 # Process documentation: The "Why, How and What" of Exploration 
 
+For a detailed overview of how an Exploration works, see our [Exploration Sprint Guide](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md).
+
 ## Table of contents 
 - Why Exploration? 
 - How we developed it 
