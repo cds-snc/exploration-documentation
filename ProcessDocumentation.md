@@ -185,7 +185,7 @@ The work consisted of two research activities, observational study and follow-up
 - Follow-up interviews: The design researcher conducted follow-up discussions with people from the partner organisation after the primary Exploration interviews took place. Notes from those discussions were aggregated and analyzed.
 - Retros with the team: The project manager held retros after each Exploration to learn from the team what went well and what needed work from each person’s perspective.
 
-Between each Exploration, the researcher presented findings from these efforts back to the team. The project manager drafted action items based on the research findings and retro and added them to the backlog. The project manager then led a team conversation to prioritize tasks for the next sprint and Exploration.
+Between each Exploration, the researcher presented findings from these efforts back to the team. The project manager drafted action items based on the research findings and retro and added them to the backlog. The project manager then led a team conversation to prioritize tasks for the next sprint and Exploration. During the iteration sprints, we followed a regular Agile approach with some needed adjustments due to the nature of the work. 
 
 ### Team model 
 
