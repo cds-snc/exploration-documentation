@@ -166,7 +166,7 @@ Week 3: Synthesize and present internally
 
 Week 4: Iterate and present externally 
 - Iterate deck based on feedback 
-- Present final report to partner 
+- Discuss final report with the partner 
 - Retro the process
 
 After Exploration: Transition 
