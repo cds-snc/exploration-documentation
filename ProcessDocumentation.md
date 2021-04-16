@@ -48,7 +48,7 @@ We created a [Theory of Change](https://trello.com/c/IXrBSPhx/1-monitoring-and-e
 
 ### 3. Prototyped the framework and the service
 
-Explorations consist of two parts, the Framework and the Service. The framework is the theoretical model that the service is based on. It includes criteria organized into categories. The service is the 4-week process and all of the supporting artifacts that we use to deliver the value to the department. We separate the framework and the service into two parts because the framework could also potentially be used as a foundation for other services, such as a self-assessment service.
+The Exploration service consists of two parts, the Framework and the Service. The framework is the theoretical model that the service is based on. It includes criteria organized into categories. The service is the 4-week process and all of the supporting artifacts that we use to deliver the value to the department. We separate the framework and the service into two parts because the framework could also potentially be used as a foundation for other services, such as a self-assessment service.
 
 We started by prototyping the framework criteria and questions, and developing a tool for scoring. At the same time we also mapped the Exploration Service Model and developed processes and artifacts to support delivery of the service/
 
