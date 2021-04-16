@@ -30,28 +30,40 @@ It's been a long journey to get here, and the goals of the service have changed 
 ## How we developed the service
 
 ### 1. Conducted background research
-- Primary research: collected needs from all delivery communities about what makes a good partnership
-- Secondary research: reviewed other frameworks such as maturity models, including the USDS Discovery Sprint model which we built our eventual process off of 
-- Peer feedback sessions: Ontario Digital Service (ODS), Government Digital Service (GDS) & CodeforCanada (C4C)
-- Global lens: Public Digital & Harvard Kennedy School consultations 
+
+#### Secondary research 
+We started out by reviewing other frameworks and models around the globe, such as maturity models and the USDS Discovery Sprint model. We thought we could possibly repurpose content from other sources, but quickly realized that a maturity model wasn't a fit for the problem we were trying to solve. Instead we used that content to map out the common themes we were seeing across the literature. This thematic model became the foundation for our framework. We also adapted the structure of the sprints from the USDS Discovery Sprint model, which became the foundation for our service.   
+
+#### Primary research 
+We collected primary research within CDS by talking to all of the delivery communities. We gathered their perspective on what the necessary conditions for digital service delivery were, based on their experience in government partnerships. We then mapped these needs to the thematic model that we created from our secondary research. The needs and the thematic model together became the framework.
+
+#### Peer feedback sessions 
+In the early stages of the process we meet with peers across other organizations including the Ontario Digital Service (ODS), Government Digital Service (GDS), and CodeforCanada(C4C) to get feedback from them.
+
+#### Global lens
+We also had global consultations from Public Digital and the Harvard Kennedy School. 
 
 ### 2. Developed a Theory of Change
-- Created a [Theory of Change](https://trello.com/c/IXrBSPhx/1-monitoring-and-evaluation-workshop-from-merlin-chatwin-c4c-and-laura-nelson-hamilton-ods) for the service
-- Theory of Change informed an evaluation & monitoring plan 
+We created a [Theory of Change](https://trello.com/c/IXrBSPhx/1-monitoring-and-evaluation-workshop-from-merlin-chatwin-c4c-and-laura-nelson-hamilton-ods) for the service, which informed our evaluation & monitoring plan. 
 
 ### 3. Prototyped the framework and the service
-- Framework: Created assessment criteria & questions 
-- Service: Mapped the Exploration Service model and developed processes & artifacts to support the service
+
+Explorations consist of two parts, the Framework and the Service. The framework is the theoretical model that the service is based on. It includes criteria organized into categories. The service is the 4-week process and all of the supporting artifacts that we use to deliver the value to the department. We separate the framework and the service into two parts because the framework could also potentially be used as a foundation for other services, such as a self-assessment service.
+
+We started by prototyping the framework criteria and questions, and developing a tool for scoring. At the same time we also mapped the Exploration Service Model and developed processes and artifacts to support delivery of the service/
 
 ### 4. Created a CDS Intake model 
-- Mapped CDS's multiple service lines
-- Created a centralized Intake to serve departments coming into our pipeline
+Through this project we had identified a need for a more defined and centralized Intake process, so we also took a broader look at CDS as a whole and mapped out all of our service lines. We then created a centralized Intake to serve departments coming into our pipeline.
 
-### 5. Piloted with 4 departments, iterating between each round
+### 5. Piloted with 4 programs, iterating between each round
+
+Since September of 2020, we have piloted with 4 programs, in 3 departments:
 - ESDC Temporary Foreign Worker Program 
 - NRCan CanmetENERGY
 - NRCan Flood mapping 
 - IRCC Refugee Information Needs
+
+Throughout the pilots we collect research insights on how well the process is or isn't working, and then we spend 1-2 sprints iterating in between each round.
 
 ## Naming the service: what's in a name? 
 
@@ -171,13 +183,13 @@ Between each Exploration, the researcher presented findings from these efforts b
 
 ### Team model 
 
-Early in the project, we thought that each Exploration would be run by a different team, recruited from a rotating pool of interested parties within CDS. We learned that model wouldn't work for a number of reasons: 
-- Capacity challenges meant that we didn't have a guarantee there would always be people available when we need to run an Exploration, or we ran the risk they might have competing priorities. This created a lot of instability and uncertainty, sometimes right up until the last minute before the sprint. 
-- Not having continuity on the team meant a worse service for our partners - it was important to have at least a few members on the team who had done previous Explorations, because they were able to bring lessons learned forward about how the Sprints were run, as well as insights about what we're seeing in common across multiple departments
+Early in the project, we thought that each Exploration would be run by a different team each time, recruited from a rotating pool of interested parties within CDS. We learned that model wouldn't work for a number of reasons: 
+- Capacity challenges meant that we didn't have a guarantee there would always be people available when we need to run an Exploration, or we ran the risk the people might have competing priorities. This created a lot of instability and uncertainty, sometimes right up until the last minute before the sprint. 
+- Not having continuity on the team meant a worse service for our partners - it was important to have at least a few members on the team who had done previous Explorations, because they were able to bring lessons learned forward about how the Sprints were run, as well as insights about what we're seeing in common across multiple departments.
 
-After our first pilot with Temporary Foreign Worker Program, we settled on having a single team that was both making improvements to the service, as well as delivering it. We would conduct the 4-week Exploration Sprint, and then iterate over 1 - 2 sprints before running the next Exploration. During the window of iteration, our PM would lead the team, and during the Exploration Sprint our Sprint Lead would. For more information on what the skill make-up of our team looked like, see the Stand up a dedicated Exploration sprint team section of our Sprint Guide. 
+After our first pilot, we tried out having a single team that would both make improvements to the service, as well as deliver it. We would conduct the 4-week Exploration Sprint, and then iterate over 1 - 2 sprints before running the next Exploration. During the window of iteration, our PM would lead the team, and during the Exploration Sprint our Sprint Lead would. For more information on what the skill make-up of our team looked like, see the "Stand up a dedicated Exploration sprint team section" of our Sprint Guide. 
 
-Moving forward, the Exploration Service is going to be moved within our Consulting Service, so the team model will likely continue to change.
+Moving forward, the Exploration Service is going to be moved within our Consulting Service, so the team model will likely continue to change as we learn about how to best deliver Explorations.
 
 ## Learnings to date
 
