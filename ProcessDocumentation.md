@@ -32,7 +32,9 @@ It's been a long journey to get here, and the goals of the service have changed 
 ### 1. Conducted background research
 
 #### Secondary research 
-We started out by reviewing other frameworks and models around the globe, such as maturity models and the USDS Discovery Sprint model. We thought we could possibly repurpose content from other sources, but quickly realized that a maturity model wasn't a fit for the problem we were trying to solve. Instead we used that content to map out the common themes we were seeing across the literature. This thematic model became the foundation for our framework. We also adapted the structure of the sprints from the USDS Discovery Sprint model, which became the foundation for our service.   
+We started out by reviewing other frameworks and models around the globe, such as maturity models and the USDS Discovery Sprint model. We thought we could possibly repurpose content from other sources, but quickly realized that a maturity model wasn't a fit for the problem we were trying to solve. Instead we used those models to map out the common themes we were seeing across the literature. The resulting thematic model became the foundation for our framework. 
+
+Another source of secondary research, we also adapted the structure of the sprints from the [USDS Discovery Sprint](https://sprint.usds.gov/preparing/) model, which became the foundation for our service. Note: the USDS documentation linked here is a newer iteration of the one that we worked with at the beginning of our project.   
 
 #### Primary research 
 We collected primary research within CDS by talking to all of the delivery communities. We gathered their perspective on what the necessary conditions for digital service delivery were, based on their experience in government partnerships. We then mapped these needs to the thematic model that we created from our secondary research. The needs and the thematic model together became the framework.
