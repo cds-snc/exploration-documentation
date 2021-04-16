@@ -37,6 +37,8 @@ We started out by reviewing other frameworks and models around the globe, such a
 #### Primary research 
 We collected primary research within CDS by talking to all of the delivery communities. We gathered their perspective on what the necessary conditions for digital service delivery were, based on their experience in government partnerships. We then mapped these needs to the thematic model that we created from our secondary research. The needs and the thematic model together became the framework.
 
+![Diagram with rectangles. On the left side there's a rectangle labelled "Outreach", which points to "Intake", which then points to 4 different boxes. From top to bottom the boxes are labelled "Partnerships:Embedded Service Design and Delivery", "Partnerships:Exploration", Partnerships: Consulting", "Platform: Notify", "Platform:Forms". Within each of the boxes is there are more boxes showing a process through directional arrows.](https://github.com/cds-snc/exploration-documentation/blob/main/images/Assessment%20Criteria%20Synthesis.png)
+
 #### Peer feedback sessions 
 In the early stages of the process we meet with peers across other organizations including the Ontario Digital Service (ODS), Government Digital Service (GDS), and CodeforCanada(C4C) to get feedback from them.
 
@@ -45,6 +47,8 @@ We also had global consultations from Public Digital and the Harvard Kennedy Sch
 
 ### 2. Developed a Theory of Change
 We created a [Theory of Change](https://trello.com/c/IXrBSPhx/1-monitoring-and-evaluation-workshop-from-merlin-chatwin-c4c-and-laura-nelson-hamilton-ods) for the service, which informed our evaluation & monitoring plan. 
+
+![Diagram with rectangles. On the left side there's a rectangle labelled "Outreach", which points to "Intake", which then points to 4 different boxes. From top to bottom the boxes are labelled "Partnerships:Embedded Service Design and Delivery", "Partnerships:Exploration", Partnerships: Consulting", "Platform: Notify", "Platform:Forms". Within each of the boxes is there are more boxes showing a process through directional arrows.](https://github.com/cds-snc/exploration-documentation/blob/main/images/Pre-Discovery%20Theory%20of%20Change.png)
 
 ### 3. Prototyped the framework and the service
 
