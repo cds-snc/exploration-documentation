@@ -160,7 +160,7 @@ Once everything is said and done, we retro the whole process so we can determine
 ## How we iterated upon Explorations
 
 ### Research 
-Between each pilot, we spent 1 - 2 sprints iterating upon the service based on research findings and team feedback. The goal of these efforts included ways to improve the interview guides, how to refine the process and improve the artifacts related to delivering an Exploration as well as to identify gaps in the framework.
+Between each pilot, we spent 1 - 2 sprints iterating upon the service based on research findings and team feedback. The goals of these efforts included improving process by iterating on the interview guides and improving the artifacts related to delivering an Exploration. We also used the work to identify and address gaps in the framework.
 
 The work consisted of two research activities, observational study and follow-up discussions, and one team ritual, retros.
 - Observational study: The design researcher on the team observed all interviews with the partner as well as team meetings and rituals that took place as a part of the Exploration. The researcher took notes and collated observations from these interviews and team rituals for analysis.
