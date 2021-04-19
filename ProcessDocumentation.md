@@ -54,8 +54,6 @@ We created a [Theory of Change](https://trello.com/c/IXrBSPhx/1-monitoring-and-e
 
 ### 3. Prototyped the framework and the service
 
-The Exploration service consists of two parts, the Framework and the Service. The framework is the theoretical model that the service is based on. It includes criteria organized into categories. The service is the 4-week process and all of the supporting artifacts that we use to deliver the value to the department. We separate the framework and the service into two parts because the framework could also potentially be used as a foundation for other services, such as a self-assessment service.
-
 We started by prototyping the framework criteria and questions. At the same time we also mapped the Exploration Service Model and developed processes and artifacts to support delivery of the service.
 
 ### 4. Created a CDS Intake model 
@@ -100,11 +98,13 @@ An Exploration is a service we deliver to:
 - Provide advice and practical actions to develop and deliver a product or service – or improve an existing one; and
 - Explore how CDS might support a partner on that journey.
 
-An Exploration is comprised of a **framework** we created and a **service** we built on top of it. As we deliver the service, we’re learning and iterating on both, to improve the Exploration experience and the value that comes from participating in and running one.
+An Exploration is comprised of a **framework** we created and a **service** we built on top of it. The framework includes criteria organized into categories. The service is the 4-week process and all of the supporting artifacts that we use to deliver the value to the department. We separate the framework and the service into two parts because the framework could also potentially be used as a foundation for other services, such as a self-assessment service.
+
+As we deliver the service, we’re learning and iterating on both, to improve the Exploration experience and the value that comes from participating in and running one.
 
 ### Framework: Exploring enabling conditions
 
-To learn about a department's conditions we try to answer these two questions:
+To learn about a department's conditions we look at these two areas:
 
 *To what extent do digital roles and structures exist?*
 - Leadership and coherent direction (coherent policy direction, service priorities and champions)
