@@ -6,6 +6,8 @@ For a detailed overview of how an Exploration works, see our [Exploration Sprint
 - Why Exploration? 
 - How we developed it 
 - What is an Exploration? 
+- How we iterated on Explorations
+- Learnings to Date
 
 ## Why Exploration
 
