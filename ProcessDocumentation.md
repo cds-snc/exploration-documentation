@@ -8,7 +8,7 @@ For a detailed overview of how an Exploration works, see our [Exploration Sprint
 - How we named the service: What's in a name?
 - What is an Exploration? 
 - How we iterated on Explorations
-- Learnings to Date
+- Our learnings to Date
 
 ## Why we do Explorations
 
@@ -188,7 +188,7 @@ To gather insights, we conducted two research activities, observational study an
 
 Between each Exploration, the researcher presented findings from these efforts back to the team. The project manager drafted action items based on the research findings and retro and added them to the backlog. The project manager then led a team conversation to prioritize tasks for the next sprint and Exploration. During the iteration sprints we followed a regular Agile approach, though we adjusted it to meet the needs of the project.
 
-## Learnings to date
+## Our learnings to date
 
 ### New enabling conditions
 - Literature in dev ops and our pilot research findings surfaced the importance of an organizational culture that is open to change and adopting new practices
