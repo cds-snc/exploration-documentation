@@ -3,13 +3,14 @@
 For a detailed overview of how an Exploration works, see our [Exploration Sprint Guide](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md).
 
 ## Table of contents 
-- Why Exploration? 
-- How we developed it 
+- Why we do Explorations 
+- How we developed the service 
+- How we named the service: What's in a name?
 - What is an Exploration? 
 - How we iterated on Explorations
 - Learnings to Date
 
-## Why Exploration
+## Why we do Explorations
 
 ### The problem: Partnership challenges 
 
@@ -71,7 +72,7 @@ Since September of 2020, we have piloted with 4 programs, in 3 departments:
 
 Throughout the pilots we collect research insights on how well the process is or isn't working, and then we spend 1-2 sprints iterating in between each round.
 
-## Naming the service: what's in a name? 
+## How we named the service: what's in a name? 
 
 The service has evolved immensely, which is reflected in the number of times we've iterated on the name: 
 
