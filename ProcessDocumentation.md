@@ -42,7 +42,7 @@ Another source of secondary research, we also adapted the structure of the sprin
 #### Primary research 
 We collected primary research within CDS by talking to all of the delivery communities. We gathered their perspective on what the necessary conditions for digital service delivery were, based on their experience in government partnerships. We then mapped these needs to the thematic model that we created from our secondary research. The needs and the thematic model together became the framework.
 
-![Diagram with rectangles. On the left side there's a rectangle labelled "Outreach", which points to "Intake", which then points to 4 different boxes. From top to bottom the boxes are labelled "Partnerships:Embedded Service Design and Delivery", "Partnerships:Exploration", Partnerships: Consulting", "Platform: Notify", "Platform:Forms". Within each of the boxes is there are more boxes showing a process through directional arrows.](https://github.com/cds-snc/exploration-documentation/blob/main/images/Assessment%20Criteria%20Synthesis.png)
+![Digital sticky notes organized on a grid with two axes. Down the left axis there's 3 rows labelled "Strategic Direction and Leadership", "Enabling Capacity" and "Enabling Delivery". Along the top axis there's 9 columns labelled "Cross-discipline", "Research", "Design", "Dev/Engineering/Security", "Partnerships", "Outreach", "Policy", "Product", and "Screening".](https://github.com/cds-snc/exploration-documentation/blob/main/images/Assessment%20Criteria%20Synthesis.png)
 
 #### Peer feedback sessions 
 In the early stages of the process we meet with peers across other organizations including the Ontario Digital Service (ODS), Government Digital Service (GDS), and CodeforCanada(C4C) to get feedback from them.
