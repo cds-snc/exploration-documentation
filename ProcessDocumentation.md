@@ -94,33 +94,32 @@ We have a couple of hypotheses:
 1. If CDS better understands the existing conditions within a service context then it will be able to better tailor its help to a department, and
 2. If enabling conditions and practices are present then teams will deliver better products and services. 
 
-An Exploration is a service we deliver to:
-- Understand the existing delivery conditions and practices within a service context;
-- Identify ways to introduce digital practices, like conducting user research and practicing continuous improvement;
-- Make recommendations on ways to shift conditions to enable those practices, if and where needed;
-- Provide advice and practical actions to develop and deliver a product or service – or improve an existing one; and
-- Explore how CDS might support a partner on that journey.
+Often departments approach CDS for help, but it is hard to know how we might best support them without having a better picture of the service opportunity and the delivery conditions and practices in place. By conducting an Exploration, we help the department take stock, while building our own understanding to inform potential next steps. 
 
-An Exploration is comprised of a **framework** we created and a **service** we built on top of it. The framework includes criteria organized into categories. The service is the 4-week process and all of the supporting artifacts that we use to deliver the value to the department. We separate the framework and the service into two parts because the framework could also potentially be used as a foundation for other services, such as a self-assessment service.
+Through discussions with executives, team members and departmental representatives across a variety of functional areas, like policy, IT, program delivery, communications,  legal, and privacy, CDS looks at the existing conditions and practices and the extent to which they enable digital service delivery.  
+
+This structured look-under-the-hood approach helps us deliver timely, incremental value to the department, and gives us the information we need to inform if and how CDS might continue to partner. This could be, for example, through consulting, an embedded service design and delivery team, or by connecting them to CDS platform services.
+
+An Exploration is comprised of a **framework** we created and a **service** we built on top of it. The framework includes criteria organized into categories. The service is the 4-week process and all of the supporting artifacts that we use to deliver value to the department. We separate the framework and the service into two parts because the framework could also potentially be used as a foundation for other services, such as a self-assessment service.
 
 As we deliver the service, we’re learning and iterating on both, to improve the Exploration experience and the value that comes from participating in and running one.
 
 ### Framework: Exploring enabling conditions
 
-To learn about a department's conditions we look at these two areas:
+We use the following two areas of criteria to inform recommendations to improve digital delivery within a particular service context and opportunity:
 
 *To what extent do digital roles and structures exist?*
-- Leadership and coherent direction (coherent policy direction, service priorities and champions)
-- Enabling capacity and infrastructure (modern IT infrastructure, legal, comms and privacy guidance and support)
-- Delivery capability (talent and teams with digital skills, tactics and tools)
+- leadership and coherent direction (coherent policy direction, service priorities and champions)
+- enabling capacity and infrastructure (modern IT infrastructure, legal, comms and privacy guidance and support)
+- delivery capability (talent and teams with digital skills, tactics and tools)
  
 *To what extent do digital practices exist?* 
-- Shifting to a product delivery model
-- Cultivating a culture of collaboration 
-- Working in the open 
-- Establishing and empowering multi-disciplinary teams 
-- Conducting user research 
-- Practicing continuous improvement
+- establishing and empowering multidisciplinary teams; 
+- conducting user research to make service design decisions informed by user feedback;
+- practicing continuous improvement; 
+- working in the open; 
+- cultivating a culture of collaboration; and, 
+- shifting to a service delivery model (i.e., ensuring prioritization and funding for digital services, including talent development and recruitment and access to modern tools and infrastructure).
 
 ### Service: Where Explorations live in the CDS service model 
 
