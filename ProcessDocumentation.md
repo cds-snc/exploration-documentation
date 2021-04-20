@@ -53,7 +53,7 @@ We also had global consultations from Public Digital and the Harvard Kennedy Sch
 ### 2. Developed a Theory of Change
 We created a [Theory of Change](https://trello.com/c/IXrBSPhx/1-monitoring-and-evaluation-workshop-from-merlin-chatwin-c4c-and-laura-nelson-hamilton-ods) for the service, which informed our evaluation & monitoring plan. 
 
-![Diagram with rectangles. On the left side there's a rectangle labelled "Outreach", which points to "Intake", which then points to 4 different boxes. From top to bottom the boxes are labelled "Partnerships:Embedded Service Design and Delivery", "Partnerships:Exploration", Partnerships: Consulting", "Platform: Notify", "Platform:Forms". Within each of the boxes is there are more boxes showing a process through directional arrows.](https://github.com/cds-snc/exploration-documentation/blob/main/images/Pre-Discovery%20Theory%20of%20Change.png)
+![Diagram made up of rectangles and arrows. The main part of the diagram starts with two boxes labelled "Activities" and "Outputs", an arrow points to the next box labelled "Reach and reaction". The boxes that follow (directed by arrows) are "Capacity changes", "Behaviour changes", "Immediate benefits", "Long-term changes". A vertical rectangle down the left side of the diagram has descriptions of what each of these things mean. On the right side of the diagram there are additional boxes that list out "Assumptions", "Supporting activities", "Possible indicators", and possible data sources for each of the afformentioned boxes.](https://github.com/cds-snc/exploration-documentation/blob/main/images/Pre-Discovery%20Theory%20of%20Change.png)
 
 ### 3. Prototyped the framework and the service
 
@@ -138,7 +138,7 @@ If you want an in-depth look at the process, check out our [How to set up and ru
 
 This is the map of the Exploration service. To read the boxes more closely, click on the image. 
 
-![alt text to be added](https://github.com/cds-snc/exploration-documentation/blob/main/images/Exploration_service_map.png)
+![A grid. Down the left axis there are two sections labelled "Front-stage" and "Back-stage". In the first section, the rows are labelled "Stage", "Phase", "Department actors", "CDS actors", and "Touchpoints". In the second section, the rows are labelled "Department actors", "CDS actors", "Supporting artifacts", "Outputs", and "Pains". Along the top axis, in the "Stage" row, the headings are as follows: "Outreach", "Intake", "Before Exploration", "Exploration", and "Post Exploration". In the second row called "Phase", the boxes are as follows: "Unawareness", "Awareness", "Entry", "Initial Qualify (if possible)", "Introduction/final qualify", "Generating support", "Set-up", "Phase 1: Onboarding", "Phase 2: Gather information", "Phase 3: Synthesize and present internally", "Phase 4: Iterate and collaborate externally", "Partnership design", and "Partnership set-up". In each of the columns there is supporting text that corresponds which each row.](https://github.com/cds-snc/exploration-documentation/blob/main/images/Exploration_service_map.png)
 
 Explorations are designed to take approximately 4 weeks, with a set up phase prior to that. The process goes as follows... 
 
