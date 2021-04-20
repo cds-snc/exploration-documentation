@@ -14,9 +14,9 @@ For a detailed overview of how an Exploration works, see our [Exploration Sprint
 
 ### The problem: Partnership challenges 
 
-One of the ways that CDS works with departments is through [Partnerships](https://digital.canada.ca/partnerships/). But in the 3 years that CDS has existed, our Partnerships have been hard and slow. 
+One of the ways that CDS works with departments is through [Partnerships](https://digital.canada.ca/partnerships/). But, in the 3 years that CDS has existed, our Partnerships have been hard and slow. 
 
-Our delivery teams expected to roll up their sleeve and get to work from the get go, but instead ran into blockers. Constraints, such as lengthy and slow approvals, difficulty in getting access to key infrastructure, unexpected legal opinions, fuzzy problem statements and fear of launching something new, have prevented us from building *with* partners and sharing our work publicly. In some cases it’s even prevented us from taking the final step to go live. 
+Our delivery teams expected to roll up their sleeves and get to work from the get go, instead they ran into blockers. Constraints, such as lengthy and slow approvals, difficulty in getting access to key infrastructure, unexpected legal opinions, fuzzy problem statements and fear of launching something new, have prevented us from building *with* partners and sharing our work publicly. In some cases, it’s even prevented us from taking the final step to go live. 
 
 This lead to a difficult and stressful working environment for our delivery teams. They were often treated like vendors rather than partners. Our partnerships had a high potential to fail. And because of that, we weren’t doing a good job delivering on our mandate to change government to serve people better.
 
@@ -57,7 +57,7 @@ We created a [Theory of Change](https://trello.com/c/IXrBSPhx/1-monitoring-and-e
 
 ### 3. Prototyped the framework and the service
 
-We started by prototyping the framework criteria and questions. At the same time we also mapped the Exploration Service Model and developed processes and artifacts to support delivery of the service.
+We started by prototyping the framework criteria and questions. At the same time, we also mapped the Exploration Service Model and developed processes and artifacts to support delivery of the service.
 
 ### 4. Created a CDS Intake model 
 Through this project we had identified a need for a more defined and centralized Intake process, so we also took a broader look at CDS as a whole and mapped out all of our service lines. We then created a centralized Intake to serve departments coming into our pipeline.
@@ -66,11 +66,11 @@ Through this project we had identified a need for a more defined and centralized
 
 Since September of 2020, we have piloted with 4 programs, in 3 departments:
 - ESDC Temporary Foreign Worker Program 
-- NRCan CanmetENERGY
-- NRCan Flood mapping 
-- IRCC Refugee Information Needs
+- NRCan CanmetENERGY LEEP Program
+- NRCan CCMEO Flood Mapping Program
+- IRCC Refugee Information Needs Initiative
 
-Throughout the pilots we collect research insights on how well the process is or isn't working, and then we spend 1-2 sprints iterating in between each round.
+Throughout the pilots we collect research insights on what within the process is or isn't working, and then we spend 1-2 sprints iterating in between each round.
 
 ## How we named the service: what's in a name? 
 
@@ -163,12 +163,12 @@ Week 3: Synthesize and present internally
 - Follow up discussions with department
 - Analyze findings 
 - Create playback report
-- Roadmapping exercise with the department 
-- Initial feedback from department 
 - Present internally for feedback 
 
 Week 4: Iterate and present externally 
-- Iterate deck based on feedback 
+- Roadmapping exercise with the department 
+- Initial feedback from department 
+- Iterate based on feedback 
 - Discuss final report with the partner 
 - Retro the process
 
@@ -191,7 +191,7 @@ Between each Exploration, the researcher presented findings from these efforts b
 ## Our learnings to date
 
 ### New enabling conditions
-- Literature in dev ops and our pilot research findings surfaced the importance of an organizational culture that is open to change and adopting new practices
+- Literature in devops and our pilot research findings surfaced the importance of an organizational culture that is open to change and adopting new practices
 - In designing timelines with departments, we found that funding limitations and hiring practices can affect feasibility and slow down timelines, so they need to be taken into account early on  
 
 ### Value of Explorations
