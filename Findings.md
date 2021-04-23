@@ -18,7 +18,7 @@ As of April 2021, we've run 4 pilot Explorations with 3 departments and 4 progra
 
 [EN Report](https://github.com/cds-snc/exploration-documentation/blob/main/images/CDS_Exploration_Final_Report_NRCan_Flood_Mapping.pdf)
 
-[FR Report]
+[FR Report](https://github.com/cds-snc/exploration-documentation/blob/main/images/Cartographie_des_zones_inondable_RNCan_Rapport_final.pdf)
 
 ## Pilot 4: IRCC Refugee Information Needs 
 
