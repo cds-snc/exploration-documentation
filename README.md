@@ -13,4 +13,4 @@ Exploration is a service where we partner with departments to help them take sto
 
 [Process Documentation: How we created and iterated on the service and the framework](https://github.com/cds-snc/exploration-documentation/blob/main/ProcessDocumentation.md) 
 
-Findings: What we've learned (to come)
+[Findings: What we've learned (to come)](https://github.com/cds-snc/exploration-documentation/blob/main/Findings.md)
