@@ -14,15 +14,15 @@ For a detailed overview of how an Exploration phase works, see our [Exploration 
 
 ### The problem: Partnership challenges 
 
-One of the ways CDS works with government organizations is through [Partnerships](https://digital.canada.ca/partnerships/). In the 3 years that CDS has existed, our partnerships have often been difficult, and slow, processes. 
+One of the ways CDS works with government organizations is through [Partnerships](https://digital.canada.ca/partnerships/). In the 3 years that CDS has existed, our partnerships have often been difficult and slow to find lasting success. 
 
 Our delivery teams expected to roll up their sleeves and get to work quickly, but encountered unforseen blockers. Constraints such as lengthy and slow approval processes, difficulty getting access to infrastructure like databases, unexpected legal input, unclear problem statements, and simple fear of launching something new, have prevented CDS from building *with* partners and sharing our work publicly. In some cases, these constraints have even prevented services from going live at the final stages.
 
-This created a difficult and stressful working environment for our delivery teams. They were often treated like vendors rather than partners. Our partnerships were seen as having a high potential to fail. Because of these constraints aand pereceptions, CDS wasn’t doing a good job delivering on our mandate to change government to serve people better.
+This created a difficult and stressful working environment for our delivery teams. They were often treated like vendors rather than partners. Our partnerships were seen as having a high potential to fail. Because of these constraints, CDS wasn’t doing a good job delivering on our mandate to change government to serve people better.
 
-What we want is to work with partners who are open and receptive to new ways of working: where they provide access to the people, information, and infrastructure, and are comfortable sharing the work, methodologies, and experiences beyond the project space. 
+What we want is to work with partners who are open and receptive to new ways of working: Where they provide access to the people, information and infrastructure we need, and they’re comfortable with us sharing our work, methodologies and experiences beyond the project space. 
 
-In May of 2020, CDS launched work on a new **Exploration** service, dedicating a multi-disciplinary team to iterating on what such a service could look like. 
+In May of 2020, CDS launched work on a new **Exploration** service, dedicating a multi-disciplinary team to ideate and iterate on what such a service could look like. 
 
 ### Goals of an Exploration
 Through experimentation and consulting with partners and leadership, the goals of an Exploration are:  
@@ -45,7 +45,7 @@ We collected primary research from all of the delivery communities in CDS. We ga
 ![Digital sticky notes organized on a grid with two axes. Down the left axis there's 3 rows labelled "Strategic Direction and Leadership", "Enabling Capacity" and "Enabling Delivery". Along the top axis there's 9 columns labelled "Cross-discipline", "Research", "Design", "Dev/Engineering/Security", "Partnerships", "Outreach", "Policy", "Product", and "Screening".](https://github.com/cds-snc/exploration-documentation/blob/main/images/Assessment%20Criteria%20Synthesis.png)
 
 #### Peer feedback and consultations
-In the early stages of the process we meet with peers across other organizations including the Ontario Digital Service (ODS), Government Digital Service (GDS), and CodeforCanada(C4C) to gather feedback from them. We also engaged consultations from global organizations like Public Digital, and the Harvard Kennedy School. 
+In the early stages of the process we met with peers across other organizations including the Ontario Digital Service (ODS), Government Digital Service (GDS), and CodeforCanada(C4C) to gather feedback from them. We also engaged consultations from global organizations like Public Digital, and the Harvard Kennedy School. 
 
 ### 2. Develop a theory of change
 We created a [theory of change](https://trello.com/c/IXrBSPhx/1-monitoring-and-evaluation-workshop-from-merlin-chatwin-c4c-and-laura-nelson-hamilton-ods) for the service, which informed our evaluation & monitoring plan. 
@@ -54,12 +54,12 @@ We created a [theory of change](https://trello.com/c/IXrBSPhx/1-monitoring-and-e
 
 ### 3. Prototype the framework and the service
 
-We started by prototyping the framework criteria and questions. At the same time, we also mapped the Exploration Service Model and developed processes and artifacts to support delivery of the service. Deliverables in this stage included draft interview guides, maps of potential product development engagements, and stakeholder mapping tools. 
+We started by prototyping the framework criteria and questions. At the same time, we also mapped the Exploration Service Model and developed processes and artifacts to support delivery of the service. Deliverables in this stage included draft interview guides, maps of what different levels of CDS engagement with partners could look like, and stakeholder mapping tools. 
 
 ### 4. Create a CDS intake model 
 We identified a need for a more defined and centralized intake process, so we also took a broader look at CDS as a whole and mapped out all of the organization's service lines/lines of business. We then created a centralized intake process to serve departments coming into our pipeline.
 
-### 5. Pilot programs, iterating between each engagement
+### 5. Service pilots and iterations
 
 Since September of 2020, we have piloted with 4 programs, in 3 departments:
 - ESDC Temporary Foreign Worker Program 
@@ -79,7 +79,7 @@ The service began as a "vetting" tool, a "go/no go" on whether we would partner 
 
 **2. Pre-Discovery** 
 
-We moved to the term "Pre-Discovery" because it sounded less intimidating and it fit into our "Discovery, Alpha, Beta, Live" model of phase patterns – which helped communicate the process. After running a couple pilot programs with partners, it became evident that the end might not always lead to a Discovery phase. We learned there's multiple ways of helping a department, so by calling the service "Pre-Discovery," we weren't managing expectations effectively. We also found that the process had intrinsic value for a partner, and it could exist as its own service. We decided to separate the name from the "Discovery, Alpha, Beta, Live" model.
+We moved to the term "Pre-Discovery" because it sounded less intimidating and it fit into our "Discovery, Alpha, Beta, Live" model of phase patterns – which helped communicate the process. After running several pilot engagements with partners, it became evident that the end might not always lead to a Discovery phase. We learned there's multiple ways of helping a department, so by calling the service "Pre-Discovery" we weren't managing expectations effectively. We also found that the process had intrinsic value for a partner, and it could exist as its own service. We decided to separate the name from the "Discovery, Alpha, Beta, Live" model.
 
 **3. Exploration** 
 
@@ -187,7 +187,7 @@ Between each Exploration, the researcher presented findings from these efforts b
 ## Our learnings so far
 
 ### New enabling conditions
-- Research and and our experience with pilot sprints surfaced the importance of an organizational culture that is open to change and adopting new practices.
+- Secondary research and and our experience with pilot sprints surfaced the importance of an organizational culture that is open to change and adopting new practices.
 - When designing timelines with departments, we found that funding limitations and hiring practices can affect feasibility and slow down timelines – so they need to be taken into account early on.
 
 ### Value of Explorations
