@@ -214,5 +214,5 @@ Moving forward, the Exploration Service is going to be moved within our Consulti
 
 ### Varied government landscape 
 
-We don’t have enough data yet to see trends, but we have seen two very different examples that show the contrast in deparmental conditions.
+We don’t have enough data yet to see trends, but we have seen two very different examples that show the contrast in departmental conditions.
 
