@@ -4,15 +4,15 @@ As of April 2021, we've ran 4 pilot Explorations with 3 departments and 4 progra
 
 ## Pilot 1: ESDC Temporary Foreign Worker Program
 
-Presentation
+[Presentation](https://github.com/cds-snc/exploration-documentation/blob/main/images/TFWP_Playback.pdf)
 
 ## Pilot 2: NRCan Canmet 
 
-Presentation
+[Presentation](https://github.com/cds-snc/exploration-documentation/blob/main/images/CANMET_Partner_Playback_Slides.pdf)
 
 ## Pilot 3: NRCan Flood mapping 
 
-Report 
+[Report](https://github.com/cds-snc/exploration-documentation/blob/main/images/CDS_Exploration_Final_Report_NRCan_Flood_Mapping.pdf) 
 
 ## Pilot 4: IRCC Refugee Information Needs 
 
