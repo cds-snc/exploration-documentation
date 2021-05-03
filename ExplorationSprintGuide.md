@@ -323,10 +323,8 @@ Please give me a 👍 👎  on this or a 🤷‍♀️ or a comment in 🧵 or r
 
 ### Week 1: Onboarding (part-time) 
 
-Monday | Tuesday | Wednesday | Thursday | Friday 
------------- | -------------
-Team onboarding <br> Review past Exploration sprints <br> Review Exploration Framework documentation | Content from cell 2
-Content in the first column | Content in the second column
+
+
 
 <table>
   <tr>
