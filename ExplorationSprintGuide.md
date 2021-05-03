@@ -340,16 +340,11 @@ Familiarize yourself with the partner’s [description of the problem space](htt
 
 Once we know who we will be interviewing and when, populate [the interview guides ](https://docs.google.com/document/u/0/d/19Kvos1BZYydPXFPQ1YUhVjb991bkuc4HRE1LuuaAxgQ/edit)with the [appropriate questions](https://docs.google.com/spreadsheets/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit#gid=0) and update the placeholder meeting invites with the questions.
 
+>Example meeting request:
 
-```
-Example meeting request:
+>We're looking forward to talking to you about <<the service>>. I've included the questions we plan on asking below. I say "plan" because often in these conversations we start with the written questions and then follow the flow of conversation. Don't be alarmed if we skip questions or hop around the list below when we talk to you.
 
-We're looking forward to talking to you about <<the service>>. I've included the questions we plan on asking below. I say "plan" because often in these conversations we start with the written questions and then follow the flow of conversation. Don't be alarmed if we skip questions or hop around the list below when we talk to you.
-
-<<questions in English & French>>
-```
-
-
+><<questions in English & French>>
 
 #### Review interview questions and build facilitation guides
 
@@ -379,23 +374,19 @@ These are documented in the [scheduling sheet.](https://docs.google.com/spreadsh
 It might be helpful to have some informal debrief sessions during the week for the team to discuss what they’re reading and ask any questions about the process. 
 
 
-```
-Example agendas:
+>Example agendas:
 
-For our sessions this week I think Wednesday / Thursday agenda:
-10:00-10:05 - talk about some weird topic
-10:05-10:25 - round table 3 minutes each talking about top insight(s) and question(s) from document review (A-Z by first name)
-I made a funretro board mainly for the voting / consolidation of similar items functionality. If people have strong feelings I'm happy to switch to a different medium.
-10:25-10:30 - grouping / voting on ones we want to discuss more
+>For our sessions this week I think Wednesday / Thursday agenda:\
+10:00-10:05 - talk about some weird topic\
+10:05-10:25 - round table 3 minutes each talking about top insight(s) and question(s) from document review (A-Z by first name) I made a funretro board mainly for the voting / consolidation of similar items functionality. If people have strong feelings I'm happy to switch to a different medium.\
+10:25-10:30 - grouping / voting on ones we want to discuss more\
 10:30-10:50 - discussing those things
 
-For Friday:
-10:00-10:05 - weird topic yet again (sorry it's what happens in meetings with me)
-10:05-10:15 - review schedule / facilitator / note taker assignments
-10:15-10:40 - review interview guides and any questions -- making sure our outstanding questions from Wednesday / Thursday can be answered by our interview guides
+>For Friday:/
+10:00-10:05 - weird topic yet again (sorry it's what happens in meetings with me)\
+10:05-10:15 - review schedule / facilitator / note taker assignments\
+10:15-10:40 - review interview guides and any questions -- making sure our outstanding questions from Wednesday / Thursday can be answered by our interview guides\
 10:40-10:50 - any final prep for the kick-off meeting
-```
-
 
 
 ### Week 2: Gather information (full-time)
@@ -492,19 +483,16 @@ At the end of each day (in Week 2), the team should have an internal debrief to 
 It is recommended you take notes of the debrief into the airtable to remove the need to port over insights during week 3 synthesis.
 
 
-```
-Option A* (Workshop debrief if only part of the team participating in interview):
+>Option A* (Workshop debrief if only part of the team participating in interview):
 https://docs.google.com/document/d/1dd3hcdHYBn7VNo_2vP0yFXUk_UPe9viFpahBGiznS54/edit?usp=sharing
 *This is the preferred option, as having less people in the interview is better for the interviewee.
 
-Option B (full team participation in interview - suggested agenda):
-First 5 minutes - settle in / buffer time
-Next 10 minutes - framework feedback (documented by framework researcher)
-Next 15 minutes - first interview insights (documented into insights table)
-Next 15 minutes - second interview insights (documented into insights table)
+>Option B (full team participation in interview - suggested agenda):\
+First 5 minutes - settle in / buffer time\
+Next 10 minutes - framework feedback (documented by framework researcher)\
+Next 15 minutes - first interview insights (documented into insights table)\
+Next 15 minutes - second interview insights (documented into insights table)\
 Final 5 minutes - go over what's next 
-```
-
 
 
 #### Introduction to Scoring
@@ -538,33 +526,24 @@ If a team member isn’t able to make a stakeholder chat, and doesn’t feel com
    </td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.qkjh4dbyui6a">Analyze findings and create recommendations </a>
-<p>
-(Heads down and group)
+   <td>
+        <p><a href="#analyze-findings-and-create-recommendations">Analyze findings and create recommendations</a><br>(Heads down and group)</p>
    </td>
-   <td><a href="#bookmark=id.qkjh4dbyui6a">Analyze findings and create recommendations </a>
-<p>
-(Heads down and group)
+   <td>
+       <p><a href="#analyze-findings-and-create-recommendations">Analyze findings and create recommendations </a><br>(Heads down and group)</p>
    </td>
-   <td><a href="#bookmark=id.qkjh4dbyui6a">Analyze findings and create recommendations</a>
-<p>
-(Heads down and group)
-<p>
-<a href="#bookmark=id.yzm5brna1lpa">Create final playback </a>
+   <td>
+      <p><a href="#analyze-findings-and-create-recommendations">Analyze findings and create recommendations</a><br>(Heads down and group)</p>
+      <p><a href="#create-playback-document">Create final playback</a></p>
    </td>
-   <td><a href="#bookmark=id.yzm5brna1lpa">Create final playback</a>
-<p>
-(Heads down and group)
-<p>
-<a href="#bookmark=id.tdkt3llzkna0">Share draft playback internally</a>
+   <td>
+      <p><a href="#create-playback-document">Create final playback</a><br>(Heads down and group)</p>
+      <p><a href="#share-playback-internally">Share draft playback internally</a></p>
    </td>
-   <td><a href="#bookmark=id.yzm5brna1lpa">Create final playback</a>
-<p>
-(Heads down and group)
-<p>
-<a href="#bookmark=id.9sph75hw98tx">Share draft playback with partner </a>
-<p>
-<a href="#bookmark=id.3ak39ylz0dij">Schedule recommendation workshop</a>
+   <td>
+      <p><a href="#create-playback-document">Create final playback</a><br>(Heads down and group)</p>
+      <p><a href="#share-draft-playback-with-partner">Share draft playback with partner</a></p>
+      <p><a href="#schedule-recommendation-workshop">Schedule recommendation workshop</a></p>
    </td>
   </tr>
 </table>
@@ -576,22 +555,19 @@ If a team member isn’t able to make a stakeholder chat, and doesn’t feel com
 The analysis will be completed in** three phases**. In this phase, the Sprint Organizer and team should choose 2 - 3 people to be the core team for the analysis and who will then help to write the report. Ideally, a researcher is one member of the core analysis team. 
 
 
-##### **Phase 1: Discuss scores and review findings cumulatively**
+##### Phase 1: Discuss scores and review findings cumulatively
+
+1. **Score discussion.** The team will meet to go through the score sheet. Before meeting, highlight any areas of divergent scoring. These will be reviewed and reconciled, when appropriate. This discussion will inform subsequent analysis.
 
 
+##### Phase 2: Data input and group analysis 
 
-1. **Score discussion. **The team will meet to go through the score sheet. Before meeting, highlight any areas of divergent scoring. These will be reviewed and reconciled, when appropriate. This discussion will inform subsequent analysis.
+1. **Heads down data input:** The Sprint Organizer will ask each team member to review a selection of the interviews and put the findings from them into the analysis template. Document team member assignments in the [scheduling sheet](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit). During heads down time, each team member will review the notes from their assigned interview(s) as well as insights from the debrief and scoring guide on those topics. They will identify relevant findings (highlight) then add each of these identified findings to [the analysis airtable](https://airtable.com/invite/l?inviteId=invquuHIjL1BoxwUW&inviteToken=b35d24b4530f8f9c997f96d5290be718962ffe86192640c0232824cbf3b7973f) spreadsheet. Each finding, whether interview excerpt or other observation, should make up only one row of the spreadsheet. 
 
-
-##### **Phase 2: Data input and group analysis **
-
-
-
-1. **Heads down data input: **The Sprint Organizer will ask each team member to review a selection of the interviews and put the findings from them into the analysis template. Document team member assignments in the [scheduling sheet](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit). During heads down time, each team member will review the notes from their assigned interview(s) as well as insights from the debrief and scoring guide on those topics. They will identify relevant findings (highlight) then add each of these identified findings to [the analysis airtable](https://airtable.com/invite/l?inviteId=invquuHIjL1BoxwUW&inviteToken=b35d24b4530f8f9c997f96d5290be718962ffe86192640c0232824cbf3b7973f) spreadsheet. Each finding, whether interview excerpt or other observation, should make up only one row of the spreadsheet. 
-2. **Group analysis: **In a group session, team members will then categorize each excerpt into predefined categories based on the enabling conditions and product phases. 
+2. **Group analysis:** In a group session, team members will then categorize each excerpt into predefined categories based on the enabling conditions and product phases. 
 
 
-##### **Phase 3: Category refinement and recommendation generation **
+##### Phase 3: Category refinement and recommendation generation
 
 
 
@@ -639,33 +615,22 @@ A few days after the draft report is delivered we will hold a [recommendation re
    </td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.7d0qtlbm683l">Iterate playback</a> (Heads down)  
-<p>
-(Group)
+   <td>
+       <p><a href="#iterate-playback">Iterate playback</a><br>(Heads down and group)</p>
    </td>
-   <td><a href="#bookmark=id.7d0qtlbm683l">Iterate playback</a> (Heads down)  
-<p>
-(Group)
+   <td>
+       <p><a href="#iterate-playbacl">Iterate playback</a><br>(Heads down and group)</p>
    </td>
-   <td><a href="#bookmark=id.7d0qtlbm683l">Iterate playback</a> (Heads down)  
-<p>
-(Group)
-<p>
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation Workshop"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.rf3uz1r4lama">Recommendation Workshop</a>
-<p>
-(Group)
+   <td>
+       <p><a href="#iterate-playback">Iterate playback</a><br>(Heads down and group)</p>
+       <p><a href="#run-recommendation-workshop">Recommendation Workshop</a><br>(Group)</p>
    </td>
-   <td><a href="#bookmark=id.7d0qtlbm683l">Iterate playback</a> (Heads down)  
-<p>
-(Group)
+   <td>
+       <p><a href="#iterate-playback">Iterate playback</a><br>(Heads down and group)</p>
    </td>
-   <td><a href="#bookmark=id.sjolkpn8l394">Prepare and send report</a>
-<p>
-<a href="#bookmark=id.n5d960c06kfg">Sprint team retro</a> (internal)
+   <td>
+       <p><a href="#prepare-and-send-report">Prepare and send report</a></p>
+       <p><a href="#bookmark=id.n5d960c06kfg">Sprint team retro</a><br>(internal)</p>
    </td>
   </tr>
 </table>
@@ -696,9 +661,9 @@ The sprint organizer should run an [internal retro](https://funretro.io/publicbo
 
 
 
-*   [Get feedback from partner](#bookmark=id.ohparoupi1a6)
-*   [Document lessons learned](#bookmark=id.wr8qn9h78gu)
-*   [Add tasks to Trello Inbox ](#bookmark=id.bxmktk1mk0ua)
+*   [Get feedback from partner](#get-feedback-from-partner)
+*   [Document lessons learned](#document-lessons-learned)
+*   [Add tasks to Trello Inbox ](#add-tasks-to-trello-inbox)
 
 
 ### Get feedback from partner
@@ -708,7 +673,7 @@ The Sprint Organizer should run a feedback session with the partner, either in a
 
 ### Document lessons learned
 
-Add insights and advice from the team’s retro and from partner feedback to [Appendix A](#bookmark=id.ljytxnci4wbd) and the [Onboarding Deck](https://docs.google.com/presentation/d/178a_IBodqR-5SFxYMwu0EWJMILRW2JE2MJBvn_K1ClU/edit#slide=id.ga64436b04b_0_0) for future sprint teams. This could include any tips and recommendations for success, or pitfalls that they encountered.
+Add insights and advice from the team’s retro and from partner feedback to [Appendix A](#appendix-a-advice-from-previous-sprints) and the [Onboarding Deck](https://docs.google.com/presentation/d/178a_IBodqR-5SFxYMwu0EWJMILRW2JE2MJBvn_K1ClU/edit#slide=id.ga64436b04b_0_0) for future sprint teams. This could include any tips and recommendations for success, or pitfalls that they encountered.
 
 
 ### Add tasks to Trello Inbox
@@ -721,7 +686,7 @@ Once you have the research and retro insights, add cards to the “Inbox” colu
 
 ## Appendix A: Advice from previous sprints 
 
-This appendix contains learnings from previous CDS Exploration sprints, as well as learnings from the USDS sprints. At the end of each sprint it should be added to (in suggestion mode), by the sprint organizer and/or the team.  
+This appendix contains learnings from previous CDS Exploration sprints, as well as learnings from the USDS sprints. At the end of each sprint it should be added to, by the sprint organizer and/or the team making. 
 
 
 ### Mindset 
