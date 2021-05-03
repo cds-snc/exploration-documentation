@@ -18,7 +18,7 @@ This guide outlines what needs to happen to prepare an Exploration for success. 
 
 
 
-*   [Share the Exploration guide with partners](#bookmark=id.uv07rhqqy4uc)
+*   [Share the Exploration partner guide with partners](1.-share-the-partner-guide-with-partners)
 *   [Start developing a description of the problem space](#bookmark=kix.ispwt75mhhxf)
 *   [Sign the Exploration agreement](#bookmark=id.66kw6cveinnl)
 *   [Set up weekly check-ins with the partner](#bookmark=id.o9bolu6w6r2u)
