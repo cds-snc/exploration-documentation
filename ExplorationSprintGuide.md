@@ -18,27 +18,24 @@ This guide outlines what needs to happen to prepare an Exploration for success. 
 
 
 
-*   [Share the Exploration partner guide with partners](1.-share-the-partner-guide-with-partners)
-*   [Start developing a description of the problem space](#bookmark=kix.ispwt75mhhxf)
-*   [Sign the Exploration agreement](#bookmark=id.66kw6cveinnl)
-*   [Set up weekly check-ins with the partner](#bookmark=id.o9bolu6w6r2u)
-*   [Create team channels and repositories](#bookmark=id.eurww92rx93q)
-*   [Identify and map key stakeholders](#bookmark=id.xlgenchrv1uk)
-*   [Gather background materials](#bookmark=id.jwmkub456gqi)
-*   [Schedule partner meetings](#bookmark=id.thopiqhs3k73)
-*   [Stand up a dedicated Exploration sprint team ](#bookmark=id.ilxsuqxd171n)
-*   [Schedule internal sprint rituals](#bookmark=id.ywfm9nz7m1d9)
+*   [Share the Exploration partner guide with partners](#1-share-the-partner-guide-with-partners)
+*   [Start developing a description of the problem space](#2-get-the-exploration-agreement-signed)
+*   [Sign the Exploration agreement](#3-develop-a-description-of-the-problem-space)
+*   [Set up weekly check-ins with the partner](#4-set-up-weekly-check-ins-with-the-partner)
+*   [Create team channels and repositories](#5-create-team-channels-and-repositories)
+*   [Identify and map key stakeholders](#6-identify-and-map-key-stakeholders)
+*   [Gather background materials](#7-gather-background-material)
+*   [Create a glossary for the sprint](#8-create-a-glossary-for-the-sprint)
+*   [Schedule partner meetings](#9-schedule-partner-meetings)
+*   [Stand up a dedicated Exploration sprint team ](#10-stand-up-a-dedicated-exploration-sprint-team-if-applicable)
+*   [Schedule internal sprint rituals](#11-schedule-internal-sprint-rituals)
 
 
 ### 1. Share the partner guide with partners
 
 The [Partner Guide](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#heading=h.wb82wfeldvp6) helps partners know what to expect from Exploration. It outlines the schedule for the month and includes topics we’ll explore with stakeholders, so the partner can start identifying who might be best suited for each of the stakeholder chats. 
 
-Ask the partner coordinator to [review the potential questions](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#bookmark=id.jwibarwde9ee) at the end of the Partner Guide, and work with them to identify potential stakeholders and fill out information about each person. Add this information to the “Participant Biographies” tab of the [Scheduling spreadsheet](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit#gid=2072067210).This documentation about potential stakeholders will help the Explorations team refine the interview guides for each person and their role. Once you have a list of people, you can start 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "mapping them in relation to other key stakeholders"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[mapping them in relation to other key stakeholders](#heading=h.iu6ftwbp9lrp).
+Ask the partner coordinator to [review the potential questions](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#bookmark=id.jwibarwde9ee) at the end of the Partner Guide, and work with them to identify potential stakeholders and fill out information about each person. Add this information to the “Participant Biographies” tab of the [Scheduling spreadsheet](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit#gid=2072067210).This documentation about potential stakeholders will help the Explorations team refine the interview guides for each person and their role. Once you have a list of people, you can start [mapping them in relation to other key stakeholders](#6-identify-and-map-key-stakeholders).
 
 Stakeholders are sorted into three different types of role, for the purpose of interviewing. The interview roles are: 
 
@@ -228,10 +225,10 @@ In week 3, the team will need to discuss the findings and recommendations intern
 
 
 
-*   [Week 1: Onboarding](#bookmark=id.at8l9pd837d0)
-*   [Week 2: Gather information](#bookmark=id.xwjfp9abay)
-*   [Week 3: Synthesize and playback internally](#bookmark=id.k4fbkevohhhp)
-*   [Week 4: Iterate and playback externally](#bookmark=id.87kfquirmzmk)
+*   [Week 1: Onboarding](#week-1-onboarding-part-time)
+*   [Week 2: Gather information](#week-2-gather-information-full-time)
+*   [Week 3: Synthesize and playback internally](#week-3-synthesize-and-playback-internally-full-time)
+*   [Week 4: Iterate and playback externally](#week-4-iterate-and-collaborate-externally-part-time)
 
 
 ##### Throughout Exploration
@@ -280,7 +277,7 @@ Please give me a 👍 👎  on this or a 🤷‍♀️ or a comment in 🧵 or r
    </td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.b1bzuxhnx4ul">Team onboarding </a>
+   <td><a href="#team-onboarding">Team onboarding </a>
 <p>
 <a href="#bookmark=kix.2toysspq5bmk">Review past Exploration sprints</a>
 <p>
