@@ -39,11 +39,9 @@ Ask the partner coordinator to [review the potential questions](https://docs.goo
 
 Stakeholders are sorted into three different types of role, for the purpose of interviewing. The interview roles are: 
 
-
-
-    1. **Functional Specialists**: Executive, management, and working-level stakeholders responsible for providing advice and overseeing processes related to program and policy specialists. This role includes communications, technology, legal, access to information and privacy, etc.
-    2. **Program Specialists**: Executive, management, and working-level specialists responsible for the delivery of the service or program. 
-    3. **Policy Specialists**: Management and working-level specialists responsible for providing advice and overseeing processes related to the service including policy direction and research.
+>1. **Functional Specialists**: Executive, management, and working-level stakeholders responsible for providing advice and overseeing processes related to program and policy specialists. This role includes communications, technology, legal, access to information and privacy, etc.\
+2. **Program Specialists**: Executive, management, and working-level specialists responsible for the delivery of the service or program.\ 
+3. **Policy Specialists**: Management and working-level specialists responsible for providing advice and overseeing processes related to the service including policy direction and research.
 
 
 ### 2. Get the Exploration agreement signed
@@ -124,10 +122,8 @@ Week 2 will start with a 1-hour kick-off including stakeholders from the partner
 
 As you identify the right people, you’ll need to schedule 1-hour stakeholder chats with them for Week 2 and add them to [the schedule](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit). Ideally stakeholder chats #1 and #2 should be scheduled as the first meetings. As you send out the invites, make sure to send the participant the list of questions for them (in both official languages). It’s recommended that you include that we may deviate from the questions as the conversation flows. The questions included in the invite are only to guide the conversation.
 
-
-
 >Example meeting request:\
-We're looking forward to talking to you about <<the service>>. We will update this meeting invite with the questions we intend to explore on the Friday prior to this session. If you have any questions in the meantime please don't hesitate to reach out to myself or <<main stakeholder>>.
+We're looking forward to talking to you about _(the service)_. We will update this meeting invite with the questions we intend to explore on the Friday prior to this session. If you have any questions in the meantime please don't hesitate to reach out to myself or _(main stakeholder)_.
 
 
 If possible, set up all meetings with key stakeholders (such as ADMs) well in advance so that they can happen early in the first week. They’re busy people and it’s hard to get on their calendars. You also want to leave room for flexibility if the meeting needs to be pushed. Having someone within the department or agency who has access to calendars to help with setting these up will be critical.
@@ -206,11 +202,11 @@ In week 3, the team will need to discuss the findings and recommendations intern
 
 
 
-**Head of Business Development**
-    *   Typically they are invited to Recommendation Review sessions mid-week after insights have been synthesized and recommendations have been identified
-**Director of Partnerships**
+* **Head of Business Development**
+    *   Typically they are invited to Recommendation Review sessions mid-week after insights have been synthesized and recommendations have been identified\
+* **Director of Partnerships**
     *   This can take place as a meeting or sharing the report and following up - best to discuss to identify how they would like to receive the information and provide feedback
-**CEO**
+* **CEO**
     *   Share the report for feedback
     *   This will likely take place in week 4 once the report is closer to completion 
 
