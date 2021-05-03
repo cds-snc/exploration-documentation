@@ -304,28 +304,29 @@ In week 3, the team will need to discuss the findings and recommendations intern
 *   Use Trello and walk the board during stand up to review what each card means, go over blockers, what people did yesterday and what they plan on doing today.
 *   Post to Slack channel key next steps out of any team sessions. Use CDS communication techniques asking for emoticon reactions to acknowledge.
 
-    ```
-Examples:
+> Examples:
 
-Some may have noticed I've been adding things to trello. My life mantra is  "if it's not written down it doesn't exist". Feel free to add your own cards for things you are working on or comment / modify cards I've made.
+> Some may have noticed I've been adding things to trello. My life mantra is  "if it's not written down it doesn't exist". Feel free to add your own cards for things you are working on or comment / modify cards I've made.
 I also put a "weird parking lot" at the far right which is where I put all the things that don't really have a home. Right now it's the potential future action for the "framework team" to maybe look at how we ask for documentation and iterate on that piece.
 Please give me an 🐘 if you can access trello and feel comfortable using it. Or give me a DM if you want me to walk through it I'm happy to do that.
 
-
-Recap of my thoughts for early next week:
+> Recap of my thoughts for early next week:
 Monday daytime - finish scoring / rationale (if you haven't already)
 Monday time together - talk about things we want - divvy up interviews for people to pull details from - maybe walk through miro we'll use to organize
 Monday afternoon / Tuesday morning - fill miro with things
 Tuesday afternoon together - review miro and talk about report format / goals / recommendations
 My goal is to provide opportunities to work asynchronously as well as collaborate together on our insights and recommendations.
 Please give me a 👍 👎  on this or a 🤷‍♀️ or a comment in 🧵 or really any sort of reaction.  🍷 ?
-```
 
 
 
 
 ### Week 1: Onboarding (part-time) 
 
+Monday | Tuesday | Wednesday | Thursday | Friday 
+------------ | -------------
+Team onboarding <br> Review past Exploration sprints <br> Review Exploration Framework documentation | Content from cell 2
+Content in the first column | Content in the second column
 
 <table>
   <tr>
