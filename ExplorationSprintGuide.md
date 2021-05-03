@@ -9,9 +9,9 @@ This guide outlines what needs to happen to prepare an Exploration for success. 
 
 
 
-*   [Before Exploration](#bookmark=id.tsmu51jrvz9u) 
-*   [During Exploration](#bookmark=id.42zpehs9j168) 
-*   [After Exploration](#bookmark=id.1as6iv2kh73x) 
+*   [Before Exploration](#before-exploration) 
+*   [During Exploration](#during-exploration) 
+*   [After Exploration](#after-exploration) 
 
 
 ## Before Exploration
@@ -125,12 +125,9 @@ Week 2 will start with a 1-hour kick-off including stakeholders from the partner
 As you identify the right people, you’ll need to schedule 1-hour stakeholder chats with them for Week 2 and add them to [the schedule](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit). Ideally stakeholder chats #1 and #2 should be scheduled as the first meetings. As you send out the invites, make sure to send the participant the list of questions for them (in both official languages). It’s recommended that you include that we may deviate from the questions as the conversation flows. The questions included in the invite are only to guide the conversation.
 
 
-```
-Example meeting request:
 
+>Example meeting request:\
 We're looking forward to talking to you about <<the service>>. We will update this meeting invite with the questions we intend to explore on the Friday prior to this session. If you have any questions in the meantime please don't hesitate to reach out to myself or <<main stakeholder>>.
-
-```
 
 
 If possible, set up all meetings with key stakeholders (such as ADMs) well in advance so that they can happen early in the first week. They’re busy people and it’s hard to get on their calendars. You also want to leave room for flexibility if the meeting needs to be pushed. Having someone within the department or agency who has access to calendars to help with setting these up will be critical.
@@ -209,16 +206,13 @@ In week 3, the team will need to discuss the findings and recommendations intern
 
 
 
-*   Head of Business Development
+**Head of Business Development**
     *   Typically they are invited to Recommendation Review sessions mid-week after insights have been synthesized and recommendations have been identified
-*   Director of Partnerships
+**Director of Partnerships**
     *   This can take place as a meeting or sharing the report and following up - best to discuss to identify how they would like to receive the information and provide feedback
-*   CEO
+**CEO**
     *   Share the report for feedback
-    *   This will likely take place in week 4 once the report is closer to completion
-
-
-## 
+    *   This will likely take place in week 4 once the report is closer to completion 
 
 
 ## <span style="text-decoration:underline;">During Exploration</span>
@@ -309,11 +303,9 @@ Please give me a 👍 👎  on this or a 🤷‍♀️ or a comment in 🧵 or r
 
 #### Team onboarding
 
-The week begins on Monday with a 1-hour meeting led by the organizers to bring the team up to speed.  \
- \
+The week begins on Monday with a 1-hour meeting led by the organizers to bring the team up to speed. 
+
 **Agenda:**
-
-
 
 *   Familiarizing everyone with the goal, how Exploration works and previous Pre-Discoveries.
 *   Transferring knowledge gathered so far about the partner and the problem space. 
@@ -326,7 +318,7 @@ The week begins on Monday with a 1-hour meeting led by the organizers to bring t
 
 Any new team members should read the playback report, as well as [stakeholder chats and debrief notes](https://drive.google.com/drive/folders/1oCHpDiBGeuGZjo21qL2l5owQsovGO-A0) from previous sprints to get a sense for how they go and what to expect.
 
-The team can also consult advice and lessons learned from previous teams in [Appendix A](#bookmark=id.ljytxnci4wbd).
+The team can also consult advice and lessons learned from previous teams in [Appendix A](#appendix-a-advice-from-previous-sprints).
 
 
 #### Read partner documentation
@@ -340,11 +332,9 @@ Familiarize yourself with the partner’s [description of the problem space](htt
 
 Once we know who we will be interviewing and when, populate [the interview guides ](https://docs.google.com/document/u/0/d/19Kvos1BZYydPXFPQ1YUhVjb991bkuc4HRE1LuuaAxgQ/edit)with the [appropriate questions](https://docs.google.com/spreadsheets/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit#gid=0) and update the placeholder meeting invites with the questions.
 
->Example meeting request:
-
->We're looking forward to talking to you about <<the service>>. I've included the questions we plan on asking below. I say "plan" because often in these conversations we start with the written questions and then follow the flow of conversation. Don't be alarmed if we skip questions or hop around the list below when we talk to you.
-
-><<questions in English & French>>
+>Example meeting request:\
+We're looking forward to talking to you about <<the service>>. I've included the questions we plan on asking below. I say "plan" because often in these conversations we start with the written questions and then follow the flow of conversation. Don't be alarmed if we skip questions or hop around the list below when we talk to you.\
+<<questions in English & French>>
 
 #### Review interview questions and build facilitation guides
 
@@ -359,8 +349,6 @@ For those new to CDS’s way of conducting research interviews and note taking t
 #### Assign roles 
 
 Each stakeholder chat needs to have:
-
-
 
 *   1 facilitator
 *   1 notetaker
@@ -406,45 +394,31 @@ It might be helpful to have some informal debrief sessions during the week for t
    </td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.8zkli9k3vm2n">Partner kick-off </a>
-<p>
-<a href="#bookmark=id.nfttbjvlz3z1">Stakeholder chat</a> (x1)
-<p>
-<a href="#bookmark=id.h8skfsacsk2">Debrief</a>
+   <td>
+       <p><a href="#partner-kick-off">Partner kick-off</a></p>
+       <p><a href="#stakeholder-chats">Stakeholder chat</a>(x1)</p>
+       <p><a href="#debriefs">Debrief</a></p>
    </td>
-   <td><a href="#bookmark=id.lhy9xxkcumac">Introduction to Scoring</a>
-<p>
-<a href="#bookmark=id.nfttbjvlz3z1">Stakeholder chat</a> (x2)
-<p>
-<a href="#bookmark=id.h8skfsacsk2">Debrief</a> 
-<p>
-<a href="#bookmark=id.2n2ylypgaflp">Scoring</a> 
-<p>
-(heads down)
+   <td>
+       <p><a href="#introduction-to-scoring">Introduction to Scoring</a></p>
+       <p><a href="#stakeholder-chats">Stakeholder chat</a>(x2)</p>
+       <p><a href="#debriefs">Debrief</a></p> 
+       <p><a href="#scoring">Scoring</a><br>(heads down)</p>
    </td>
-   <td><a href="#bookmark=id.nfttbjvlz3z1">Stakeholder chat</a> (x2)
-<p>
-<a href="#bookmark=id.h8skfsacsk2">Debrief</a>
-<p>
-<a href="#bookmark=id.2n2ylypgaflp">Scoring</a> 
-<p>
-(heads down)
+   <td>
+       <p><a href="#stakeholder-chats">Stakeholder chat</a>(x2)</p>
+       <p><a href="#debriefs">Debrief</a></p>
+       <p><a href="#scoring">Scoring</a><br>(heads down)</p>
    </td>
-   <td><a href="#bookmark=id.nfttbjvlz3z1">Stakeholder chat</a> (x2)
-<p>
-<a href="#bookmark=id.h8skfsacsk2">Debrief</a>
-<p>
-<a href="#bookmark=id.2n2ylypgaflp">Scoring</a> 
-<p>
-(heads down)
+   <td>
+       <p><a href="#stakeholder-chats">Stakeholder chat</a>(x2)</p>
+       <p><a href="#debriefs">Debrief</a></p>
+       <p><a href="#scoring">Scoring</a><br>(heads down)</p>
    </td>
-   <td><a href="#bookmark=id.nfttbjvlz3z1">Stakeholder chat</a> (x2)
-<p>
-<a href="#bookmark=id.h8skfsacsk2">Debrief</a>
-<p>
-<a href="#bookmark=id.2n2ylypgaflp">Scoring</a> 
-<p>
-(heads down)
+   <td>
+       <p><a href="#stakeholder-chats">Stakeholder chat</a>(x2)</p>
+       <p><a href="#debriefs">Debrief</a></p>
+       <p><a href="#scoring">Scoring</a><br>(heads down)</p>
    </td>
   </tr>
 </table>
@@ -456,8 +430,6 @@ It might be helpful to have some informal debrief sessions during the week for t
 The week begins on Monday with a 1-hour kick-off meeting with the partner stakeholders, the Exploration team and the sprint organizers.
 
 **Agenda:**
-
-
 
 *   Introduction to Exploration
 *   Brief intro on the problem space
@@ -484,14 +456,14 @@ It is recommended you take notes of the debrief into the airtable to remove the 
 
 
 >Option A* (Workshop debrief if only part of the team participating in interview):
-https://docs.google.com/document/d/1dd3hcdHYBn7VNo_2vP0yFXUk_UPe9viFpahBGiznS54/edit?usp=sharing
+https://docs.google.com/document/d/1dd3hcdHYBn7VNo_2vP0yFXUk_UPe9viFpahBGiznS54/edit?usp=sharing\
 *This is the preferred option, as having less people in the interview is better for the interviewee.
 
 >Option B (full team participation in interview - suggested agenda):\
 First 5 minutes - settle in / buffer time\
 Next 10 minutes - framework feedback (documented by framework researcher)\
-Next 15 minutes - first interview insights (documented into insights table)\
-Next 15 minutes - second interview insights (documented into insights table)\
+Next 15 minutes - first interview session insights (documented into insights table)\
+Next 15 minutes - second interview session insights (documented into insights table)\
 Final 5 minutes - go over what's next 
 
 
@@ -569,15 +541,13 @@ The analysis will be completed in** three phases**. In this phase, the Sprint Or
 
 ##### Phase 3: Category refinement and recommendation generation
 
-
-
-1. **Category refinement: **A core team of people (2 - 3 people including the researcher) will refine the categories. The core team will share these with the full team for feedback. These categories will serve as organizing themes in the report.
-2. **Recommendation generation: **Based on these refined categories, the core team will generate recommendations for each category of findings. These will be shared with the rest of the team to generate a complete list of recommendations. These recommendations will be used in the roadmap exercise. 
+1. **Category refinement:** A core team of people (2 - 3 people including the researcher) will refine the categories. The core team will share these with the full team for feedback. These categories will serve as organizing themes in the report.
+2. **Recommendation generation:** Based on these refined categories, the core team will generate recommendations for each category of findings. These will be shared with the rest of the team to generate a complete list of recommendations. These recommendations will be used in the roadmap exercise. 
 
 
 #### Create playback document
 
-Assign a playback lead to own the writing (or delegation of writing). Ideally there is a small-ish team working to write the final playback documentation based on the collaborative analysis and informed by the scoring.  \
+Assign a playback lead to own the writing (or delegation of writing). Ideally there is a small-ish team working to write the final playback documentation based on the collaborative analysis and informed by the scoring.\
 
 
 Identify a reasonable draft completion date so the partner and internal CDS leadership can be kept up to date on when their inputs will be needed.
@@ -658,8 +628,6 @@ The sprint organizer should run an [internal retro](https://funretro.io/publicbo
 
 
 ## <span style="text-decoration:underline;">After Exploration</span>
-
-
 
 *   [Get feedback from partner](#get-feedback-from-partner)
 *   [Document lessons learned](#document-lessons-learned)
