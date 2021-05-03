@@ -277,44 +277,30 @@ Please give me a 👍 👎  on this or a 🤷‍♀️ or a comment in 🧵 or r
    </td>
   </tr>
   <tr>
-   <td><a href="#team-onboarding">Team onboarding </a>
-<p>
-<a href="#bookmark=kix.2toysspq5bmk">Review past Exploration sprints</a>
-<p>
-<a href="https://docs.google.com/spreadsheets/d/1rLoTiqPQoByBZab6KQSkhBSxKyvCJztLJQJIC9I5Csc/edit">Review Exploration Framework documentation</a>
-   </td>
-   <td><a href="#bookmark=id.k6c45ty4bljq">Read partner documentation</a>
-<p>
-<a href="#bookmark=id.nk9tcdmggz50">Prepare for kick-off and stakeholder chats</a>
-<p>
-<a href="#bookmark=id.brcmyhef2w5a">Debrief</a>  
-   </td>
-   <td><a href="#bookmark=id.k6c45ty4bljq">Read partner documentation</a>
-<p>
-<a href="#bookmark=id.nk9tcdmggz50">Prepare for kick-off and stakeholder chats</a>
-<p>
-<a href="#bookmark=id.brcmyhef2w5a">Debrief</a> 
+   <td>
+       <p><a href="#team-onboarding">Team onboarding </a></p>
+       <p><a href="#review-past-exploration-sprints">Review past Exploration sprints</a></p>
+       <p><a href="https://docs.google.com/spreadsheets/d/1rLoTiqPQoByBZab6KQSkhBSxKyvCJztLJQJIC9I5Csc/edit">Review Exploration Framework documentation</a></p>
    </td>
    <td>
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Read interview questions"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.gcxtrr3znscf">Read interview questions</a> 
-<p>
-<a href="#bookmark=id.q5szsxkioe2j">Workshop on interviewing and note taking</a>
-<p>
-<a href="#bookmark=id.nap2skn7sayu">Assign roles</a> \
-
-<p>
-<a href="#bookmark=id.brcmyhef2w5a">Debrief</a>
+       <p><a href="#read-partner-documentation">Read partner documentation</a></p>
+       <p><a href="#prepare-for-kick-off-and-stakeholder-chats">Prepare for kick-off and stakeholder chats</a></p>
+       <p><a href="#debriefs">Debrief</a></p>  
    </td>
    <td>
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Build  facilitation guides "). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.gcxtrr3znscf">Build  facilitation guides </a>
-<p>
-<a href="#bookmark=id.brcmyhef2w5a">Debrief</a> 
+       <p><a href="#read-partner-documentation">Read partner documentation</a></p>
+       <p><a href="#prepare-for-kick-off-and-stakeholder-chats">Prepare for kick-off and stakeholder chats</a></p>
+       <p><a href="#debriefs">Debrief</a></p> 
+   </td>
+   <td>
+       <p><a href="#review-interview-questions-and-build-facilitation-guides">Read interview questions</a></p> 
+       <p><a href="#workshop-on-interviewing-and-note-taking">Workshop on interviewing and note taking</a></p>
+       <p><a href="#assign-roles">Assign roles</a></p>
+       <p><a href="#debriefs">Debrief</a></p>
+   </td>
+   <td>
+       <p><a href="#review-interview-questions-and-build-facilitation-guides">Build facilitation guides</a></p>
+       <p><a href="#debriefs">Debrief</a></p>
    </td>
   </tr>
 </table>
