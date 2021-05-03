@@ -1,61 +1,4 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 4.837 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Mon May 03 2021 11:55:20 GMT-0700 (PDT)
-* Source doc: Exploration Set Up - Sprint Organizer Guide
-
-ERROR:
-undefined internal link to this URL: "#heading=h.iu6ftwbp9lrp".link text: mapping them in relation to other key stakeholders
-?Did you generate a TOC?
-
-* Tables are currently converted to HTML tables.
-
-ERROR:
-undefined internal link to this URL: "#heading=h.gcxtrr3znscf".link text: Read interview questions
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.gcxtrr3znscf".link text: Build  facilitation guides 
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.rf3uz1r4lama".link text: Recommendation Workshop
-?Did you generate a TOC?
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 4; WARNINGs: 0; ALERTS: 4.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-_For questions about this artifact see Caitlin Tuba or Emma Wootton \
-_
-
+_For questions about this artifact see Caitlin Tuba or Emma Wootton_
 
 ## How to set up and run an Exploration 
 
@@ -69,9 +12,6 @@ This guide outlines what needs to happen to prepare an Exploration for success. 
 *   [Before Exploration](#bookmark=id.tsmu51jrvz9u) 
 *   [During Exploration](#bookmark=id.42zpehs9j168) 
 *   [After Exploration](#bookmark=id.1as6iv2kh73x) 
-
-
-## 
 
 
 ## Before Exploration
