@@ -1,4 +1,4 @@
->_For questions about this artifact see Caitlin Tuba or Emma Wootton (if you're with CDS)_.\
+>_For questions about this artifact see Caitlin Tuba or Emma Wootton._\
 >_Artifact links are internal to CDS only._
 
 # How to set up and run an Exploration 
