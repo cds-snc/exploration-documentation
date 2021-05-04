@@ -464,8 +464,6 @@ It is recommended you take notes of the debrief into the airtable to remove the 
 >Option A* (Workshop debrief if only part of the team participating in interview):
 https://docs.google.com/document/d/1dd3hcdHYBn7VNo_2vP0yFXUk_UPe9viFpahBGiznS54/edit?usp=sharing
 
-*Option A is the preferred option, as having less people in the interview is better for the interviewee.
-
 >Option B (full team participation in interview - suggested agenda):\
 First 5 minutes - settle in / buffer time\
 Next 10 minutes - framework feedback (documented by framework researcher)\
@@ -473,6 +471,7 @@ Next 15 minutes - first interview session insights (documented into insights tab
 Next 15 minutes - second interview session insights (documented into insights table)\
 Final 5 minutes - go over what's next 
 
+*Option A is the preferred option, as having less people in the interview is better for the interviewee.
 
 #### Introduction to Scoring
 
