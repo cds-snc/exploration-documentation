@@ -772,61 +772,61 @@ This table is meant to be a suggestion. It’s recommended that you review with 
    <td></td>
   </tr>
   <tr>
-   <td>[Sign the Exploration agreement](#get-the-exploration-agreement-signed)</td>
+     <td><a href="#get-the-exploration-agreement-signed">Sign the Exploration agreement</a></td>
    <td>✓</td>
    <td></td>
    <td></td>
   </tr>
   <tr>
-   <td>[Start developing a description of the problem space](#develop-a-description-of-the-problem-space)</td>
+   <td><a href="#develop-a-description-of-the-problem-space">Start developing a description of the problem space</a></td>
    <td>✓</td>
    <td></td>
    <td>Also Partnership Advisor</td>
   </tr>
   <tr>
-   <td>[Set up weekly check-ins with the partner](#set-up-weekly-check-ins-with-the-partner)</td>
+     <td><a href="#set-up-weekly-check-ins-with-the-partner">Set up weekly check-ins with the partner</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>[Create team channels and repositories](#create-team-channels-and-repositories)</td>
+     <td><a href="#create-team-channels-and-repositories">Create team channels and repositories</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>[Identify and map key stakeholders](#identify-and-map-key-stakeholders)</td>
+     <td><a href="#identify-and-map-key-stakeholders">Identify and map key stakeholders</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>[Gather background materials](#gather-background-material)</td>
+     <td><a href="#gather-background-material">Gather background materials]</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>[Create a glossary](#create-a-glossary-for-the-sprint)</td>
+     <td><a href="#create-a-glossary-for-the-sprint">Create a glossary</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>[Schedule partner meetings](#schedule-partner-meetings)</td>
+     <td><a href="#schedule-partner-meetings">Schedule partner meetings</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>[Stand up a dedicated Exploration sprint team](#10-stand-up-a-dedicated-exploration-sprint-team-if-applicable)</td>
+     <td><a href="#10-stand-up-a-dedicated-exploration-sprint-team-if-applicable">Stand up a dedicated Exploration sprint team</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>[Schedule internal sprint rituals](#schedule-internal-sprint-rituals)</td>
+     <td><a href="#schedule-internal-sprint-rituals">Schedule internal sprint rituals</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
