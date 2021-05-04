@@ -450,7 +450,7 @@ Although only two of the team members are running the meeting with stakeholders 
 Set up a thread in Slack for backchannel conversations during the interview. Interviewers may or may not be able to review this backchannel during the interview so if there is a question that should be asked of the stakeholder, team members should use meeting techniques to raise it to the stakeholder.
 
 
-#### Debriefs 
+#### Sense-making debriefs 
 
 At the end of each day (in Week 2), the team should have an internal debrief to discuss what they heard (sensemaking), what worked and what didn’t work. Each debrief should have an assigned note taker.
 
@@ -839,56 +839,56 @@ This table is meant to be a suggestion. It’s recommended that you review with 
   </tr>
   <tr>
    <td rowspan="7" >1</td>
-   <td>Update internal kick-off deck</td>
+     <td><a href="#12-update-internal-kick-off-deck">Update internal kick-off deck</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>Lead internal kick-off</td>
+     <td><a href="#team-onboarding">Lead internal kick-off</a></td>
    <td>Participates</td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>Update partner kick-off deck</td>
+     <td><a href="#prepare-for-kick-off-and-stakeholder-chats">Update partner kick-off deck</a></td>
    <td></td>
    <td></td>
    <td>Assign team member</td>
   </tr>
   <tr>
-   <td>Share links for partner documentation with team</td>
+   <td><a href="#prepare-for-kick-off-and-stakeholder-chats">Share links for partner documentation with team</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>Facilitate week 1 debriefs</td>
+     <td><a href="#">Facilitate week 1 debriefs</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>Run workshop on interviewing and note taking</td>
+   <td><a href="#workshop-on-interviewing-and-note-taking">Run workshop on interviewing and note taking</a></td>
    <td></td>
    <td></td>
    <td>Research team member</td>
   </tr>
   <tr>
-   <td>Identify roles for interviews</td>
+     <td><a href="#assign-roles">Identify roles for interviews</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
    <td rowspan="3" >2</td>
-   <td>Lead partner kick-off</td>
+     <td><a href="#partner-kick-off">Lead partner kick-off</a></td>
    <td></td>
    <td>✓</td>
    <td>(or interested team member)</td>
   </tr>
   <tr>
-   <td>Facilitate debriefs</td>
+     <td><a href="#sense-making-debriefs">Facilitate debriefs</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
