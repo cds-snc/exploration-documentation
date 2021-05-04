@@ -766,7 +766,7 @@ This table is meant to be a suggestion. It’s recommended that you review with 
    <td></td>
   </tr>
   <tr>
-   <td>[Share the Exploration guide with partners](#share-the-partner-guide-with-partners)</td>
+     <td><a href="#share-the-partner-guide-with-partners">Share the Exploration guide with partners</a></td>
    <td>✓</td>
    <td></td>
    <td></td>
