@@ -1,3 +1,6 @@
+[French]
+[English]
+
 # CDS Exploration Service 
 
 ## Navigation 
