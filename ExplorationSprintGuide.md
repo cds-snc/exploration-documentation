@@ -522,16 +522,18 @@ If a team member isn’t able to make a stakeholder chat, and doesn’t feel com
   </tr>
 </table>
 
+#### Create analysis board 
 
+Before the team starts analysis, you'll need to create a board, like this [Airtable board](https://airtable.com/tblP96NPzVraTp8eb/viwSXDlHrzySPwmiY?blocks=hide) for them to use.
 
 #### Analyze findings and create recommendations
 
-The analysis will be completed in** three phases**. In this phase, the Sprint Organizer and team should choose 2 - 3 people to be the core team for the analysis and who will then help to write the report. Ideally, a researcher is one member of the core analysis team. 
+The analysis will be completed in **three phases**. In this phase, the Sprint Organizer and team should choose 2 - 3 people to be the core team for the analysis and who will then help to write the report. Ideally, a researcher is one member of the core analysis team. 
 
 
 ##### Phase 1: Discuss scores and review findings cumulatively
 
-1. **Score discussion.** The team will meet to go through the score sheet. Before meeting, highlight any areas of divergent scoring. These will be reviewed and reconciled, when appropriate. This discussion will inform subsequent analysis.
+1. **Scoring discussion.** The team will meet to go through the score sheet. Before meeting, highlight any areas of divergent scoring. These will be reviewed and reconciled, when appropriate. This discussion will inform subsequent analysis.
 
 
 ##### Phase 2: Data input and group analysis 
@@ -894,81 +896,87 @@ This table is meant to be a suggestion. It’s recommended that you review with 
    <td></td>
   </tr>
   <tr>
-   <td>Run scoring introduction</td>
+     <td><a href="#introduction-to-scoring">Run scoring introduction</a></td>
    <td></td>
    <td>✓</td>
    <td>(or interested team member)</td>
   </tr>
   <tr>
-   <td rowspan="10" >3</td>
-   <td>Create analysis board</td>
+   <td rowspan="9" >3</td>
+     <td><a href="#create-analysis-board">Create analysis board</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>Populate analysis board with insights</td>
+     <td><a href="#phase-2-data-input-and-group-analysis">Populate analysis board with insights</a></td>
    <td></td>
    <td></td>
    <td>Whole team</td>
   </tr>
   <tr>
-   <td>Facilitate analysis review</td>
+     <td><a href="#phase-2-data-input-and-group-analysis">Facilitate analysis review</a></td>
    <td></td>
    <td>✓</td>
    <td>(or interested team member)</td>
   </tr>
   <tr>
-   <td>Create recommendations</td>
+   <td><a href="#phase-3-category-refinement-and-recommendation-generation">Create recommendations</a></td>
    <td></td>
    <td></td>
    <td>Whole team</td>
   </tr>
   <tr>
-   <td>Facilitate recommendations review</td>
+   <td><a href="#phase-3-category-refinement-and-recommendation-generation">Facilitate recommendations review</a></td>
    <td>Participates</td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>Create playback draft</td>
+     <td><a href="#create-playback-document">Create playback draft</a></td>
    <td></td>
    <td></td>
    <td>Assign team member(s)</td>
   </tr>
   <tr>
-   <td>Share draft playback with internal stakeholders</td>
+     <td><a href="#share-playback-internally">Share draft playback with internal stakeholders</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
   </tr>
   <tr>
-   <td>Lead iterations on playback draft</td>
+   <td><a href="#share-draft-playback-with-partner">Share draft playback with core partner stakeholder</a></td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
+  </tr>
+  <tr>
+     <td><a href="#schedule-recommendation-workshop">Schedule recommendation workshop</a></td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td rowspan="4">4</td>
+     <td><a href="#run-recommendation-workshop">Facilitate recommendation workshop</a></td>
+   <td></td>
+   <td>✓</td>
+   <td>(or interested team member)</td>
+   </tr>
+   <tr>
+     <td><a href="#iterate-playback">Lead iterations on playback draft</a></td>
+   <td></td>
+   <td></td>
+   <td>Assign team member</td>
+  </tr>
+   <tr>
+     <td><a href="#prepare-and-send-report">Prepare and send report</a></td>
    <td></td>
    <td></td>
    <td>Assign team member</td>
   </tr>
   <tr>
-   <td>Share draft playback with core partner stakeholder</td>
-   <td></td>
-   <td>✓</td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>Book recommendation workshop</td>
-   <td></td>
-   <td>✓</td>
-   <td></td>
-  </tr>
-  <tr>
-   <td rowspan="2" >4</td>
-   <td>Facilitate recommendation workshop</td>
-   <td></td>
-   <td>✓</td>
-   <td>(or interested team member)</td>
-  </tr>
-  <tr>
-   <td>Facilitate sprint team retro</td>
+     <td><a href="sprint-team-retro">Facilitate sprint team retro</a></td>
    <td></td>
    <td>✓</td>
    <td>(or interested team member)</td>
