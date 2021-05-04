@@ -33,7 +33,7 @@ This guide outlines what needs to happen to prepare an Exploration for success. 
 *   [Schedule internal sprint rituals](#11-schedule-internal-sprint-rituals)
 
 
-### 1. Share the partner guide with partners
+### 1. Share the Exploration partner guide with partners
 
 The [Partner Guide (internal link only)](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#heading=h.wb82wfeldvp6) helps partners know what to expect from Exploration. It outlines the schedule for the month and includes topics we’ll explore with stakeholders, so the partner can start identifying who might be best suited for each of the stakeholder chats. 
 
@@ -764,13 +764,13 @@ This table is meant to be a suggestion. It’s recommended that you review with 
   </tr>
   <tr>
    <td rowspan="13" >0</td>
-   <td>Decide when we run an Exploration]</td>
+   <td>Decide when we run an Exploration</td>
    <td>✓</td>
    <td></td>
    <td></td>
   </tr>
   <tr>
-   <td>Request people matching</td>
+   <td>Flag upcoming people matching (if necessary)</td>
    <td>✓</td>
    <td></td>
    <td></td>
