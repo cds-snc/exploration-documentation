@@ -210,6 +210,10 @@ In week 3, the team will need to discuss the findings and recommendations intern
     *   Share the report for feedback
     *   This will likely take place in week 4 once the report is closer to completion 
 
+### 12 Update internal kick-off deck 
+
+At the beginning of Week 1 there will be an internal onboarding meeting with the Sprint Team. Update the [internal kick-off deck (internal link only)](https://docs.google.com/presentation/d/178a_IBodqR-5SFxYMwu0EWJMILRW2JE2MJBvn_K1ClU/edit) to include a description of the problem space and links to the various sprint artifacts, as well as make any necessary changes to the process.
+
 
 ## <span style="text-decoration:underline;">During Exploration</span>
 
@@ -331,6 +335,8 @@ Once we know who we will be interviewing and when, populate [the interview guide
 >Example meeting request:\
 We're looking forward to talking to you about _(the service)_. I've included the questions we plan on asking below. I say "plan" because often in these conversations we start with the written questions and then follow the flow of conversation. Don't be alarmed if we skip questions or hop around the list below when we talk to you.\
 _(insert questions in English & French)_
+
+Update the [partner kick-off deck (internal link only)](https://docs.google.com/presentation/d/1-BtQ9pj6WkpndxeX5hoKctXKe1foyYap37c7GhRPZfE/edit#slide=id.p1) to tailor it to the partner audience.
 
 #### Review interview questions and build facilitation guides
 
