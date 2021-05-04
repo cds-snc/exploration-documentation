@@ -2,9 +2,9 @@
 
 ## Navigation 
 
-[Exploration Sprint Guide: How to set up and run an Exploration](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md) 
+[Exploration Sprint Guide: How to set up and run an Exploration](https://github.com/cds-snc/exploration-documentation/blob/main/Exploration-sprint-guide.md) 
 
-[Process Documentation: How we created and iterated on the service and the framework](https://github.com/cds-snc/exploration-documentation/blob/main/ProcessDocumentation.md) 
+[Process Documentation: How we created and iterated on the service and the framework](https://github.com/cds-snc/exploration-documentation/blob/main/Process-documentation.md) 
 
 [Findings: What we've learned](https://github.com/cds-snc/exploration-documentation/blob/main/Findings-what-we've-learned.md)
 
