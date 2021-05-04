@@ -1,6 +1,6 @@
 # How we created – and iterated on – the Exploration service and framework
 
-For a detailed overview of how an Exploration phase works, see our [Exploration Sprint Guide](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md).
+For a detailed overview of how an Exploration phase works, see our [Exploration Sprint Guide](https://github.com/cds-snc/exploration-documentation/blob/main/Exploration-sprint-guide.md).
 
 ## Table of contents 
 - Why CDS does Explorations 
