@@ -2,6 +2,8 @@ _For questions about this artifact see Caitlin Tuba or Emma Wootton_
 
 ## How to set up and run an Exploration 
 
+**Important note about this document: Artifact links are internal to CDS only.**
+
 
 ### Guide for onboarding the partner and setting up the delivery team
 
