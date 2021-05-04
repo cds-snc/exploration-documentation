@@ -505,8 +505,6 @@ If a team member isn’t able to make a stakeholder chat, and doesn’t feel com
   <tr>
    <td>
         <p><a href="#create-analysis-board">Create analysis board</a></p>
-   </td>
-   <td>
         <p><a href="#analyze-findings-and-create-recommendations">Analyze findings and create recommendations</a><br>(Heads down and group)</p>
    </td>
    <td>
