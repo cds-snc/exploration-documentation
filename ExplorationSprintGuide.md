@@ -138,7 +138,7 @@ You’ll also need to determine what tool the department is most comfortable wit
 
 Create a [people-matching request (internal link only)](https://docs.google.com/document/d/11N5_1hGnBGoh8fJCYtgw4I5hNNUSNPIwzOPDIBjHJtI/edit#) to build an Exploration team that includes 3-5 people with a combination of skills that together represent the required skills list below. 
 
-**Required experience**
+#### Required experience
 
 
 
@@ -154,7 +154,7 @@ Create a [people-matching request (internal link only)](https://docs.google.com/
 *   Comfort facilitating discussions 
 *   Ability to effectively give feedback to partners
 
-**Nice to have**
+#### Nice to have
 
 
 
@@ -222,13 +222,14 @@ At the beginning of Week 1 there will be an internal onboarding meeting with the
 
 
 
+*   [Throughout Exploration](#throughout-exploration)
 *   [Week 1: Onboarding](#week-1-onboarding-part-time)
 *   [Week 2: Gather information](#week-2-gather-information-full-time)
 *   [Week 3: Synthesize and playback internally](#week-3-synthesize-and-playback-internally-full-time)
 *   [Week 4: Iterate and playback externally](#week-4-iterate-and-collaborate-externally-part-time)
 
 
-##### Throughout Exploration
+### Throughout Exploration
 
 
 
@@ -308,7 +309,7 @@ Please give me a 👍 👎  on this or a 🤷‍♀️ or a comment in 🧵 or r
 
 The week begins on Monday with a 1-hour meeting led by the organizers to bring the team up to speed. 
 
-**Agenda:**
+##### Agenda:
 
 *   Familiarizing everyone with the goal, how Exploration works and previous Pre-Discoveries.
 *   Transferring knowledge gathered so far about the partner and the problem space. 
@@ -434,7 +435,7 @@ It might be helpful to have some informal debrief sessions during the week for t
 
 The week begins on Monday with a 1-hour kick-off meeting with the partner stakeholders, the Exploration team and the sprint organizers.
 
-**Agenda:**
+##### Agenda:
 
 *   Introduction to Exploration
 *   Brief intro on the problem space
@@ -462,7 +463,8 @@ It is recommended you take notes of the debrief into the airtable to remove the 
 
 >Option A* (Workshop debrief if only part of the team participating in interview):
 https://docs.google.com/document/d/1dd3hcdHYBn7VNo_2vP0yFXUk_UPe9viFpahBGiznS54/edit?usp=sharing
-*This is the preferred option, as having less people in the interview is better for the interviewee.
+
+*Option A is the preferred option, as having less people in the interview is better for the interviewee.
 
 >Option B (full team participation in interview - suggested agenda):\
 First 5 minutes - settle in / buffer time\
@@ -654,10 +656,7 @@ Add insights and advice from the team’s retro and from partner feedback to [Ap
 
 ### Add tasks to Trello Inbox
 
-Once you have the research and retro insights, add cards to the “Inbox” column in the [Exploration Framework Development Trello (internal link only)](https://trello.com/b/zOibssWn/exploration-framework-development) with the task as the title and the finding as the background information. This will be the foundation for the next/future iterating and will be prioritized by the team to be added to the backlog.
-
-
-## 
+Once you have the research and retro insights, add cards to the “Inbox” column in the [Exploration Framework Development Trello (internal link only)](https://trello.com/b/zOibssWn/exploration-framework-development) with the task as the title and the finding as the background information. This will be the foundation for the next/future iterating and will be prioritized by the team to be added to the backlog. 
 
 
 ## Appendix A: Advice from previous sprints 
