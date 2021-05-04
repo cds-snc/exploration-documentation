@@ -749,7 +749,7 @@ The way we show up during our client interactions reflects upon our brand. In th
  
 
 
-## Appendix B: Roles & Responsibilities Matrix
+## Appendix B: Roles and Responsibilities Matrix
 
 This table is meant to be a suggestion. It’s recommended that you review with the sprint team at the beginning of the Exploration to identify if folks want to take one some of the roles.
 
