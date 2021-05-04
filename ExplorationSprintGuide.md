@@ -12,6 +12,8 @@ This guide outlines what needs to happen to prepare an Exploration for success. 
 *   [Before Exploration](#before-exploration) 
 *   [During Exploration](#during-exploration) 
 *   [After Exploration](#after-exploration) 
+*   [Appendix A: Advice from previous sprints](#appendix-a-advice-from-previous-sprints)
+*   [Appendix B: Roles and Responsibilities Matrix](#appendix-b-roles-and-responsibilities-matrix)
 
 
 ## Before Exploration
