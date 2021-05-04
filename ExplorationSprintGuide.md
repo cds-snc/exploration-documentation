@@ -863,7 +863,7 @@ This table is meant to be a suggestion. It’s recommended that you review with 
    <td></td>
   </tr>
   <tr>
-     <td><a href="#">Facilitate week 1 debriefs</a></td>
+     <td><a href="#debriefs">Facilitate week 1 debriefs</a></td>
    <td></td>
    <td>✓</td>
    <td></td>
