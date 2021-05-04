@@ -6,7 +6,7 @@
 
 [Process Documentation: How we created and iterated on the service and the framework](https://github.com/cds-snc/exploration-documentation/blob/main/ProcessDocumentation.md) 
 
-[Findings: What we've learned](https://github.com/cds-snc/exploration-documentation/blob/main/Findings.md)
+[Findings: What we've learned](https://github.com/cds-snc/exploration-documentation/blob/main/Findings-what-we've-learned.md)
 
 ## About
 This is the repository of documentation for our Exploration Service. 
