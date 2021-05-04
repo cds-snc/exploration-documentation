@@ -746,376 +746,226 @@ This table is meant to be a suggestion. It’s recommended that you review with 
 
 <table>
   <tr>
-   <td>
-   </td>
-   <td><strong>Task</strong>
-   </td>
-   <td><strong>Business Development</strong>
-   </td>
-   <td><strong>Sprint Organizer</strong>
-   </td>
-   <td><strong>Other </strong>
-   </td>
+   <td></td>
+   <td><strong>Task</strong></td>
+   <td><strong>Business Development</strong></td>
+   <td><strong>Sprint Organizer</strong></td>
+   <td><strong>Other </strong></td>
   </tr>
   <tr>
-   <td rowspan="13" >0
-   </td>
-   <td>Decide when we run an Exploration
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td rowspan="13" >0</td>
+   <td>Decide when we run an Exploration]</td>
+   <td>✓</td>
+   <td></td>
+   <td></td>
   </tr>
   <tr>
-   <td>Request people matching
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td>Request people matching</td>
+   <td>✓</td>
+   <td></td>
+   <td></td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.uv07rhqqy4uc">Share the Exploration guide with partners</a>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td>[Share the Exploration guide with partners](#share-the-partner-guide-with-partners)</td>
+   <td>✓</td>
+   <td></td>
+   <td></td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.66kw6cveinnl">Sign the Exploration agreement</a>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td>[Sign the Exploration agreement](#get-the-exploration-agreement-signed)</td>
+   <td>✓</td>
+   <td></td>
+   <td></td>
   </tr>
   <tr>
-   <td><a href="#bookmark=kix.ispwt75mhhxf">Start developing a description of the problem space</a>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
-   <td>Also Partnership Advisor 
-   </td>
+   <td>[Start developing a description of the problem space](#develop-a-description-of-the-problem-space)</td>
+   <td>✓</td>
+   <td></td>
+   <td>Also Partnership Advisor</td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.o9bolu6w6r2u">Set up weekly check-ins with the partner</a>
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>[Set up weekly check-ins with the partner](#set-up-weekly-check-ins-with-the-partner)</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.eurww92rx93q">Create team channels and repositories</a>
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>[Create team channels and repositories](#create-team-channels-and-repositories)</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.xlgenchrv1uk">Identify and map key stakeholders</a>
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>[Identify and map key stakeholders](#identify-and-map-key-stakeholders)</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.jwmkub456gqi">Gather background materials</a>
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>[Gather background materials](#gather-background-material)</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.lrppv8eljnsr">Create a glossary</a>
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>[Create a glossary](#create-a-glossary-for-the-sprint)</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.thopiqhs3k73">Schedule partner meetings</a>
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>[Schedule partner meetings](#schedule-partner-meetings)</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.ilxsuqxd171n">Stand up a dedicated Exploration sprint team</a>
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>[Stand up a dedicated Exploration sprint team](#10-stand-up-a-dedicated-exploration-sprint-team-if-applicable)</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td><a href="#bookmark=id.ywfm9nz7m1d9">Schedule internal sprint rituals</a>
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>[Schedule internal sprint rituals](#schedule-internal-sprint-rituals)</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td rowspan="7" >1
-   </td>
-   <td>Update internal kick-off deck
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td rowspan="7" >1</td>
+   <td>Update internal kick-off deck</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td>Lead internal kick-off
-   </td>
-   <td>Participates
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>Lead internal kick-off</td>
+   <td>Participates</td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td>Update partner kick-off deck
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Assign team member
-   </td>
+   <td>Update partner kick-off deck</td>
+   <td></td>
+   <td></td>
+   <td>Assign team member</td>
   </tr>
   <tr>
-   <td>Share links for partner documentation with team
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>Share links for partner documentation with team</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td>Facilitate week 1 debriefs
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>Facilitate week 1 debriefs</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td>Run workshop on interviewing and note taking
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Research team member
-   </td>
+   <td>Run workshop on interviewing and note taking</td>
+   <td></td>
+   <td></td>
+   <td>Research team member</td>
   </tr>
   <tr>
-   <td>Identify roles for interviews
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>Identify roles for interviews</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td rowspan="3" >2
-   </td>
-   <td>Lead partner kick-off
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>(or interested team member)
-   </td>
+   <td rowspan="3" >2</td>
+   <td>Lead partner kick-off</td>
+   <td></td>
+   <td>✓</td>
+   <td>(or interested team member)</td>
   </tr>
   <tr>
-   <td>Facilitate debriefs
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>Facilitate debriefs</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td>Run scoring introduction
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>(or interested team member)
-   </td>
+   <td>Run scoring introduction</td>
+   <td></td>
+   <td>✓</td>
+   <td>(or interested team member)</td>
   </tr>
   <tr>
-   <td rowspan="10" >3
-   </td>
-   <td>Create analysis board
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td rowspan="10" >3</td>
+   <td>Create analysis board</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td>Populate analysis board with insights
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Whole team
-   </td>
+   <td>Populate analysis board with insights</td>
+   <td></td>
+   <td></td>
+   <td>Whole team</td>
   </tr>
   <tr>
-   <td>Facilitate analysis review
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>(or interested team member)
-   </td>
+   <td>Facilitate analysis review</td>
+   <td></td>
+   <td>✓</td>
+   <td>(or interested team member)</td>
   </tr>
   <tr>
-   <td>Create recommendations
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Whole team
-   </td>
+   <td>Create recommendations</td>
+   <td></td>
+   <td></td>
+   <td>Whole team</td>
   </tr>
   <tr>
-   <td>Facilitate recommendations review
-   </td>
-   <td>Participates
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>Facilitate recommendations review</td>
+   <td>Participates</td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td>Create playback draft
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Assign team member(s)
-   </td>
+   <td>Create playback draft</td>
+   <td></td>
+   <td></td>
+   <td>Assign team member(s)</td>
   </tr>
   <tr>
-   <td>Share draft playback with internal stakeholders
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>Share draft playback with internal stakeholders</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td>Lead iterations on playback draft
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Assign team member
-   </td>
+   <td>Lead iterations on playback draft</td>
+   <td></td>
+   <td></td>
+   <td>Assign team member</td>
   </tr>
   <tr>
-   <td>Share draft playback with core partner stakeholder
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>Share draft playback with core partner stakeholder</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td>Book recommendation workshop
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>
-   </td>
+   <td>Book recommendation workshop</td>
+   <td></td>
+   <td>✓</td>
+   <td></td>
   </tr>
   <tr>
-   <td rowspan="2" >4
-   </td>
-   <td>Facilitate recommendation workshop
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>(or interested team member)
-   </td>
+   <td rowspan="2" >4</td>
+   <td>Facilitate recommendation workshop</td>
+   <td></td>
+   <td>✓</td>
+   <td>(or interested team member)</td>
   </tr>
   <tr>
-   <td>Facilitate sprint team retro
-   </td>
-   <td>
-   </td>
-   <td>✓
-   </td>
-   <td>(or interested team member)
-   </td>
+   <td>Facilitate sprint team retro</td>
+   <td></td>
+   <td>✓</td>
+   <td>(or interested team member)</td>
   </tr>
 </table>
 
