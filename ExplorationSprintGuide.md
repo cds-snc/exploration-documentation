@@ -210,7 +210,7 @@ In week 3, the team will need to discuss the findings and recommendations intern
     *   Share the report for feedback
     *   This will likely take place in week 4 once the report is closer to completion 
 
-### 12 Update internal kick-off deck 
+### 12. Update internal kick-off deck 
 
 At the beginning of Week 1 there will be an internal onboarding meeting with the Sprint Team. Update the [internal kick-off deck (internal link only)](https://docs.google.com/presentation/d/178a_IBodqR-5SFxYMwu0EWJMILRW2JE2MJBvn_K1ClU/edit) to include a description of the problem space and links to the various sprint artifacts, as well as make any necessary changes to the process.
 
