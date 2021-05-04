@@ -31,6 +31,7 @@ This guide outlines what needs to happen to prepare an Exploration for success. 
 *   [Schedule partner meetings](#9-schedule-partner-meetings)
 *   [Stand up a dedicated Exploration sprint team ](#10-stand-up-a-dedicated-exploration-sprint-team-if-applicable)
 *   [Schedule internal sprint rituals](#11-schedule-internal-sprint-rituals)
+*   [Update internal kick-off deck](#update-internal-kick-off-deck)
 
 
 ### 1. Share the Exploration partner guide with partners
@@ -503,6 +504,9 @@ If a team member isn’t able to make a stakeholder chat, and doesn’t feel com
   </tr>
   <tr>
    <td>
+        <p><a href="#create-analysis-board">Create analysis board</a></p>
+   </td>
+   <td>
         <p><a href="#analyze-findings-and-create-recommendations">Analyze findings and create recommendations</a><br>(Heads down and group)</p>
    </td>
    <td>
@@ -540,7 +544,7 @@ The analysis will be completed in **three phases**. In this phase, the Sprint Or
 
 ##### Phase 2: Data input and group analysis 
 
-1. **Heads down data input:** The Sprint Organizer will ask each team member to review a selection of the interviews and put the findings from them into the analysis template. Document team member assignments in the [scheduling sheet (internal link only)](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit). During heads down time, each team member will review the notes from their assigned interview(s) as well as insights from the debrief and scoring guide on those topics. They will identify relevant findings (highlight) then add each of these identified findings to [the analysis airtable (internal link only)(https://airtable.com/invite/l?inviteId=invquuHIjL1BoxwUW&inviteToken=b35d24b4530f8f9c997f96d5290be718962ffe86192640c0232824cbf3b7973f) spreadsheet. Each finding, whether interview excerpt or other observation, should make up only one row of the spreadsheet. 
+1. **Heads down data input:** The Sprint Organizer will ask each team member to review a selection of the interviews and put the findings from them into the analysis template. Document team member assignments in the [scheduling sheet (internal link only)](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit). During heads down time, each team member will review the notes from their assigned interview(s) as well as insights from the debrief and scoring guide on those topics. They will identify relevant findings (highlight) then add each of these identified findings to [the analysis airtable (internal link only)](https://airtable.com/invite/l?inviteId=invquuHIjL1BoxwUW&inviteToken=b35d24b4530f8f9c997f96d5290be718962ffe86192640c0232824cbf3b7973f) spreadsheet. Each finding, whether interview excerpt or other observation, should make up only one row of the spreadsheet. 
 
 2. **Group analysis:** In a group session, team members will then categorize each excerpt into predefined categories based on the enabling conditions and product phases. 
 
@@ -553,7 +557,7 @@ The analysis will be completed in **three phases**. In this phase, the Sprint Or
 
 #### Create playback document
 
-Assign a playback lead to own the writing (or delegation of writing). Ideally there is a small-ish team working to write the final playback documentation based on the collaborative analysis and informed by the scoring.\
+Assign a playback lead to own the writing (or delegation of writing). Ideally there is a small-ish team working to write the final playback documentation based on the collaborative analysis and informed by the scoring.
 
 
 Identify a reasonable draft completion date so the partner and internal CDS leadership can be kept up to date on when their inputs will be needed.
