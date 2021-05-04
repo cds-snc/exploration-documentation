@@ -35,7 +35,7 @@ This guide outlines what needs to happen to prepare an Exploration for success. 
 
 The [Partner Guide (internal link only)](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#heading=h.wb82wfeldvp6) helps partners know what to expect from Exploration. It outlines the schedule for the month and includes topics we’ll explore with stakeholders, so the partner can start identifying who might be best suited for each of the stakeholder chats. 
 
-Ask the partner coordinator to [review the potential questions (internal link only)](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#bookmark=id.jwibarwde9ee) at the end of the Partner Guide, and work with them to identify potential stakeholders and fill out information about each person. Add this information to the “Participant Biographies” tab of the [Scheduling spreadsheet](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit#gid=2072067210).This documentation about potential stakeholders will help the Explorations team refine the interview guides for each person and their role. Once you have a list of people, you can start [mapping them in relation to other key stakeholders](#6-identify-and-map-key-stakeholders).
+Ask the partner coordinator to [review the potential questions (internal link only)](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#bookmark=id.jwibarwde9ee) at the end of the Partner Guide, and work with them to identify potential stakeholders and fill out information about each person. Add this information to the “Participant Biographies” tab of the [Scheduling spreadsheet (internal link only)](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit#gid=2072067210).This documentation about potential stakeholders will help the Explorations team refine the interview guides for each person and their role. Once you have a list of people, you can start [mapping them in relation to other key stakeholders](#6-identify-and-map-key-stakeholders).
 
 Stakeholders are sorted into three different types of role, for the purpose of interviewing. The interview roles are: 
 
@@ -46,7 +46,7 @@ Stakeholders are sorted into three different types of role, for the purpose of i
 
 ### 2. Get the Exploration agreement signed
 
-Before anything else happens, an [Exploration agreement](https://docs.google.com/document/d/1_TPBv8mvu6DMWpdJQs5Je3pv4tAFT-toHR1LAhtqL-Q/edit#heading=h.gjdgxs) should be drafted and signed by CDS and the Director/DG from the partner team. This agreement includes the CDS terms of engagement and helps keep everyone accountable. It also includes the start and end dates of Exploration as agreed by both parties.
+Before anything else happens, an [Exploration agreement (internal link only)](https://docs.google.com/document/d/1_TPBv8mvu6DMWpdJQs5Je3pv4tAFT-toHR1LAhtqL-Q/edit#heading=h.gjdgxs) should be drafted and signed by CDS and the Director/DG from the partner team. This agreement includes the CDS terms of engagement and helps keep everyone accountable. It also includes the start and end dates of Exploration as agreed by both parties.
 
 
 ### 3. Develop a description of the problem space
@@ -65,14 +65,14 @@ Keep communication going leading up to the Exploration with weekly check-ins wit
 
 To hit the ground running at the start of Exploration, establish a new Exploration sprint team Slack channel, Trello board, and document repository ahead of time. This will help facilitate communication throughout Exploration. 
 
-Use the format #exploration-department-project for the Slack channel name. Also use the [Google Drive document repo template](https://drive.google.com/drive/folders/1YKLv_xjPT89yFz9nqSb0XAGJFkLQAhL3) and [Trello sprint board template](https://trello.com/b/jSavdn0U/pre-discovery-sprint-management) to start with all the necessary Exploration tools. Make sure that all of the template files are copied to a new folder in the [Partner Sprints folder](https://drive.google.com/drive/folders/1oCHpDiBGeuGZjo21qL2l5owQsovGO-A0) with the department acronym prepended to the title. 
+Use the format #exploration-department-project for the Slack channel name. Also use the [Google Drive document repo template (internal link only)](https://drive.google.com/drive/folders/1YKLv_xjPT89yFz9nqSb0XAGJFkLQAhL3) and [Trello sprint board template (internal link only)](https://trello.com/b/jSavdn0U/pre-discovery-sprint-management) to start with all the necessary Exploration tools. Make sure that all of the template files are copied to a new folder in the [Partner Sprints folder (internal link only)](https://drive.google.com/drive/folders/1oCHpDiBGeuGZjo21qL2l5owQsovGO-A0) with the department acronym prepended to the title. 
 
 
 ### 6. Identify and map key stakeholders
 
-Before you start, you’ll need to understand how the partner department is structured and identify the people within it who can help. To do this, run a [Stakeholder Mapping workshop](https://docs.google.com/document/d/1l1nnP89_FGYKcVCp1-9fKt8kEDvYffl2hTdVV5q2Xzg/edit) with the person who is responsible for coordinating on the partner side, as well as other stakeholders in the department (if necessary). Ideally, you should include executives and managers to this session as they often have a broader view of the organization.
+Before you start, you’ll need to understand how the partner department is structured and identify the people within it who can help. To do this, run a [Stakeholder Mapping workshop (internal link only)](https://docs.google.com/document/d/1l1nnP89_FGYKcVCp1-9fKt8kEDvYffl2hTdVV5q2Xzg/edit) with the person who is responsible for coordinating on the partner side, as well as other stakeholders in the department (if necessary). Ideally, you should include executives and managers to this session as they often have a broader view of the organization.
 
-Understanding the landscape of the partner organization is one of the primary goals of Exploration. To start, you can request high-level organizational charts from the partner. Then, have conversations to document how the different areas interrelate (for example: how the teams work together, who’s responsible for what, how they relate to the problem space). This information provides an important foundation for us to be able to identify the right people to talk to and effectively ask questions. If you have time, consider also looking up the partner department on the [Government Electronic Directory Services (GEDS)](https://geds-sage.gc.ca/en/GEDS?pgid=002) to fill in some of the blanks. Make sure you validate what you find with the partner department as GEDS can sometimes be out-of-date. 
+Understanding the landscape of the partner organization is one of the primary goals of Exploration. To start, you can request high-level organizational charts from the partner. Then, have conversations to document how the different areas interrelate (for example: how the teams work together, who’s responsible for what, how they relate to the problem space). This information provides an important foundation for us to be able to identify the right people to talk to and effectively ask questions. If you have time, consider also looking up the partner department on the [Government Electronic Directory Services (GEDS) (internal link only)](https://geds-sage.gc.ca/en/GEDS?pgid=002) to fill in some of the blanks. Make sure you validate what you find with the partner department as GEDS can sometimes be out-of-date. 
 
 
 ### 7. Gather background material
@@ -98,7 +98,7 @@ These background materials should include:
 *   Documentation around IT Asset Management or Change Advisory Board process (ideally recent minutes from meetings where they discussed new technologies)
 *   Any other supporting documentation that explains who the users are, how they are impacted, and why they need help
 
-Once they’ve been collected, make sure that they’re added to the [repository of documents](https://drive.google.com/drive/folders/1nWf_uHzCkkCehJtJwoNjvXY5pOSs0dwJ) received from the partner in the Partner folder. If there’s additional context surrounding the purpose of the documents, consider adding information on them in a document index.
+Once they’ve been collected, make sure that they’re added to the [repository of documents (internal link only)](https://drive.google.com/drive/folders/1nWf_uHzCkkCehJtJwoNjvXY5pOSs0dwJ) received from the partner in the Partner folder. If there’s additional context surrounding the purpose of the documents, consider adding information on them in a document index.
 
 
 ### 8. Create a glossary for the sprint
@@ -110,7 +110,7 @@ Partner departments often use acronyms and terms the team may not be immediately
 
 There are a number of core meetings that need to be scheduled in advance with partner stakeholders, including the kick-off meeting and stakeholder chats. 
 
-Use the [scheduling template](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit) to document the meetings in addition to scheduling them in Google Calendar. Once the Exploration team members have been assigned to the team, make sure to also add them to the Calendar invites. 
+Use the [scheduling template (internal link only)](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit) to document the meetings in addition to scheduling them in Google Calendar. Once the Exploration team members have been assigned to the team, make sure to also add them to the Calendar invites. 
 
 
 #### 9.1 Kick-off meeting
@@ -120,7 +120,7 @@ Week 2 will start with a 1-hour kick-off including stakeholders from the partner
 
 #### 9.2 Schedule stakeholder chats 
 
-As you identify the right people, you’ll need to schedule 1-hour stakeholder chats with them for Week 2 and add them to [the schedule](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit). Ideally stakeholder chats #1 and #2 should be scheduled as the first meetings. As you send out the invites, make sure to send the participant the list of questions for them (in both official languages). It’s recommended that you include that we may deviate from the questions as the conversation flows. The questions included in the invite are only to guide the conversation.
+As you identify the right people, you’ll need to schedule 1-hour stakeholder chats with them for Week 2 and add them to [the schedule (internal link only)](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit). Ideally stakeholder chats #1 and #2 should be scheduled as the first meetings. As you send out the invites, make sure to send the participant the list of questions for them (in both official languages). It’s recommended that you include that we may deviate from the questions as the conversation flows. The questions included in the invite are only to guide the conversation.
 
 >Example meeting request:\
 We're looking forward to talking to you about _(the service)_. We will update this meeting invite with the questions we intend to explore on the Friday prior to this session. If you have any questions in the meantime please don't hesitate to reach out to myself or _(main stakeholder)_.
@@ -133,7 +133,7 @@ You’ll also need to determine what tool the department is most comfortable wit
 
 ### 10. Stand up a dedicated Exploration sprint team _(if applicable)_
 
-Create a [people-matching request](https://docs.google.com/document/d/11N5_1hGnBGoh8fJCYtgw4I5hNNUSNPIwzOPDIBjHJtI/edit#) to build an Exploration team that includes 3-5 people with a combination of skills that together represent the required skills list below. 
+Create a [people-matching request (internal link only)](https://docs.google.com/document/d/11N5_1hGnBGoh8fJCYtgw4I5hNNUSNPIwzOPDIBjHJtI/edit#) to build an Exploration team that includes 3-5 people with a combination of skills that together represent the required skills list below. 
 
 **Required experience**
 
@@ -173,22 +173,22 @@ Sprint rituals that need to be scheduled and socialized in advance include:
 *   Discussion time 
 *   Playback internal discussion
 
-Use the [scheduling template](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit#gid=0) to document the meetings in addition to scheduling them in Google Calendar. 
+Use the [scheduling template (internal link only)](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit#gid=0) to document the meetings in addition to scheduling them in Google Calendar. 
 
 
 #### 11.1 Internal kick-off 
 
-The Exploration team will have a week to onboard before the Exploration starts with the partner (Week 1). At the beginning of this week there will be a 1-hour team onboarding meeting, which is their official introduction to Exploration. Use the [team onboarding deck](https://docs.google.com/presentation/d/178a_IBodqR-5SFxYMwu0EWJMILRW2JE2MJBvn_K1ClU/edit#slide=id.g4cea57f733_0_0). Before the meeting you’ll need to fill in information about the partner, the problem space and the service context. 
+The Exploration team will have a week to onboard before the Exploration starts with the partner (Week 1). At the beginning of this week there will be a 1-hour team onboarding meeting, which is their official introduction to Exploration. Use the [team onboarding deck (internal link only)](https://docs.google.com/presentation/d/178a_IBodqR-5SFxYMwu0EWJMILRW2JE2MJBvn_K1ClU/edit#slide=id.g4cea57f733_0_0). Before the meeting you’ll need to fill in information about the partner, the problem space and the service context. 
 
 
 #### 11.2 Debriefs 
 
-At the end of each day (in Week 2), the team should have an internal debrief to discuss what they heard (sensemaking), what worked and what didn’t work. Follow the [Debrief Process](https://docs.google.com/document/d/1dd3hcdHYBn7VNo_2vP0yFXUk_UPe9viFpahBGiznS54/edit) guide. In total there will likely be 2 stakeholder chats each day, so you’ll need to schedule them in advance. You may also want to schedule some debrief meetings during the onboarding week as folks are exploring documentation. 
+At the end of each day (in Week 2), the team should have an internal debrief to discuss what they heard (sensemaking), what worked and what didn’t work. Follow the [Debrief Process (internal link only)](https://docs.google.com/document/d/1dd3hcdHYBn7VNo_2vP0yFXUk_UPe9viFpahBGiznS54/edit) guide. In total there will likely be 2 stakeholder chats each day, so you’ll need to schedule them in advance. You may also want to schedule some debrief meetings during the onboarding week as folks are exploring documentation. 
 
 
 #### 11.3 Heads down time
 
-During the stakeholder chats week (Week 2), the team should have time at least once a day to go through the notes and score the department in the [scoring worksheet](https://docs.google.com/spreadsheets/d/1HswndK3RXIvu3MAK6kI0kGYoPgsYSJvnBpLNPQRjHMc/edit). They’ll also need time for making the playback documentation (Week 3). This requires heads down time that should be scheduled in advance. If possible, blocking off the sprint week as an “out of office” week for other non-Exploration meetings is ideal. 
+During the stakeholder chats week (Week 2), the team should have time at least once a day to go through the notes and score the department in the [scoring worksheet (internal link only)](https://docs.google.com/spreadsheets/d/1HswndK3RXIvu3MAK6kI0kGYoPgsYSJvnBpLNPQRjHMc/edit). They’ll also need time for making the playback documentation (Week 3). This requires heads down time that should be scheduled in advance. If possible, blocking off the sprint week as an “out of office” week for other non-Exploration meetings is ideal. 
 
 
 #### 11.4 Discussion time 
@@ -312,21 +312,21 @@ The week begins on Monday with a 1-hour meeting led by the organizers to bring t
 
 #### Review past Exploration sprints
 
-Any new team members should read the playback report, as well as [stakeholder chats and debrief notes](https://drive.google.com/drive/folders/1oCHpDiBGeuGZjo21qL2l5owQsovGO-A0) from previous sprints to get a sense for how they go and what to expect.
+Any new team members should read the playback report, as well as [stakeholder chats and debrief notes (internal link only)](https://drive.google.com/drive/folders/1oCHpDiBGeuGZjo21qL2l5owQsovGO-A0) from previous sprints to get a sense for how they go and what to expect.
 
 The team can also consult advice and lessons learned from previous teams in [Appendix A](#appendix-a-advice-from-previous-sprints).
 
 
 #### Read partner documentation
 
-The team should read through the [relevant documentation](https://drive.google.com/drive/folders/1nWf_uHzCkkCehJtJwoNjvXY5pOSs0dwJ) given by the partner. This will help them understand the problem space. 
+The team should read through the [relevant documentation (internal link only)](https://drive.google.com/drive/folders/1nWf_uHzCkkCehJtJwoNjvXY5pOSs0dwJ) given by the partner. This will help them understand the problem space. 
 
 
 #### Prepare for kick-off and stakeholder chats 
 
-Familiarize yourself with the partner’s [description of the problem space](https://docs.google.com/document/d/1tIf3QUmVLml1HNqyTkn3j5F2pIWcaAkDvVKPBCbrcEw/edit), the stakeholder map, the [next week’s schedule](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit), the [stakeholder chat discussion questions](https://docs.google.com/spreadsheets/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit#gid=0), and [scoring criteria](https://docs.google.com/spreadsheets/d/1HswndK3RXIvu3MAK6kI0kGYoPgsYSJvnBpLNPQRjHMc/edit#gid=1968493336).
+Familiarize yourself with the partner’s [description of the problem space (internal link only)](https://docs.google.com/document/d/1tIf3QUmVLml1HNqyTkn3j5F2pIWcaAkDvVKPBCbrcEw/edit), the stakeholder map, the [next week’s schedule (internal link only)](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit), the [stakeholder chat discussion questions (internal link only)](https://docs.google.com/spreadsheets/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit#gid=0), and [scoring criteria (internal link only)](https://docs.google.com/spreadsheets/d/1HswndK3RXIvu3MAK6kI0kGYoPgsYSJvnBpLNPQRjHMc/edit#gid=1968493336).
 
-Once we know who we will be interviewing and when, populate [the interview guides ](https://docs.google.com/document/u/0/d/19Kvos1BZYydPXFPQ1YUhVjb991bkuc4HRE1LuuaAxgQ/edit)with the [appropriate questions](https://docs.google.com/spreadsheets/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit#gid=0) and update the placeholder meeting invites with the questions.
+Once we know who we will be interviewing and when, populate [the interview guides (internal link only)](https://docs.google.com/document/u/0/d/19Kvos1BZYydPXFPQ1YUhVjb991bkuc4HRE1LuuaAxgQ/edit)with the [appropriate questions (internal link only)](https://docs.google.com/spreadsheets/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit#gid=0) and update the placeholder meeting invites with the questions.
 
 >Example meeting request:\
 We're looking forward to talking to you about _(the service)_. I've included the questions we plan on asking below. I say "plan" because often in these conversations we start with the written questions and then follow the flow of conversation. Don't be alarmed if we skip questions or hop around the list below when we talk to you.\
@@ -334,12 +334,12 @@ _(insert questions in English & French)_
 
 #### Review interview questions and build facilitation guides
 
-The team should read through the [interview questions](https://docs.google.com/spreadsheets/u/0/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit) to see if any changes need to be made. Then build the facilitation guides from the [boilerplate templates](https://docs.google.com/document/d/13FiA8laI_XU8FnSfW5LyuyoX9qTaaB3mH1EY5Nja0uA/) and identify which stakeholder chats they’re most comfortable facilitating. 
+The team should read through the [interview questions (internal link only)](https://docs.google.com/spreadsheets/u/0/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit) to see if any changes need to be made. Then build the facilitation guides from the [boilerplate templates (internal link only)](https://docs.google.com/document/d/13FiA8laI_XU8FnSfW5LyuyoX9qTaaB3mH1EY5Nja0uA/) and identify which stakeholder chats they’re most comfortable facilitating. 
 
 
 #### Workshop on interviewing and note taking
 
-For those new to CDS’s way of conducting research interviews and note taking the Research Community [has put together a training session on these topics](https://docs.google.com/presentation/d/1f7HmhwJ338sAoc-cI87rOh6NU5SVCJdZz7whnGh5VGI/edit#slide=id.g470bce74c5_0_0). Everyone is encouraged to take it as a refresher prior to the interview week of the exploration.
+For those new to CDS’s way of conducting research interviews and note taking the Research Community [has put together a training session on these topics (internal link only)](https://docs.google.com/presentation/d/1f7HmhwJ338sAoc-cI87rOh6NU5SVCJdZz7whnGh5VGI/edit#slide=id.g470bce74c5_0_0). Everyone is encouraged to take it as a refresher prior to the interview week of the exploration.
 
 
 #### Assign roles 
@@ -350,7 +350,7 @@ Each stakeholder chat needs to have:
 *   1 notetaker
 *   1 backup facilitator / note taker
 
-These are documented in the [scheduling sheet.](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit)
+These are documented in the [scheduling sheet (internal link only)](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit).
 
 
 #### Debriefs 
@@ -437,7 +437,7 @@ If a department participant isn’t able to make it, make sure you make note of 
 
 #### Stakeholder chats
 
-Throughout the week the team is responsible for running the **[stakeholder chats](https://docs.google.com/spreadsheets/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit)**. There is one facilitator and one note taker for each stakeholder chat. The notes taken should be verbatim as much as possible, to ensure there’s raw data to refer back to. They’ll take notes directly in the facilitation guide under each question (make sure there’s a labelled copy for each stakeholder chat). We recommend putting the notes in another colour such as blue.
+Throughout the week the team is responsible for running the [stakeholder chats (internal link only)](https://docs.google.com/spreadsheets/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit). There is one facilitator and one note taker for each stakeholder chat. The notes taken should be verbatim as much as possible, to ensure there’s raw data to refer back to. They’ll take notes directly in the facilitation guide under each question (make sure there’s a labelled copy for each stakeholder chat). We recommend putting the notes in another colour such as blue.
 
 Although only two of the team members are running the meeting with stakeholders (facilitating and note taking), everyone should be at the debrief to hear what was said. 
 
@@ -452,7 +452,7 @@ It is recommended you take notes of the debrief into the airtable to remove the 
 
 
 >Option A* (Workshop debrief if only part of the team participating in interview):
-https://docs.google.com/document/d/1dd3hcdHYBn7VNo_2vP0yFXUk_UPe9viFpahBGiznS54/edit?usp=sharing\
+https://docs.google.com/document/d/1dd3hcdHYBn7VNo_2vP0yFXUk_UPe9viFpahBGiznS54/edit?usp=sharing
 *This is the preferred option, as having less people in the interview is better for the interviewee.
 
 >Option B (full team participation in interview - suggested agenda):\
@@ -470,7 +470,7 @@ For those new to Exploration, holding a “30 minute introduction to scoring” 
 
 #### Scoring
 
-After each stakeholder chat, the team members should individually [score](https://docs.google.com/spreadsheets/d/1HswndK3RXIvu3MAK6kI0kGYoPgsYSJvnBpLNPQRjHMc/edit#gid=1968493336) the stakeholder chat while it’s still fresh in their mind. This will be done during heads down time. 
+After each stakeholder chat, the team members should individually [score (internal link only)](https://docs.google.com/spreadsheets/d/1HswndK3RXIvu3MAK6kI0kGYoPgsYSJvnBpLNPQRjHMc/edit#gid=1968493336) the stakeholder chat while it’s still fresh in their mind. This will be done during heads down time. 
 
 Each team member will score for each criteria with supporting rationale/evidence as to why they chose that score. We use these scores to have a quantitative value to each group that takes part in an exploration. We also use the values to start discussions among the team during debriefs.
 
@@ -530,7 +530,7 @@ The analysis will be completed in** three phases**. In this phase, the Sprint Or
 
 ##### Phase 2: Data input and group analysis 
 
-1. **Heads down data input:** The Sprint Organizer will ask each team member to review a selection of the interviews and put the findings from them into the analysis template. Document team member assignments in the [scheduling sheet](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit). During heads down time, each team member will review the notes from their assigned interview(s) as well as insights from the debrief and scoring guide on those topics. They will identify relevant findings (highlight) then add each of these identified findings to [the analysis airtable](https://airtable.com/invite/l?inviteId=invquuHIjL1BoxwUW&inviteToken=b35d24b4530f8f9c997f96d5290be718962ffe86192640c0232824cbf3b7973f) spreadsheet. Each finding, whether interview excerpt or other observation, should make up only one row of the spreadsheet. 
+1. **Heads down data input:** The Sprint Organizer will ask each team member to review a selection of the interviews and put the findings from them into the analysis template. Document team member assignments in the [scheduling sheet (internal link only)](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit). During heads down time, each team member will review the notes from their assigned interview(s) as well as insights from the debrief and scoring guide on those topics. They will identify relevant findings (highlight) then add each of these identified findings to [the analysis airtable (internal link only)(https://airtable.com/invite/l?inviteId=invquuHIjL1BoxwUW&inviteToken=b35d24b4530f8f9c997f96d5290be718962ffe86192640c0232824cbf3b7973f) spreadsheet. Each finding, whether interview excerpt or other observation, should make up only one row of the spreadsheet. 
 
 2. **Group analysis:** In a group session, team members will then categorize each excerpt into predefined categories based on the enabling conditions and product phases. 
 
@@ -561,7 +561,7 @@ We have found if we send the playback to the core partner stakeholder (plus one 
 
 #### Schedule recommendation workshop
 
-A few days after the draft report is delivered we will hold a [recommendation review and roadmap workshop](https://docs.google.com/document/d/1QW8De-E1JAAtGUg3EBLWh6FjmCPBgjkJWdiqJE4z-ZM/edit). Try to book this 1-hour meeting in advance (during Week 3), to secure stakeholders’ calendars if possible.
+A few days after the draft report is delivered we will hold a [recommendation review and roadmap workshop (internal link only)](https://docs.google.com/document/d/1QW8De-E1JAAtGUg3EBLWh6FjmCPBgjkJWdiqJE4z-ZM/edit). Try to book this 1-hour meeting in advance (during Week 3), to secure stakeholders’ calendars if possible.
 
 
 ### Week 4: Iterate and collaborate externally (part-time)  
@@ -605,7 +605,7 @@ A few days after the draft report is delivered we will hold a [recommendation re
 
 #### Run recommendation workshop
 
-A few days after the draft report has been sent to the partner we meet to discuss the recommendations and to start to map them into a more helpful format than a long list. For details on this workshop please see [this document.](https://docs.google.com/document/d/1QW8De-E1JAAtGUg3EBLWh6FjmCPBgjkJWdiqJE4z-ZM/edit)
+A few days after the draft report has been sent to the partner we meet to discuss the recommendations and to start to map them into a more helpful format than a long list. For details on this workshop please see [this document (internal link only)](https://docs.google.com/document/d/1QW8De-E1JAAtGUg3EBLWh6FjmCPBgjkJWdiqJE4z-ZM/edit).
 
 
 #### Iterate playback
@@ -620,7 +620,7 @@ Once finalized, the report should be sent to Outreach for translation and design
 
 #### Sprint team retro
 
-The sprint organizer should run an [internal retro](https://funretro.io/publicboard/jcO82uiyj6QIIJ0hUtetJM39un22/a9bcb36d-be4c-4c65-bf71-48691528ef96?sort=votes) with the team to get feedback on how the Exploration process went. This information should be translated into the backlog of the [Exploration Framework team’s Trello board](https://trello.com/b/zOibssWn/pre-discovery-framework-development) for future iteration.
+The sprint organizer should run an [internal retro (internal link only)](https://funretro.io/publicboard/jcO82uiyj6QIIJ0hUtetJM39un22/a9bcb36d-be4c-4c65-bf71-48691528ef96?sort=votes) with the team to get feedback on how the Exploration process went. This information should be translated into the backlog of the [Exploration Framework team’s Trello board (internal link only)](https://trello.com/b/zOibssWn/pre-discovery-framework-development) for future iteration.
 
 
 ## <span style="text-decoration:underline;">After Exploration</span>
@@ -632,17 +632,17 @@ The sprint organizer should run an [internal retro](https://funretro.io/publicbo
 
 ### Get feedback from partner
 
-The Sprint Organizer should run a feedback session with the partner, either in a group setting or multiple 1:1s, depending what they’re comfortable with. You should use the [feedback template](https://docs.google.com/document/d/18H3NIq2HchzcAW4FkwJTYZipfmBlwAbuGcCvGp-wYs0/edit) and add any additional questions that you feel are necessary. 
+The Sprint Organizer should run a feedback session with the partner, either in a group setting or multiple 1:1s, depending what they’re comfortable with. You should use the [feedback template (internal link only)](https://docs.google.com/document/d/18H3NIq2HchzcAW4FkwJTYZipfmBlwAbuGcCvGp-wYs0/edit) and add any additional questions that you feel are necessary. 
 
 
 ### Document lessons learned
 
-Add insights and advice from the team’s retro and from partner feedback to [Appendix A](#appendix-a-advice-from-previous-sprints) and the [Onboarding Deck](https://docs.google.com/presentation/d/178a_IBodqR-5SFxYMwu0EWJMILRW2JE2MJBvn_K1ClU/edit#slide=id.ga64436b04b_0_0) for future sprint teams. This could include any tips and recommendations for success, or pitfalls that they encountered.
+Add insights and advice from the team’s retro and from partner feedback to [Appendix A](#appendix-a-advice-from-previous-sprints) and the [Onboarding Deck (internal link only)](https://docs.google.com/presentation/d/178a_IBodqR-5SFxYMwu0EWJMILRW2JE2MJBvn_K1ClU/edit#slide=id.ga64436b04b_0_0) for future sprint teams. This could include any tips and recommendations for success, or pitfalls that they encountered.
 
 
 ### Add tasks to Trello Inbox
 
-Once you have the research and retro insights, add cards to the “Inbox” column in the [Exploration Framework Development Trello](https://trello.com/b/zOibssWn/exploration-framework-development) with the task as the title and the finding as the background information. This will be the foundation for the next/future iterating and will be prioritized by the team to be added to the backlog.
+Once you have the research and retro insights, add cards to the “Inbox” column in the [Exploration Framework Development Trello (internal link only)](https://trello.com/b/zOibssWn/exploration-framework-development) with the task as the title and the finding as the background information. This will be the foundation for the next/future iterating and will be prioritized by the team to be added to the backlog.
 
 
 ## 
