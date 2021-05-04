@@ -2,9 +2,9 @@ _For questions about this artifact see Caitlin Tuba or Emma Wootton_
 
 **Important note about this document:** Artifact links are internal to CDS only.
 
-## How to set up and run an Exploration 
+# How to set up and run an Exploration 
 
-### Guide for onboarding the partner and setting up the delivery team
+## Guide for onboarding the partner and setting up the delivery team
 
 This guide outlines what needs to happen to prepare an Exploration for success. It covers the series of tasks that Business Development and the Sprint Organizer will need to ensure happens:
 
