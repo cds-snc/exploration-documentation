@@ -33,14 +33,14 @@ This guide outlines what needs to happen to prepare an Exploration for success. 
 
 ### 1. Share the partner guide with partners
 
-The [Partner Guide](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#heading=h.wb82wfeldvp6) helps partners know what to expect from Exploration. It outlines the schedule for the month and includes topics we’ll explore with stakeholders, so the partner can start identifying who might be best suited for each of the stakeholder chats. 
+The [Partner Guide (internal link only)](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#heading=h.wb82wfeldvp6) helps partners know what to expect from Exploration. It outlines the schedule for the month and includes topics we’ll explore with stakeholders, so the partner can start identifying who might be best suited for each of the stakeholder chats. 
 
-Ask the partner coordinator to [review the potential questions](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#bookmark=id.jwibarwde9ee) at the end of the Partner Guide, and work with them to identify potential stakeholders and fill out information about each person. Add this information to the “Participant Biographies” tab of the [Scheduling spreadsheet](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit#gid=2072067210).This documentation about potential stakeholders will help the Explorations team refine the interview guides for each person and their role. Once you have a list of people, you can start [mapping them in relation to other key stakeholders](#6-identify-and-map-key-stakeholders).
+Ask the partner coordinator to [review the potential questions (internal link only)](https://docs.google.com/document/d/1XXYu0HcB_wkvn98RqPWeEvJiB1wRC_dhdTxdHXw21Xw/edit#bookmark=id.jwibarwde9ee) at the end of the Partner Guide, and work with them to identify potential stakeholders and fill out information about each person. Add this information to the “Participant Biographies” tab of the [Scheduling spreadsheet](https://docs.google.com/spreadsheets/d/19z-6nAyBwawU0_-_QdEF4XP83MY4YYnO679bQ_KLFuY/edit#gid=2072067210).This documentation about potential stakeholders will help the Explorations team refine the interview guides for each person and their role. Once you have a list of people, you can start [mapping them in relation to other key stakeholders](#6-identify-and-map-key-stakeholders).
 
 Stakeholders are sorted into three different types of role, for the purpose of interviewing. The interview roles are: 
 
->1. **Functional Specialists**: Executive, management, and working-level stakeholders responsible for providing advice and overseeing processes related to program and policy specialists. This role includes communications, technology, legal, access to information and privacy, etc.\
-2. **Program Specialists**: Executive, management, and working-level specialists responsible for the delivery of the service or program.\ 
+1. **Functional Specialists**: Executive, management, and working-level stakeholders responsible for providing advice and overseeing processes related to program and policy specialists. This role includes communications, technology, legal, access to information and privacy, etc.
+2. **Program Specialists**: Executive, management, and working-level specialists responsible for the delivery of the service or program.
 3. **Policy Specialists**: Management and working-level specialists responsible for providing advice and overseeing processes related to the service including policy direction and research.
 
 
@@ -329,8 +329,8 @@ Familiarize yourself with the partner’s [description of the problem space](htt
 Once we know who we will be interviewing and when, populate [the interview guides ](https://docs.google.com/document/u/0/d/19Kvos1BZYydPXFPQ1YUhVjb991bkuc4HRE1LuuaAxgQ/edit)with the [appropriate questions](https://docs.google.com/spreadsheets/d/13RvzPfXaGsqmzQerChKIXte1lktj2NOm_c0z2eKD3vE/edit#gid=0) and update the placeholder meeting invites with the questions.
 
 >Example meeting request:\
-We're looking forward to talking to you about <<the service>>. I've included the questions we plan on asking below. I say "plan" because often in these conversations we start with the written questions and then follow the flow of conversation. Don't be alarmed if we skip questions or hop around the list below when we talk to you.\
-<<questions in English & French>>
+We're looking forward to talking to you about _(the service)_. I've included the questions we plan on asking below. I say "plan" because often in these conversations we start with the written questions and then follow the flow of conversation. Don't be alarmed if we skip questions or hop around the list below when we talk to you.\
+_(insert questions in English & French)_
 
 #### Review interview questions and build facilitation guides
 
@@ -366,7 +366,7 @@ It might be helpful to have some informal debrief sessions during the week for t
 10:25-10:30 - grouping / voting on ones we want to discuss more\
 10:30-10:50 - discussing those things
 
->For Friday:/
+>For Friday:\
 10:00-10:05 - weird topic yet again (sorry it's what happens in meetings with me)\
 10:05-10:15 - review schedule / facilitator / note taker assignments\
 10:15-10:40 - review interview guides and any questions -- making sure our outstanding questions from Wednesday / Thursday can be answered by our interview guides\
