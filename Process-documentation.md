@@ -30,8 +30,6 @@ Through experimentation and consulting with partners and leadership, the goals o
 - To determine CDS’ level of involvement in delivering a new service.
 - To understand the government landscape and learn about patterns and trends in potential partner organizations.
 
-## Developing the Explorations service
-
 ### 1. Conduct background research
 
 #### Secondary research 
