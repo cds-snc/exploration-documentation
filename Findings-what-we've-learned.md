@@ -24,4 +24,4 @@ As of April 2021, we've run 4 pilot Explorations with 3 departments and 4 progra
 
 [EN Report](https://github.com/cds-snc/exploration-documentation/blob/main/images/Final_Report_EN-IRCC_Refugee_Information_Needs.pdf)
 
-[FR Report]
+[FR Report](https://github.com/cds-snc/exploration-documentation/blob/main/images/Rapport%20Final_IRCC_Besions%20des%20refugies%20en%20matiere%20de%20renseignements.pdf)
