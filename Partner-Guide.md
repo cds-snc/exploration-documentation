@@ -1,6 +1,7 @@
 _For questions about this artifact see Caitlin Tuba_
 
-### Partner Guide
+# Partner Guide
+
 ## What to expect from an Exploration
 
 Often departments approach CDS for help, but it is hard to know how we might best support you without having a better picture of the service opportunity and the delivery conditions and practices in place. By conducting an Exploration, we aim to help you take stock while building our own understanding to inform potential next steps. 
@@ -34,15 +35,15 @@ In Exploration, we dedicate a small multidisciplinary team from CDS to listen an
 
 From start to finish, Exploration takes about a month, but this can vary. 
 
-* **Week 1: **Introduction and set-up
-* **Week 2: **Discussions with stakeholders
+* **Week 1:** Introduction and set-up
+* **Week 2:** Discussions with stakeholders
 * **Week 3:** Processing and summarizing learnings
 * **Week 4:** Presenting and discussing next steps
 
 We estimate the total amount of time required from you during an exploration can vary depending on how much preparation you want to do within your department. Previous explorations have ranged in department time commitment from 18 to 36 hours.
 
 
-#### **Week 1: Introduction and set-up**
+### Week 1: Introduction and set-up
 
 Partner time commitment: 4-8 hours
 
@@ -74,7 +75,7 @@ We will also need you to collect and send as many of the following documents as 
 * Any other supporting documentation that explains who the users are, how they are impacted, and why they need help
 
 
-#### **Week 2: Discussing with stakeholders **
+### Week 2: Discussing with stakeholders 
 
 Partner time commitment: 8-16 hours (for lead of project), 2 hours for each interview participant (1 hour for kick-off meeting, 1 hour for interview)
 
@@ -94,7 +95,7 @@ The rest of the week, we’ll run a series of 1-hour meetings with key stakehold
 The daily schedule for the week might look something like this: a stakeholder chat each morning and afternoon (1hr each) . Stakeholder chats usually happen via Google Meet, Microsoft Teams, conference call or whatever technology you’re most comfortable with. 
 
 
-#### **Week 3: Processing and summarizing learnings**
+### Week 3: Processing and summarizing learnings
 
 Partner time commitment: 2-4 hours
 
@@ -102,7 +103,7 @@ We’ll take back all that we’ve learned, process the information, and summari
 
 During this week there is very minimal involvement required of the department. We may reach out with a clarifying question or two but often this is a quiet week for our partner team.
 
-#### **Week 4: Presenting and discussing next steps**
+### Week 4: Presenting and discussing next steps
 
 Partner time commitment: 4-8 hours
 
@@ -125,7 +126,7 @@ If you’re interested in proceeding with Exploration:
 
 ### Design and direction (Chat #1)
 
-_Discussion with a program specialist (executive and management). _
+_Discussion with a program specialist (executive and management)._
 
 In this conversation we want to learn more about how the program designs what they will deliver and the decision / approval processes involved in making those designs. We ask about:
 
@@ -139,14 +140,17 @@ Who might we chat with about design and direction?
 Enter information about the selected stakeholder(s)
 
 Name:
+
 Official title:
-What title/role is on their email signature or LinkedIn profile?
+- What title/role is on their email signature or LinkedIn profile?
+
 Daily role:
-Based on your understanding, what would a typical day look like to them?
+- Based on your understanding, what would a typical day look like to them?
+
 Role on the project:
-How does their role relate to the project?
-Are they directly involved with the project or do they provide support?
-How often do they work on the project?
+- How does their role relate to the project?
+- Are they directly involved with the project or do they provide support?
+- How often do they work on the project?
 
 ```
 
@@ -167,14 +171,17 @@ Who might we chat with about work methods?
 Enter information about the selected stakeholder(s)
 
 Name:
+
 Official title:
-What title/role is on their email signature or LinkedIn profile?
+- What title/role is on their email signature or LinkedIn profile?
+
 Daily role:
-Based on your understanding, what would a typical day look like to them?
+- Based on your understanding, what would a typical day look like to them?
+
 Role on the project:
-How does their role relate to the project?
-Are they directly involved with the project or do they provide support?
-How often do they work on the project?
+- How does their role relate to the project?
+- Are they directly involved with the project or do they provide support?
+- How often do they work on the project?
 ```
 
 ### Program design (Chat #3)
@@ -194,19 +201,22 @@ Who might we chat with about program design?
 Enter information about the selected stakeholder(s)
 
 Name:
+
 Official title:
-What title/role is on their email signature or LinkedIn profile?
+- What title/role is on their email signature or LinkedIn profile?
+
 Daily role:
-Based on your understanding, what would a typical day look like to them?
+- Based on your understanding, what would a typical day look like to them?
+
 Role on the project:
-How does their role relate to the project?
-Are they directly involved with the project or do they provide support?
-How often do they work on the project?
+- How does their role relate to the project?
+- Are they directly involved with the project or do they provide support?
+- How often do they work on the project?
 ```
 
 ### Policy (Chat #4)
 
-_Discussion with a** **policy specialist._
+_Discussion with a policy specialist._
 
 In this discussion, we want to learn more about the policy that governs the program or service. We ask about:
 
@@ -220,14 +230,17 @@ Who might we chat with about policy?
 Enter information about the selected stakeholder(s)
 
 Name:
+
 Official title:
-What title/role is on their email signature or LinkedIn profile?
+- What title/role is on their email signature or LinkedIn profile?
+
 Daily role:
-Based on your understanding, what would a typical day look like to them?
+- Based on your understanding, what would a typical day look like to them?
+
 Role on the project:
-How does their role relate to the project?
-Are they directly involved with the project or do they provide support?
-How often do they work on the project?
+- How does their role relate to the project?
+- Are they directly involved with the project or do they provide support?
+- How often do they work on the project?
 ```
 
 ### Privacy / ATIP (Chat #5)
@@ -247,19 +260,22 @@ Who might we chat with about Privacy policy and/or ATIP?
 Enter information about the selected stakeholder(s)
 
 Name:
+
 Official title:
-What title/role is on their email signature or LinkedIn profile?
+- What title/role is on their email signature or LinkedIn profile?
+
 Daily role:
-Based on your understanding, what would a typical day look like to them?
+- Based on your understanding, what would a typical day look like to them?
+
 Role on the project:
-How does their role relate to the project?
-Are they directly involved with the project or do they provide support?
-How often do they work on the project?
+- How does their role relate to the project?
+- Are they directly involved with the project or do they provide support?
+- How often do they work on the project?
 ```
 
 ### Legal (Chat #6)
 
-_Discussion with a** **functional specialist._
+_Discussion with a functional specialist._
 
 In this discussion we want to learn more about how the Legal team within the department works with program teams. We ask about:
 
@@ -272,14 +288,17 @@ Who might we chat with about legal?
 Enter information about the selected stakeholder(s)
 
 Name:
+
 Official title:
-What title/role is on their email signature or LinkedIn profile?
+- What title/role is on their email signature or LinkedIn profile?
+
 Daily role:
-Based on your understanding, what would a typical day look like to them?
+- Based on your understanding, what would a typical day look like to them?
+
 Role on the project:
-How does their role relate to the project?
-Are they directly involved with the project or do they provide support?
-How often do they work on the project?
+- How does their role relate to the project?
+- Are they directly involved with the project or do they provide support?
+- How often do they work on the project?
 ```
 
 ### IT (Chat #7)
@@ -299,19 +318,22 @@ Who might we chat with about IT?
 Enter information about the selected stakeholder(s)
 
 Name:
+
 Official title:
-What title/role is on their email signature or LinkedIn profile?
+- What title/role is on their email signature or LinkedIn profile?
+
 Daily role:
-Based on your understanding, what would a typical day look like to them?
+- Based on your understanding, what would a typical day look like to them?
+
 Role on the project:
-How does their role relate to the project?
-Are they directly involved with the project or do they provide support?
-How often do they work on the project?
+- How does their role relate to the project?
+- Are they directly involved with the project or do they provide support?
+- How often do they work on the project?
 ```
 
 ### Communications (Chat #8)
 
-_Discussion with a** **functional specialist._
+_Discussion with a functional specialist._
 
 In this discussion we want to learn more about how the Communication team within the department works with program teams. We ask about:
 
@@ -326,19 +348,22 @@ Who might we chat with about Communications?
 Enter information about the selected stakeholder(s)
 
 Name:
+
 Official title:
-What title/role is on their email signature or LinkedIn profile?
+- What title/role is on their email signature or LinkedIn profile?
+
 Daily role:
-Based on your understanding, what would a typical day look like to them?
+- Based on your understanding, what would a typical day look like to them?
+
 Role on the project:
-How does their role relate to the project?
-Are they directly involved with the project or do they provide support?
-How often do they work on the project?
+- How does their role relate to the project?
+- Are they directly involved with the project or do they provide support?
+- How often do they work on the project?
 ```
 
 ### IT (Chat #9)
 
-_Discussion with a** **functional specialist (leadership level)._
+_Discussion with a functional specialist (leadership level)._
 
 In this discussion we want to learn more about how the IT leadership team within the department works. We ask about:
 
@@ -353,12 +378,15 @@ Who might we chat with about IT?
 Enter information about the selected stakeholder(s)
 
 Name:
+
 Official title:
-What title/role is on their email signature or LinkedIn profile?
+- What title/role is on their email signature or LinkedIn profile?
+
 Daily role:
-Based on your understanding, what would a typical day look like to them?
+- Based on your understanding, what would a typical day look like to them?
+
 Role on the project:
-How does their role relate to the project?
-Are they directly involved with the project or do they provide support?
-How often do they work on the project?
+- How does their role relate to the project?
+- Are they directly involved with the project or do they provide support?
+- How often do they work on the project?
 ```
