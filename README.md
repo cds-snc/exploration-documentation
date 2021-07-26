@@ -5,6 +5,8 @@
 
 ## Navigation 
 
+[Exploration Partner Guide: What to expect from an Exploration](https://github.com/cds-snc/exploration-documentation/blob/main/Partner-Guide.md)
+
 [Exploration Sprint Guide: How to set up and run an Exploration](https://github.com/cds-snc/exploration-documentation/blob/main/Exploration-sprint-guide.md) 
 
 [Process Documentation: How we created and iterated on the service and the framework](https://github.com/cds-snc/exploration-documentation/blob/main/Process-documentation.md) 
