@@ -1,5 +1,5 @@
-[français](#Service-d’exploration-du-SNC) 
-[English]
+[French](#service-d'exploration-du-snc) 
+[English](#cds-exploration-service)
 
 # CDS Exploration Service 
 
@@ -21,6 +21,9 @@ This is the repository of documentation for our Exploration Service.
 Exploration is a service where we partner with departments to help them take stock of how they are delivering their current services, the extent to which that is or isn’t working, and identify opportunities to improve the service, based on digital best practices. In doing so, the Exploration service also helps CDS determine if and how we might continue to partner and help the department. For example, through consulting, an embedded service design and delivery team, or by connecting them with CDS platform services. 
 
 ---
+
+[Français](#service-d’exploration-du-SNC)
+[Anglais](#cds-exploration-service)
 
 # Service d’exploration du SNC 
 
