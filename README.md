@@ -1,4 +1,5 @@
-[French](#service-d'exploration-du-snc) 
+[French](#service-dexploration-du-snc) 
+
 [English](#cds-exploration-service)
 
 # CDS Exploration Service 
