@@ -40,15 +40,11 @@ We also adapted the structure of sprints from the [USDS Discovery Sprint](https:
 #### Primary research 
 We collected primary research from all of the delivery communities in CDS. We gathered their perspectives on what the necessary conditions for digital service delivery were, based on their experience in government partnerships. We mapped these needs to the thematic model created from secondary research, and together that became a framework for understanding how Explorations could point to making change in government.
 
-![Digital sticky notes organized on a grid with two axes. Down the left axis there's 3 rows labelled "Strategic Direction and Leadership", "Enabling Capacity" and "Enabling Delivery". Along the top axis there's 9 columns labelled "Cross-discipline", "Research", "Design", "Dev/Engineering/Security", "Partnerships", "Outreach", "Policy", "Product", and "Screening".](https://github.com/cds-snc/exploration-documentation/blob/main/images/Assessment%20Criteria%20Synthesis.png)
-
 #### Peer feedback and consultations
 In the early stages of the process we met with peers across other organizations including the Ontario Digital Service (ODS), Government Digital Service (GDS), and CodeforCanada(C4C) to gather feedback from them. We also engaged consultations from global organizations like Public Digital, and the Harvard Kennedy School. 
 
 ### 2. Develop a theory of change
 We created a [theory of change](https://trello.com/c/IXrBSPhx/1-monitoring-and-evaluation-workshop-from-merlin-chatwin-c4c-and-laura-nelson-hamilton-ods) for the service, which informed our evaluation & monitoring plan. 
-
-![Diagram made up of rectangles and arrows. The main part of the diagram starts with two boxes labelled "Activities" and "Outputs", an arrow points to the next box labelled "Reach and reaction". The boxes that follow (directed by arrows) are "Capacity changes", "Behaviour changes", "Immediate benefits", "Long-term changes". A vertical rectangle down the left side of the diagram has descriptions of what each of these things mean. On the right side of the diagram there are additional boxes that list out "Assumptions", "Supporting activities", "Possible indicators", and possible data sources for each of the afformentioned boxes.](https://github.com/cds-snc/exploration-documentation/blob/main/images/Pre-Discovery%20Theory%20of%20Change.png)
 
 ### 3. Prototype the framework and the service
 
