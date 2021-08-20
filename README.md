@@ -1,5 +1,4 @@
 [French](#service-dexploration-du-snc) 
-
 [English](#cds-exploration-service)
 
 # CDS Exploration Service 
@@ -23,7 +22,7 @@ Exploration is a service where we partner with departments to help them take sto
 
 ---
 
-[Français](#service-d’exploration-du-SNC)
+[Français](#service-dexploration-du-SNC)
 [Anglais](#cds-exploration-service)
 
 # Service d’exploration du SNC 
