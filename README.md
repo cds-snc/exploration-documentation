@@ -35,7 +35,7 @@ Exploration is a service where we partner with departments to help them take sto
 
 [Documentation de processus : Création et évolution du service et de son cadre fonctionnel](https://github.com/cds-snc/exploration-documentation/blob/main/Process-documentation.md) 
 
-[Constatations : Ce que nous avons appris](https://github.com/cds-snc/exploration-documentation/blob/main/Findings-what-we've-learned.md)
+[Constatations : Ce que nous avons appris](https://github.com/cds-snc/exploration-documentation/blob/main/Constatations%20:%20Ce%20que%20nous%20avons%20appris.md)
 
 ## À propos de ce référentiel
 Il s’agit du référentiel de documentation pour le service d’exploration du SNC. 
