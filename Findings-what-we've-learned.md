@@ -6,13 +6,13 @@ As of April 2021, we've run 4 pilot Explorations with 3 departments and 4 progra
 
 [EN Presentation](https://github.com/cds-snc/exploration-documentation/blob/main/images/TFWP_Playback.pdf)
 
-[FR Presentation]
+[FR Presentation](https://github.com/cds-snc/exploration-documentation/blob/main/images/TFWP%20Playback-fr.pdf)
 
 ## Pilot 2: NRCan Canmet 
 
 [EN Presentation](https://github.com/cds-snc/exploration-documentation/blob/main/images/CANMET_Partner_Playback_Slides.pdf)
 
-[FR Presentation]
+[FR Presentation](https://github.com/cds-snc/exploration-documentation/blob/main/images/CANMET%20Playback-fr.pdf)
 
 ## Pilot 3: NRCan Flood mapping 
 
