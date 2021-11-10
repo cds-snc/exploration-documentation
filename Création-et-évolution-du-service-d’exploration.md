@@ -1,6 +1,6 @@
 # Création et évolution du service d’exploration et de son cadre fonctionnel
 
-Pour un aperçu détaillé du fonctionnement d’une phase d’exploration, consultez notre [Guide de sprint d’exploration](https://github.com/cds-snc/exploration-documentation/blob/main/Exploration-sprint-guide.md).
+Pour un aperçu détaillé du fonctionnement d’une phase d’exploration, consultez notre [Guide de sprint d’exploration](https://github.com/cds-snc/exploration-documentation/blob/main/Guide-des-sprints-du-service-d%E2%80%99exploration.md).
 
 ## Table des matières 
 - Pourquoi le SNC mène des explorations 
