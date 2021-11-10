@@ -29,11 +29,11 @@ Exploration is a service where we partner with departments to help them take sto
 
 ## Navigation 
 
-[Guide d’exploration pour les partenaires : À quoi s’attendre d’une exploration](https://github.com/cds-snc/exploration-documentation/blob/main/fr_ca/Guide-d%E2%80%99exploration-pour-les-partenaires.md)
+[Guide d’exploration pour les partenaires : À quoi s’attendre d’une exploration](https://github.com/cds-snc/exploration-documentation/blob/main/Guide-d%E2%80%99exploration-pour-les-partenaires.md)
 
-[Guide des sprints du service d’exploration : Comment organiser et exécuter une exploration](https://github.com/cds-snc/exploration-documentation/blob/main/fr_ca/Guide-des-sprints-du-service-d%E2%80%99exploration.md) 
+[Guide des sprints du service d’exploration : Comment organiser et exécuter une exploration](https://github.com/cds-snc/exploration-documentation/blob/main/Guide-des-sprints-du-service-d%E2%80%99exploration.md) 
 
-[Documentation de processus : Création et évolution du service et de son cadre fonctionnel](https://github.com/cds-snc/exploration-documentation/blob/main/Process-documentation.md) 
+[Documentation de processus : Création et évolution du service et de son cadre fonctionnel]
 
 [Constatations : Ce que nous avons appris](https://github.com/cds-snc/exploration-documentation/blob/main/Constatations%20:%20Ce%20que%20nous%20avons%20appris.md)
 
