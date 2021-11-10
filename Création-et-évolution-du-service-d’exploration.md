@@ -107,7 +107,7 @@ La plupart des services commencent par un nouveau processus de réception des de
 
 ### Service : fonctionnement du processus
 
-Si vous voulez souhaitez découvrir le processus en profondeur, consultez notre guide [Comment organiser et exécuter une exploration](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md). 
+Si vous voulez souhaitez découvrir le processus en profondeur, consultez notre guide [Comment organiser et exécuter une exploration](https://github.com/cds-snc/exploration-documentation/blob/main/Guide-des-sprints-du-service-d%E2%80%99exploration.md). 
 
 Voici la carte du service d’exploration. 
 
@@ -156,7 +156,7 @@ Lorsque nous menons une exploration, l’équipe toute entière agit comme un gr
 
 Au départ, nous pensions que chaque exploration serait menée par une équipe différente recrutée au sein d’un bassin par alternance de parties intéressées au sein du SNC. Nous avons appris que ce modèle ne fonctionnerait pas pour un certain nombre de raisons : – En raison de problèmes de capacité, il n’était pas garanti qu’il y ait toujours des personnes disponibles au moment où nous devrions mener une exploration, ou il y avait un risque que les gens fassent face à des priorités concurrentes. Cela a créé beaucoup d’instabilité et d’incertitude, parfois jusqu’au dernier moment précédant le sprint. – Un manque de continuité dans l’équipe aurait un impact négatif sur la qualité du service pour nos partenaires – Il était important qu’au moins quelques membres de l’équipe aient déjà participé à des explorations pour pouvoir s’appuyer sur les leçons apprises quant à l’organisation du sprint et sur les points communs entre les différents ministères.
 
-Après notre premier pilote, nous avons essayé de travailler avec une seule équipe qui se chargerait à la fois d’améliorer le service et de le fournir. Nous menions un sprint d’exploration de 4 semaines, puis apportions nos modifications sur 1 à 2 sprints avant de mener l’exploration suivante. L’équipe était dirigée par notre gestionnaire de projet durant l’itération et par notre responsable de sprint durant le sprint d’exploration. Pour en savoir plus sur les compétences réunies au sein de notre équipe, consultez la partie « Former une équipe de sprint d’exploration dédiée » de notre [guide de sprint](https://github.com/cds-snc/exploration-documentation/blob/main/ExplorationSprintGuide.md). 
+Après notre premier pilote, nous avons essayé de travailler avec une seule équipe qui se chargerait à la fois d’améliorer le service et de le fournir. Nous menions un sprint d’exploration de 4 semaines, puis apportions nos modifications sur 1 à 2 sprints avant de mener l’exploration suivante. L’équipe était dirigée par notre gestionnaire de projet durant l’itération et par notre responsable de sprint durant le sprint d’exploration. Pour en savoir plus sur les compétences réunies au sein de notre équipe, consultez la partie « Former une équipe de sprint d’exploration dédiée » de notre [guide de sprint](https://github.com/cds-snc/exploration-documentation/blob/main/Guide-des-sprints-du-service-d%E2%80%99exploration.md). 
 
 Désormais, le service d’exploration fera partie de notre service de conseil. Le modèle d’équipe continuera donc probablement de changer au fur et à mesure que nous en apprendrons sur les meilleures méthodes d’exploration.
 
