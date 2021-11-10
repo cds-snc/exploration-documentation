@@ -6,13 +6,13 @@ En date d’avril 2021, nous avons mené 4 explorations pilotes auprès de 3 min
 
 [Présentation en anglais](https://github.com/cds-snc/exploration-documentation/blob/main/images/TFWP_Playback.pdf)
 
-Présentation en français
+[Présentation en français](https://github.com/cds-snc/exploration-documentation/blob/main/images/TFWP%20Playback-fr.pdf)
 
 ## Pilote 2 : Canmet (RNCan) 
 
 [Présentation en anglais](https://github.com/cds-snc/exploration-documentation/blob/main/images/CANMET_Partner_Playback_Slides.pdf)
 
-Présentation en français
+[Présentation en français](https://github.com/cds-snc/exploration-documentation/blob/main/images/CANMET%20Playback-fr.pdf)
 
 ## Pilote 3 : Cartographie des zones inondables (RNCan) 
 
